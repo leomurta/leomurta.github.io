@@ -1,0 +1,30 @@
+---
+title: Current
+in_menu: true
+sort_info: 1
+---
+
+<style>
+li {
+	width: 350px;
+	height: 120px;
+	display: inline-block;
+}
+</style>
+
+## PhD Students
+
+* |![Picture](pictures/FelipeCurtydoRegoPinto.jpg)|[Felipe Curty do Rego Pinto](http://felipecrp.github.io)<br/>March, 2018<br/>BNDES
+* |![Picture](pictures/HelenodeSouzaCamposJunior.png)|[Heleno de Souza Campos Junior](http://heleno.info)<br/>March, 2019<br>CAPES Scholarship
+* |![Picture](pictures/PauloAugustoNevesdeCarvalhoElias.jpg)|Paulo Augusto Neves de Carvalho Elias<br/>August, 2019<br/>Brazilian Navy
+* |![Picture](pictures/ClaytonEscouperdasChagas.jpg)|Clayton Escouper das Chagas<br/>August, 2020<br/>Brazilian Army
+* |![Picture](pictures/CamilaAcaciodePaiva.jpg)|Camila Acácio de Paiva<br/>March, 2021<br/>CNPq Scholarship ([PrimeUp](http://www.primeup.com.br) partnership)
+* |![Picture](pictures/AndreLuciodeOliveira.jpg)|André Lúcio de Oliveira<br/>March, 2021<br/>SERPRO
+
+## MS Students
+
+* |![Picture](pictures/RaquelMaximinodeBarrosSantos.jpg)|Raquel Maximino de Barros Santos<br/>August, 2020<br/>Brazilian Navy
+
+## Undergrad Students
+
+* |![Picture](pictures/FredericoGomesdePaiva.png)|Frederico Gomes de Paiva<br/>February, 2022<br/>CNPq Scholarship
