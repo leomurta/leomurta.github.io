@@ -1,0 +1,10 @@
+--- paths
+[/**/*.pdf, /**/*.zip, /.htaccess]:
+  handler: copy
+
+--- alcn
+people/:
+  title: People
+  proxy_path: current.html
+  in_menu: true
+  sort_info: 3
