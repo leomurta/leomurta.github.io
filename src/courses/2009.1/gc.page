@@ -1,0 +1,341 @@
+---
+title: Gerência de Configuração
+in_menu: true
+sort_info: 2
+---
+## Gerência de Configuração
+
+### Logística
+
+Disciplina: Gerência de Configuração
+
+Data: terças e quintas, de 9:00 às 11:00
+
+Sala: terças na 234 (bloco D) e quintas na 501 (bloco E)
+
+Lista: <http://groups.google.com/group/uff-gc-2009-1> (importante: todos os alunos devem se cadastrar nessa lista, informando matrícula e nome completo)
+
+### Avaliação
+
+Média = (Avaliação1 + Avaliação2) / 2
+
+Avaliação1 = (4 x Prova + Resumos) / 5
+
+Avaliação2 = (Participação + Seminários + 3 x Trabalho) / 5
+
+**APROVADO**
+
+Presença >= 75% E Média >= 6
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+Presença >= 75% E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Presença < 75% OU Média < 4
+
+### Grupos
+
+As atividades da Avaliação2 serão feitas individualmente para alunos de doutorado e em dupla para alunos de mestrado e de graduação, que devem ser constituídas na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: GC - Grupo) o número da matrícula, nome completo e o e-mail de cada participante do grupo.
+
+Atenção: em função do número de alunos inscritos, outra configuração de grupos pode ser adotada (e.g., individualmente para alunos de pós-graduação e grupos de 2 para alunos de graduação) para viabilizar um número mínimo de grupos. Consulte o professor a partir da segunda semana de aulas para saber qual é a configuração adotada.
+
+### Participação
+
+Uma das aulas da semana (ver seção Cronograma) consistirá na apresentação dos artigos lidos na semana, seguida de discussões sobre os artigos. Essa apresentação será feita por grupos definidos na semana anterior (cada grupo apresentará um artigo distinto). Além disso, outros grupos, também definidos na semana anterior, ficarão encarregados de defender ou criticar o artigo. A participação nessas atividades será considerada na composição da Avaliação2 (item Participação).
+
+### Resumos
+
+Um cronograma de leituras de artigos é indicado para viabilizar a consolidação dos conhecimentos referentes à matéria. É importante notar que o conteúdo das aulas teóricas, apesar de ser alinhado com as leituras, não as substitui. Por outro lado, não basta fazer as leituras, pois usualmente as aulas teóricas são complementares ao que é apresentado nos artigos.
+
+Para cada artigo lido, deve ser feito um resumo individual. Os resumos devem ser sucintos, não passando de 1 página A4 (fonte 12, margem de 2 cm), contendo o nome do artigo, o nome do aluno e o resumo em si. O resumo deve focar no que realmente interessa no artigo e ter princípio, meio e fim (evitar o uso de bullets). Encerre o resumo com 1 parágrafo que emita a sua opinião sobre o artigo (tenha uma visão crítica e identifique os pontos positivos e negativos do artigo).
+
+Cada resumo será pontuado como Entregue (10) ou Não Entregue (0), respeitando a data estipulada (ver seção Cronograma). Os resumos serão lidos por amostragem e os principais problemas detectados serão discutidos com a turma na aula apropriada para apresentação dos artigos, sem revelar os resumos que foram lidos. Essa atividade irá compor a Avaliação2 (item Resumos).
+
+**1ª leitura: Introdução**
+
+Dart, S. Concepts in Configuration Management Systems. International Workshop on Software Configuration Management (SCM). Trondheim, Norway: ACM Press. June, 1991. 1-18 p.
+
+Estublier, J. Software Configuration Management: a Roadmap. International Conference on Software Engineering (ICSE), The Future of Software Engineering. Limerick, Ireland. June, 2000. 279-289 p.
+
+**2ª leitura: Versionamento**
+
+Conradi, R. and Westfechtel, B. Version Models for Software Configuration Management. ACM Computing Surveys, v.30, n.2, June, p.232-282. 1998.
+
+**3ª leitura: Algoritmos de diff e merge**
+
+Mens, T. A State-of-the-Art Survey on Software Merging. IEEE Trans. Softw. Eng., v.28, n.5, p.449-462. 2002.
+
+(opcional) Hunt, J. and McIlroy, M. An algorithm for differential file comparison. Compt. Sci. Techn. Rep. 41, Bell Telephone Labs, Murray Hill, N.J., Aug. 1976.
+
+**4ª leitura: Estratégias de Ramificação**
+
+Berczuk, S. Pragmatic Software Configuration Management. IEEE Softw., v.20, n.2, p.15-17. 2003.
+
+Walrad, C. and Strom, D. The Importance of Branching Models in SCM. IEEE Computer, v.35, n.9, September, p.31-38  2002.
+
+**5ª leitura: Planejamento e Implantação / Manutenção e Evolução**
+
+IEEE Std 828 - IEEE Standard for Software Configuration Management Plans, Institute of Electrical and Electronics Engineers, 2005.
+
+(opcional) Boehm, B. e Basili V. Software Defect Reduction Top 10 List. Computer, v.34, n.1, p.135-137. 2001.
+
+**6ª leitura: Planejamento e Implantação / Manutenção e Evolução**
+
+Capítulo 7 de SOFTEX MPS.BR - Guia de Implementação - Parte 2: Nível F (Versão 1.1), Associação para Promoção da Excelência do Software Brasileiro, 2007.
+
+(opcional) Bennett, K. H. and Rajlich, V. T. Software maintenance and evolution: a roadmap. International Conference on Software Engineering (ICSE), The Future of Software Engineering. Limerick, Ireland: ACM Press, 2000. 73-87 p.
+
+**7ª leitura: Pesquisa x Prática**
+
+Estublier, J., Leblang, D., et al. Impact of Software Engineering Research on the Practice of Software Configuration Management. ACM Transactions on Software Engineering and Methodology (TOSEM), v.14, n.4, October, p.1-48. 2005.
+
+**8ª leitura: Aplicações  Análise de repositórios**
+
+Ball, T., Kim, J., et al. If Your Version Control System Could Talk. Workshop on Process Modelling and Empirical Studies of Software Engineering. Boston, MA, USA. May, 1997. p.
+
+(opcional) Storey, M. D., Cubranic, D., et al. On the use of visualization to support awareness of human activities in software development: a survey and a framework. ACM Symposium on Software Visualization (SoftVis). St. Louis, Missouri, USA. May, 2005. 193-202 p.
+
+**9ª leitura: Aplicações  Processos modernos de desenvolvimento**
+
+Asklund, U., Bendix, L. and Ekman, T. Software Configuration Management Practices for eXtreme Programming Teams. 11th Nordic Workshop on Programming and Software Development Tools and Techniques, 2004.
+
+(opcional) Asklund, U. and Bendix.,  L. A study of configuration management in open source software projects. IEE Proceedings - Software, v.149, n.1, February, p.40-46. 2002.
+
+**10ª leitura: Aplicações  Representações modernas de software**
+
+Murta, L. G. P., Oliveira,  H. L. R., et al. Odyssey-SCM: An integrated software configuration management infrastructure for UML models. Science of Computer Programming, v.65, n.3, April 1, p.249-274. 2007.
+
+(opcional) Garg, A., Critchlow, M., et al. An Environment for Managing Evolving Product Line Architectures. International Conference on Software Maintenance (ICSM). Amsterdam, Netherlands. September, 2003. 358-367 p.
+
+### Trabalho
+
+Cada grupo deve, durante o andamento do curso, mas preferencialmente no primeiro mês de aula, escolher o tema do seu trabalho. Esse trabalho pode ser a aplicação de gerência de configuração em alguma área, o uso de alguma técnica para apoiar a gerência de configuração, ou um estudo de técnicas avançadas de gerência de configuração. O tema do trabalho deve ser negociado com o professor antes do seu início.
+
+Como resultado, espera-se a escrita de um artigo de 10 a 15 páginas no formato da SBC, apresentando a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos e considerações finais. Para trabalhos que tenham implementação, será menor a exigência sobre a análise de trabalhos relacionados. Por outro lado, espera-se que sejam fornecidos exemplos de utilização do protótipo implementado. Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Em princípio, esses artigos resultantes do trabalho serão utilizados somente para avaliação na disciplina, mas podem ser posteriormente aprimorados para submissão a fóruns científicos, caso seja de interesse do aluno e do professor. O trabalho deve ser entregue na data estipulada (ver seção Cronograma) para compor a Avaliação2 (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Seminários
+
+Durante o último mês de curso, as aulas serão utilizadas para a apresentação dos trabalhos (ver seção Cronograma). Inicialmente, haverá apresentações onde é esperado que cada grupo discuta brevemente como está o andamento do trabalho. O grupo poderá utilizar slides e quadro. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento.
+
+Posteriormente, haverá uma apresentação final onde os grupos devem mostrar os resultados obtidos no trabalho. Vale notar que nesse momento os trabalhos já foram entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Essas apresentações serão consideradas na composição da Avaliação2 (item Seminários).
+
+### Presença
+
+De acordo com o Regulamento dos Cursos de Graduação, a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+### Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o Regulamento dos Cursos de Graduação, não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros e artigos. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. As referências dos artigos utilizados estão listadas na seção Resumos.
+
+Anne Hass, Configuration Management Principles and Practices, Boston, MA, Pearson Education, Inc.
+
+Alexis Leon, Software Configuration Management Handbook, 2nd Edition, Artech House Publishers, 2004.
+
+Roger S. Pressman, Software Engineering  A Practitioners Approach, 4ª edição, McGraw-Hill, 1997.
+
+Brian A. White, Software Configuration Management Strategies and Rational ClearCase  A Practical Introduction, Addison-Wesley, 2000.
+
+### Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+		<td>10/3/2009</td>
+		<td>Aula - <a href="../gc/aula1-2009-1.pdf">Apresentação do curso</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>12/3/2009</td>
+		<td>Aula - <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1504674">Leitura e resumo de artigo</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>17/3/2009</td>
+		<td>Aula - <a href="../gc/aula1-2009-1.pdf">Apresentação do curso</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>19/3/2009</td>
+		<td>Aula - <a href="../gc/aula2.pdf">Introdução à GC</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>24/3/2009</td>
+		<td>Apresentação de Artigos - Grupos 2 e 4</td>
+		<td>Resumo da 1ª leitura</td>
+	</tr>
+	<tr>
+		<td>26/3/2009</td>
+		<td>Aula - <a href="../gc/aula3.pdf">Terminologia</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>31/3/2009</td>
+		<td>Apresentação de Artigos - Grupos 1 e 5</td>
+		<td>Resumo da 2ª leitura</td>
+	</tr>
+	<tr>
+		<td>2/4/2009</td>
+		<td>Aula - <a href="../gc/aula3.pdf">Terminologia</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>7/4/2009</td>
+		<td>Apresentação de Artigos - Grupo 2 e Aula - diff/LCS</td>
+		<td>Resumo da 3ª leitura</td>
+	</tr>
+	<tr>
+		<td>9/4/2009</td>
+		<td>Sem atividade (Semana Santa)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>14/4/2009</td>
+		<td>Apresentação de Artigos - Grupos 2 e 3 e Aula - <a href="../gc/aula3.pdf">Terminologia</a></td>
+		<td>Resumo da 4ª leitura</td>
+	</tr>
+	<tr>
+		<td>16/4/2009</td>
+		<td>Sem atividade - (Banca de Concurso na UFJF)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>21/4/2009</td>
+		<td>Sem atividade (Tiradentes)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>23/4/2009</td>
+		<td>Sem atividade (São Jorge)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>28/4/2009</td>
+		<td>Aula - <a href="../gc/aula3.pdf">Terminologia</a> e Aula - <a href="../gc/aula4.pdf">Ramificação</a></td>
+		<td>Resumo da 5ª leitura</td>
+	</tr>
+	<tr>
+		<td>30/4/2009</td>
+		<td>Apresentação de Artigos - Grupo 4 e Aula - <a href="../gc/aula4.pdf">Ramificação</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>5/5/2009</td>
+		<td>Aula - <a href="../gc/aula4.pdf">Ramificação</a></td>
+		<td>Resumo da 6ª leitura</td>
+	</tr>
+	<tr>
+		<td>7/5/2009</td>
+		<td>Apresentação de Artigos - Grupo 3</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>12/5/2009</td>
+		<td>Aula - <a href="../gc/aula4a.pdf">Planejamento</a></td>
+		<td>Resumo da 7ª leitura</td>
+	</tr>
+	<tr>
+		<td>14/5/2009</td>
+		<td>Aula - <a href="../gc/aula4a.pdf">Planejamento</a> e <a href="../gc/aula5.pdf">Funções</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>19/5/2009</td>
+		<td>Apresentação de Artigos - Grupo 6 e Aula - <a href="../gc/aula5.pdf">Funções</a></td>
+		<td>Resumo da 8ª leitura</td>
+	</tr>
+	<tr>
+		<td>21/5/2009</td>
+		<td>Apresentação de Artigos - Grupo 5 e Aula - <a href="../gc/aula5.pdf">Funções</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>26/5/2009</td>
+		<td>Aula - <a href="../gc/aula5.pdf">Funções</a> e <a href="../gc/aula7.pdf">Processos e Ferramentas</a></td>
+		<td>Resumo da 9ª leitura</td>
+	</tr>
+	<tr>
+		<td>28/5/2009</td>
+		<td>Apresentação de Artigos - Grupo 3 e Aula - <a href="../gc/aula7.pdf">Processos e Ferramentas</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2/6/2009</td>
+		<td>Sem atividade (<a href="http://www.sbqs2009.ufop.br">SBQS</a>)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>4/6/2009</td>
+		<td>Sem atividade (<a href="http://www.sbqs2009.ufop.br">SBQS</a>)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>9/6/2009</td>
+		<td>Apresentação de Artigos - Grupos 1 e 5 e Aula - <a href="../gc/aula8.pdf">Subversion</a></td>
+		<td>Resumo da 10ª leitura</td>
+	</tr>
+	<tr>
+		<td>11/6/2009</td>
+		<td>Sem atividade (Corpus Christi)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>16/6/2009</td>
+		<td>Prova</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>18/6/2009</td>
+		<td>Seminários (1ª rodada) - Grupos 1, 2 e 3</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>23/6/2009</td>
+		<td>Seminários (1ª rodada) - Grupos 4, 5 e 6</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>25/6/2009</td>
+		<td>Seminários (2ª rodada) - Grupos 1, 2 e 3</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>30/6/2009</td>
+		<td>Seminários (2ª rodada) - Grupos 4, 5 e 6</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2/7/2009</td>
+		<td>Seminários (rodada final) - Grupos 1, 2 e 3</td>
+		<td>Trabalho</td>
+	</tr>
+	<tr>
+		<td>7/7/2009</td>
+		<td>Seminários (rodada final) - Grupos 4, 5 e 6</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>9/7/2009</td>
+		<td>Sem atividade</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>14/7/2009</td>
+		<td>Verificação Suplementar</td>
+		<td></td>
+	</tr>
+</table>

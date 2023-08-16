@@ -1,0 +1,324 @@
+---
+title: Gerência de Configuração
+in_menu: true
+sort_info: 1
+---
+## Gerência de Configuração
+
+### Logística
+
+Disciplina: Gerência de Configuração
+
+Data: quartas e sextas, de 7h às 9h
+
+Local: sala 402 do bloco H (UFASA)
+
+Lista: <http://groups.google.com/group/uff-gc-2012-1> (importante: todos os alunos **devem** se cadastrar nesta lista)
+
+### Avaliação
+
+Média = (Avaliação1 + Avaliação2) / 2
+
+Avaliação1 = (4 x Provas + Avaliação de Artigos) / 5
+
+Avaliação2 = (Participação + Resumos + Seminários + 2 x Trabalho) / 5
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Aluno de Graduação) E (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Grupos
+
+As atividades da Avaliação2 serão feitas individualmente para alunos de doutorado e em dupla para alunos de mestrado e em trio para alunos de graduação, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: GC - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+### Participação
+
+Um cronograma de leituras de artigos é indicado para viabilizar a consolidação dos conhecimentos referentes à matéria. É importante notar que o conteúdo das aulas teóricas, apesar de ser alinhado com as leituras, não as substitui. Por outro lado, não basta fazer as leituras, pois usualmente as aulas teóricas são complementares ao que é apresentado nos artigos.
+
+Uma das aulas da semana (ver seção Cronograma) consiste na apresentação dos artigos lidos na semana, seguida de discussões sobre os artigos. Essa apresentação será feita por grupos previamente definidos (cada artigo será apresentado por um grupo distinto - reserve o quanto antes os seus por e-mail). Além disso, os demais grupos ficarão encarregados de defender ou criticar o artigo. Cada apresentação deve ter duração de 30 minutos. A participação nessas atividades será considerada na composição da Avaliação2 (item Participação).
+
+Os artigos estão disponíveis em formato pdf no [Google Docs](https://docs.google.com/leaf?id=0B5wo5KD80_6gYzQ3YmQyODQtZDJjOC00YjA5LWFmZWMtOTc0MDFmOWVjYTg3&hl=en>) para os alunos já cadastrados na lista.
+
+**1ª leitura: introdução**
+
+> \[Grupo 4\] Estublier, J. Software Configuration Management: a Roadmap. International Conference on Software Engineering (ICSE), The Future of Software Engineering. Limerick, Ireland. June, 2000. 279-289 p.
+
+**2ª leitura: sistemas de controle de versões**
+
+> \[Grupo 2\] Spinellis, D. Version Control Systems. IEEE Software, v.22, n.6, November, p.106-110. 2005
+
+> \[Grupo 1\] O'Sullivan, B. Making sense of revision-control systems. Communications of the ACM, v.52, n.9, p.56-62. 2009.
+
+**3ª leitura: versionamento**
+
+> \[Grupos 7 e 8\] Conradi, R. and Westfechtel, B. Version Models for Software Configuration Management. ACM Computing Surveys, v.30, n.2, June, p.232-282. 1998.
+
+**4ª leitura: controle de concorência**
+
+> \[Grupo 1\] Prudêncio, J. G., Murta, L. G. P., Werner, C. M. L., Cepeda, R. S. V. To lock, or not to lock: That is the question. Journal of Systems and Software, v.85, n.2, February, p.277289. 2012. 
+
+> \[Grupo 3\] Mens, T. A State-of-the-Art Survey on Software Merging. IEEE Trans. Softw. Eng., v.28, n.5, p.449-462. 2002.
+
+**5ª leitura: estratégias de ramificação**
+
+> \[Grupos 2 e 6\] Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R. Streamed Lines: Branching Patterns for Parallel Software Development. PLoP 1998.
+
+**6ª leitura: Normas**
+
+> \[Grupo 4\] Capítulo 7 de SOFTEX MPS.BR - Guia de Implementação - Parte 2: Nível F (Versão 1.1), Associação para Promoção da Excelência do Software Brasileiro, 2007.
+
+> \[Grupo 6\] IEEE Std 1042 - IEEE Guide to Software Configuration Management, Institute of Electrical and Electronics Engineers, 1987.
+
+**7ª leitura: Pesquisa x Prática**
+
+> \[Grupo 7 e 9\] Estublier, J., Leblang, D., et al. Impact of Software Engineering Research on the Practice of Software Configuration Management. ACM Transactions on Software Engineering and Methodology (TOSEM), v.14, n.4, October, p.1-48. 2005.
+
+**8ª leitura: Aplicações  Análise de repositórios**
+
+> \[Grupo 5\] Zimmermann, T., Weisgerber, P., Diehl, S., Zeller, A. Mining Version Histories to Guide Software Changes. International Conference on Software Engineering (ICSE), p.563-572. 2004.
+
+> \[Grupo 3\] Storey, M. D., Cubranic, D., et al. On the use of visualization to support awareness of human activities in software development: a survey and a framework. ACM Symposium on Software Visualization (SoftVis), p.193-202. 2005. 
+
+**9ª leitura: Aplicações  Representações modernas de software**
+
+> \[Grupo 8\] Garg, A., Critchlow, M., et al. An Environment for Managing Evolving Product Line Architectures. International Conference on Software Maintenance (ICSM). Amsterdam, Netherlands. September, 2003. 358-367 p.
+
+> \[Grupo 5\] Murta, L. G. P., Oliveira,  H. L. R., et al. Odyssey-SCM: An integrated software configuration management infrastructure for UML models. Science of Computer Programming, v.65, n.3, April 1, p.249-274. 2007.
+
+### Resumos
+
+Para cada artigo lido, deve ser feito um resumo. Os resumos devem ser sucintos, não passando de 1 página A4 (fonte 12, margem de 2 cm), contendo o nome do artigo, o nome dos alunos e o resumo em si. O resumo deve focar no que realmente interessa no artigo e ter princípio, meio e fim (evitar o uso de bullets). Encerre o resumo com 1 parágrafo que emita a sua opinião sobre o artigo (tenha uma visão crítica e identifique os pontos positivos e negativos do artigo). Essa atividade irá compor a Avaliação2 (item Resumos).
+
+Obs.: atraso na entrega dos Resumos terá uma multa de um ponto por dia.
+
+### Trabalho
+
+Cada grupo deve, durante as primeiras semanas de aula, escolher o tema do seu trabalho. Esse trabalho pode ser a aplicação de gerência de configuração em alguma área, o uso de alguma técnica para apoiar a gerência de configuração, ou um estudo de técnicas avançadas de gerência de configuração. O tema do trabalho deve ser negociado com o professor antes do seu início.
+
+Como resultado, espera-se a escrita de um artigo de 8 a 10 páginas no [formato da SBC](http://www.sbc.org.br/index.php?option=com_jdownloads&Itemid=195&task=view.download&catid=32&cid=38), apresentando a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos e considerações finais. Para trabalhos que tenham implementação (o que é fortemente indicado), será menor a exigência sobre a análise de trabalhos relacionados. Por outro lado, espera-se que sejam fornecidos exemplos de utilização do protótipo implementado. Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Em princípio, esses artigos resultantes do trabalho serão utilizados somente para avaliação na disciplina, mas podem ser posteriormente aprimorados para submissão a fóruns científicos, caso seja de interesse do aluno e do professor. O trabalho deve ser entregue na data estipulada (ver seção Cronograma) para compor a Avaliação2 (item Trabalho).
+
+A entrega será feita através da submissão do artigo para a mini-conferência da disciplina, usando um software de controle de conferências real, o [EasyChair](http://www.easychair.org). Para submeter seu artigo, [clique aqui](https://www.easychair.org/conferences/?conf=uffgc20121). 
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Avaliação de Artigos
+
+Na disciplina, simularemos uma conferência real, onde autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e consequentemente receberão artigos dos colegas para avaliar. As avaliações serão consideradas na composição da Avaliação1 (item Avaliação de Artigos) do aluno que fez a avaliação, mas não serão consideradas na nota do grupo que submeteu o artigo. Assim, as avaliações devem ser tecnicamente profundas, sem preocupação em prejudicar a nota do colega. 
+
+Para avaliar os artigos que foram atribuídos a você, [clique aqui](https://www.easychair.org/conferences/?conf=uffgc20121). No menu, escolha uff-gc-2012-1, e depois em Change Role. Escolha agora o papel de avaliador ao invés de autor. Depois, acesse o menu Reviews, e clique em My Papers. Lá aparecerão os artigos que foram atribuídos para você avaliar. 
+
+### Seminários
+
+Durante o curso foram reservados três momentos para a apresentação de trabalhos (ver seção Cronograma). O grupo poderá utilizar slides e quadro e cada apresentação deve durar 20 minutos. Na primeira apresentação é esperado que o grupo discuta o contexto do trabalho e a metodologia a ser adotada na execução do mesmo. Na segunda apresentação, é esperado que o grupo discuta como está o andamento do trabalho. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento.
+
+Posteriormente, haverá uma apresentação final onde os grupos devem mostrar os resultados obtidos no trabalho. Vale notar que nesse momento os trabalhos já foram entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Essas apresentações serão consideradas na composição da Avaliação2 (item Seminários).
+
+### Presença
+
+De acordo com o [Regulamento](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+### Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros e artigos. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. As referências dos artigos utilizados estão listadas na seção Resumos.
+
+Anne Hass, Configuration Management Principles and Practices, Boston, MA, Pearson Education, Inc.
+
+Alexis Leon, Software Configuration Management Handbook, 2nd Edition, Artech House Publishers, 2004.
+
+Roger S. Pressman, Software Engineering  A Practitioners Approach, 4ª edição, McGraw-Hill, 1997.
+
+Brian A. White, Software Configuration Management Strategies and Rational ClearCase  A Practical Introduction, Addison-Wesley, 2000.
+
+### Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>14/03/2012</td>
+	  <td>Aula - <a href="../gc/aula1-2012-1.pdf">Apresentação do Curso</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/03/2012</td>
+	  <td>Aula - <a href="../gc/aula2.pdf">Introdução à GC</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/03/2012</td>	  
+	  <td>Apresentação de Artigos (1a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>23/03/2012</td>	  
+	  <td>Aula - <a href="../gc/aula3.pdf">Terminologia</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/03/2012</td>	  
+	  <td>Apresentação de Artigos (2a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>30/03/2012</td>	  
+	  <td>Sem aula (prédio fechado devido a greve dos rodoviários)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/04/2012</td>
+	  <td>Apresentação de Artigos (3a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>06/04/2012</td>	  
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Semana Santa</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/04/2012</td>
+	  <td>Seminários (1a. rodada) - Grupos 1, 2, 4, 7 e 8</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/04/2012</td>
+	  <td>Seminários (1a. rodada) - Grupos 3, 5, 6 e 9 + Prova</td> 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/04/2012</td>
+	  <td>Sem aula (intercâmbio científico na <a href="http://www.uci.edu">UC Irvine</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>20/04/2012</td>
+	  <td>Sem aula (intercâmbio científico na <a href="http://www.uci.edu">UC Irvine</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/04/2012</td>
+	  <td>Apresentação de Artigos (4a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>27/04/2012</td>
+	  <td>Aula - <a href="../gc/aula3.pdf">Terminologia</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/05/2012</td>
+	  <td>Apresentação de Artigos (5a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>04/05/2012</td>
+	  <td>Aula - <a href="../gc/aula3.pdf">Terminologia</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/05/2012</td>
+	  <td>Apresentação de Artigos (6a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>11/05/2012</td>	  
+	  <td>Aula - <a href="../gc/aula3.pdf">Terminologia</a></td>
+	  <td></td>	  
+	</tr>
+	<tr>
+	  <td>16/05/2012</td>
+	  <td>Apresentação de Artigos (7a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>18/05/2012</td>
+	  <td>Aula - <a href="../gc/aula4.pdf">Ramificação</a> + Prova</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/05/2012</td>
+	  <td>Apresentação de Artigos (8a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>25/05/2012</td>
+	  <td>Aula - <a href="../gc/aula5.pdf">Funções</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/05/2012</td>
+	  <td>Sem aula (curso na <a href="http://www.ufac.br">UFAC</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/06/2012</td>
+	  <td>Sem aula (curso na <a href="http://www.ufac.br">UFAC</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>06/06/2012</td>
+	  <td>Apresentação de Artigos (9a. leitura)</td>
+	  <td>Resumos</td>
+	</tr>
+	<tr>
+	  <td>08/06/2012</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Corpus Christi</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/06/2012</td>
+	  <td>Sem aula (<a href="http://www.sbqs2012.com.br">SBQS</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>15/06/2012</td>
+	  <td>Aula - <a href="../gc/aula5.pdf">Funções</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>20/06/2012</td>
+	  <td>Sem aula</td>
+	  <td>Trabalho (submetido via <a href="https://www.easychair.org/conferences/?conf=uffgc20121">EasyChair</a>)</td>
+	</tr>
+	<tr>
+	  <td>22/06/2012</td>
+	  <td>Seminários (rodada final) - Grupos 3, 5, 6 e 9</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>27/06/2012</td>
+	  <td>Seminários (rodada final) - Grupos 1, 2, 4, 7 e 8</td>
+	  <td>Avaliações (submetidas via <a href="https://www.easychair.org/conferences/?conf=uffgc20121">EasyChair</a>)</td>
+	</tr>
+	<tr>
+	  <td>29/06/2012</td>
+	  <td>Prova</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/07/2012</td>
+	  <td>Vista de Avaliação (Bloco E, sala 304)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>06/07/2012</td>	
+	  <td>Verificação Suplementar</td>
+	  <td></td>
+	</tr>
+</table>

@@ -1,0 +1,107 @@
+---
+title: Programação de Computadores
+in_menu: true
+sort_info: 1
+---
+## Programação de Computadores
+
+### Logística
+
+Disciplina: TCC00326 - Programação de Computadores (turma O1).  
+Data: terças e quintas, de 14:00 às 16:00 (veja o cronograma no final desta página).  
+Sala: [Google Meet](https://meet.google.com/) informado no [Google Classroom](https://classroom.google.com/).  
+
+Todos os alunos **devem** estar inscritos na nossa sala de aula virtual do [Google Classroom](https://classroom.google.com/). Caso você não esteja inscrito, entre em contato comigo.
+
+### Ementa
+
+* Conceitos básicos de programação: algoritmos e estruturas de dados.
+* Comandos e estruturas de controle.
+* Sub-programação.
+* Metodologia de desenvolvimento de programação ou subprograma.
+
+### Dinâmica do curso
+
+A dinâmica adotada para este curso é conhecida como [Aula Invertida](https://pt.wikipedia.org/wiki/Aula_Invertida), onde os alunos assistem a aulas assíncronas (i.e., gravadas), no horário que for mais conveniente para eles, e as aulas síncronas (i.e., ao vivo) ocorrem com o objetivo de tirar dúvidas. Essa dinâmica está alinhada com a recomendação da Resolução 160/2020 e da Instrução de Serviço 15/2020, de ter até 30% de atividades síncronas e as demais assíncronas.
+
+As aulas assíncronas serão disponibilizadas em vídeo no [Google Classroom](https://classroom.google.com/). Os alunos devem assistir as aulas segundo o cronograma apresentado no final desta página e fazer os exercícios propostos no final de cada aula.
+
+Além das aulas assíncronas, reservamos as quinta-feiras, das 14h às 15h, para aulas síncronas, visando tirar dúvidas dos alunos. Essas aulas síncronas serão via [Google Meet](https://meet.google.com/) informado no [Google Classroom](https://classroom.google.com/). É importante que os alunos assistam a aula da semana e façam os exercícios propostos nos slides antes da aula síncrona daquela semana, já que o propósito dessas aulas síncronas é tirar dúvidas. Além disso, os alunos que preferirem podem ainda postar as suas dúvidas no [Google Classroom](https://classroom.google.com/) para serem respondidas assincronamente.
+
+### Avaliação
+
+Adotaremos avaliação continuada do aprendizado. A cada semana ou quinzena, teremos avaliações que contarão pontos para compor a nota final do aluno. Essas avaliações podem ser dos seguintes tipos:
+
+* Programa avaliado por execução: nesse tipo de avaliação são passados problemas no [run.codes](https://run.codes) onde o aluno deve escrever um código. Esse código é testado automaticamente. A pontuação é atribuída automaticamente, avaliando somente a capacidade do código em gerar respostas esperadas.
+* Programa avaliado por inspeção: nesse tipo de avaliação são passados problemas de programação, semelhantes aos do tipo anterior de avaliação. Contudo, a correção é via inspeção de código e a pontuação levará em conta não somente a corretude do programa, mas também o bom uso de práticas de programação.
+* Múltipla escolha: nesse tipo de avaliação, são apresentadas questões teóricas e práticas aos alunos, e eles devem escolher a resposta mais apropriada.
+
+Essas avaliações são assíncronas e individuais. Sendo assim, os alunos terão um prazo de ao menos 24 horas para entregar as suas respostas. É muito importante que os alunos sejam honestos para responder utilizando somente os seus conhecimentos, sem copiar informações externas ou consultar outras pessoas. Para todos esses tipos de avaliação serão utilizados mecanismos de detecção de plágio, tanto entre as respostas dos alunos quanto em relação a Internet.
+
+A nota final dos alunos será calculada via média aritmética simples das notas obtidas em cada uma das avaliações. O resultado final será o seguinte:
+
+* Aprovado, se *nota final* ≥ 6.
+* Em verificação suplementar, se 4 ≤ *nota final* < 6.
+* Reprovado, se *nota final* < 4.
+
+Será aprovado na verificação suplementar se a nota for maior ou igual a 6.
+
+### Gravação
+
+Em aderência à Resolução 160/2020 e à Instrução de Serviço 15/2020, as aulas síncronas serão gravadas e disponibilizadas para os alunos do curso, visando permitir que quem não pôde assistir de forma síncrona tenha acesso ao que foi apresentado e discutido. Além disso, esse material pode ser utilizado pelos demais alunos durante seus estudos durante o curso. Caso algum aluno não queria que sua imagem ou voz seja gravada, mantenha a câmera desligada e opte pelo uso do chat ao invés do microfone. Essas gravações não podem ser disponibilizadas fora do escopo desse curso, sem que haja autorização de todas as partes envolvidas.
+
+### Ferramentas
+
+O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas atividades do curso será utilizado a [IDE PyCharm](https://www.jetbrains.com/pycharm/).
+
+* [Interpretador Python](https://www.python.org/downloads/).
+* [IDE PyCharm](https://www.jetbrains.com/pycharm/) (baixar a versão Community, que é gratuita).
+
+### Monitoria
+
+Monitor: Gustavo Dos Santos Souza.  
+Local: [Google Classroom](https://classroom.google.com/).
+
+### Bibliografia
+
+* Eric Freeman, "Use a Cabeça! Aprenda a Programar", Editora Alta Books, 2019 (versão mais recente do livro abaixo -- basta ler um ou o outro).
+* Paul Barry, David Griffiths, "Use a Cabeça! Programação", Editora Alta Books, 2009.
+* [Tutorial oficial Python 3](https://docs.python.org/pt-br/3/tutorial/index.html) (não é tão bom quanto os anteriores para alguém que ainda não sabe nada de programação, mas é muito útil como um livro de referência).
+
+Além desses livros, há alguns cursos a distância de introdução à programação em Python que podem ser úteis, gentilmente cedidos pelos respectivos professores:
+
+* [Disciplina de "Introdução à Ciência da Computação com Python" do IME/USP](https://www.youtube.com/playlist?list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn).
+* [Curso de Tecnologia em Sistemas de Computação do consórcio CEDERJ](https://www.cecierj.edu.br/videoaulas/) (ver disciplinas de "Projeto e Desenvolvimento de Algoritmos", que foca na essência da programação, sem se prender a uma linguagem de programação específica, e a disciplina de "Fundamentos de Programação", que foca na linguagem Python).
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+| Data | Atividade
+|---
+| 15/09/20 | Aula assíncrona - [Apresentação do Curso de Programação de Computadores](https://youtu.be/8RPVbCl92dQ) ([slides](/courses/prog/aula01-2020-1.pdf))
+| 17/09/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 22/09/20 | Aula assíncrona - [Histórico](https://youtu.be/fDk4A3FHlhs) ([slides](/courses/prog/aula02.pdf)) e [Introdução à Programação](https://youtu.be/pW83mOYdbgI) ([slides](/courses/prog/aula03.pdf))
+| 24/09/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 29/09/20 | Aula assíncrona - [Organização de Programas em Python](https://youtu.be/-4hj9DIebyE) ([slides](/courses/prog/aula04.pdf))
+| 01/10/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 06/10/20 | Aula assíncrona - [Operadores](https://youtu.be/gF4ygMN4RPQ) ([slides](/courses/prog/aula05.pdf)) e [Estruturas de Decisão](https://youtu.be/a7cUgpdNgZk) ([slides](/courses/prog/aula06.pdf))
+| 08/10/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 13/10/20 | Aula assíncrona - [Estruturas de Repetição](https://youtu.be/iPcGXoXQFPw) ([slides](/courses/prog/aula07.pdf))
+| 15/10/20 | <span style="color: red">Sem aula (dia do professor)</span>
+| 20/10/20 | Aula assíncrona - [Manipulação de Strings](https://youtu.be/GPRPPnnIoVQ) ([slides](/courses/prog/aula08.pdf)) 
+| 22/10/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 27/10/20 | Aula assíncrona - [Vetores](https://youtu.be/5k06RtunM64) ([slides](/courses/prog/aula09.pdf))
+| 29/10/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 03/11/20 | Aula assíncrona - [Manipulação de Listas](https://youtu.be/NrlaO-rVs5A) ([slides](/courses/prog/aula10.pdf))
+| 05/11/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 10/11/20 | Aula assíncrona - [Matrizes](https://youtu.be/Zp4Dn4qISvo) ([slides](/courses/prog/aula11.pdf))
+| 12/11/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 17/11/20 | Aula assíncrona - [Subprogramação](https://youtu.be/KTACSfJCSdM) ([slides](/courses/prog/aula12.pdf))
+| 19/11/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 24/11/20 | <span style="color: red">Sem aula</span>
+| 26/11/20 | <span style="color: green">Aula síncrona de dúvidas (14h às 15h)</span>
+| 01/12/20 | <span style="color: red">Sem aula</span>
+| 03/12/20 | <span style="color: blue">Segunda Chamada</span>
+| 08/12/20 | <span style="color: red">Sem aula</span>
+| 10/12/20 | <span style="color: blue">Verificação Suplementar</span>
+| 15/12/20 | <span style="color: red">Sem aula</span>

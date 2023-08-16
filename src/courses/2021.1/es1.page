@@ -1,0 +1,122 @@
+---
+title: Engenharia de Software I
+in_menu: true
+sort_info: 1
+---
+## Engenharia de Software I
+
+### Logística
+
+Disciplina: TCC00292 - Engenharia de Software I  
+Data: terças e quintas, de 9:00 às 11:00 (veja o cronograma no final desta página).  
+Sala: [Google Meet](https://meet.google.com/) informado no [Google Classroom](https://classroom.google.com/).  
+
+Todos os alunos **devem** estar inscritos na nossa sala de aula virtual do [Google Classroom](https://classroom.google.com/). Caso você não esteja inscrito, entre em contato comigo.
+
+### Ementa
+
+* Engenharia de software: histórico, objetivo, importância e principais desafios
+* Engenharia de requisitos
+* Modelagem na engenharia de requisitos
+* Engenharia de projeto
+* Modelagem na engenharia de projeto
+* A UML (Unified Modeling Language) nas engenharias de requisitos e de projeto 
+* Ferramentas CASE (Computer-Aided Software Engineering) para elaboração de Modelos de análise e de projeto
+
+### Dinâmica do curso
+
+A dinâmica adotada para este curso é conhecida como [Aula Invertida](https://pt.wikipedia.org/wiki/Aula_Invertida), onde os alunos assistem a aulas assíncronas (i.e., gravadas), no horário que for mais conveniente para eles, e as aulas síncronas (i.e., ao vivo) ocorrem com o objetivo de tirar dúvidas. Essa dinâmica está alinhada com a recomendação da Resolução 197/2020, Art. 10, § 6º, de ter de 30% a 50% de atividades síncronas e as demais assíncronas.
+
+As aulas assíncronas serão disponibilizadas em vídeo no [Google Classroom](https://classroom.google.com/). Os alunos devem assistir as aulas segundo o cronograma apresentado no final desta página e fazer os exercícios propostos no final de cada aula.
+
+Além das aulas assíncronas, reservamos as quinta-feiras, das 9h às 11h, para aulas síncronas, visando tirar dúvidas dos alunos. Essas aulas síncronas serão via [Google Meet](https://meet.google.com/) informado no [Google Classroom](https://classroom.google.com/). É importante que os alunos assistam a aula da semana e façam os exercícios propostos nos slides antes da aula síncrona daquela semana, já que o propósito dessas aulas síncronas é tirar dúvidas. Além disso, os alunos que preferirem podem ainda postar as suas dúvidas no [Google Classroom](https://classroom.google.com/) para serem respondidas assincronamente.
+
+### Gravação
+
+As aulas síncronas serão gravadas e disponibilizadas para os alunos (Art. 10, § 4º, da resolução 197/2020), visando permitir que quem não pôde assistir de forma síncrona tenha acesso ao que foi apresentado e discutido. Além disso, esse material pode ser utilizado pelos demais alunos durante seus estudos durante o curso. Caso algum aluno não queria que sua imagem ou voz seja gravada, mantenha a câmera desligada e opte pelo uso do chat ao invés do microfone. Essas gravações não podem ser disponibilizadas fora do escopo desse curso sem que haja autorização de todas as partes envolvidas (Art. 56 da resolução 197/2020).
+
+### Avaliação
+
+Adotaremos avaliação continuada do aprendizado, composta por testes individuais semanais assíncronos e trabalho em grupo. Os testes individuais semanais assíncronos começarão a ser aplicados um mês após o início do semestre letivo (Art. 17 da resolução 197/2020) e contarão com um prazo de 48 horas para realização (Art. 34, item II, da resolução 197/2020). É muito importante que os alunos sejam honestos para responder utilizando somente os seus conhecimentos, sem consultar informações externas ou outras pessoas. Para todos esses tipos de avaliação podem ser utilizados mecanismos de detecção de plágio, tanto entre as respostas dos alunos quanto em relação a Internet. 
+
+Como as avaliações são assíncronas, não será oferecida avaliação de segunda chamada (Art. 34, item VI, § 1º, da resolução 197/2020). Como as avaliações são continuadas, não será oferecida verificação suplementar (Art. 99, § 2º, do Regulamento dos Cursos de Graduação).
+
+A nota final dos alunos será calculada de acordo com a seguinte fórmula:
+
+*Nota Final* = (3 x *Testes* + 2 x *Trabalho*) / 5
+
+Onde *Testes* é a média aritmética simples das notas obtidas em cada um dos testes individuais semanais assíncronos e *Trabalho* é a a média aritmética simples das notas obtidas em cada uma das apresentações do trabalho (ver seção Trabalho).
+
+Será aprovado se obtiver *Nota Final* maior ou igual a 6.
+
+### Trabalho
+
+O curso terá um trabalho feito em grupos de 5 participantes, que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso.
+
+Cada grupo deve, também preferencialmente na primeira semana de aula, escolher um sistema para ser o tema do seu trabalho. Esse sistema pode ser o Projeto de Aplicação de algum membro do grupo, algum sistema legado do estágio de um dos membros do grupo, algum sistema existente na internet, ou qualquer outro sistema que não tenha documentação de análise e projeto acessível aos membros do grupo. A escolha deve ser apresentada ao professor para aprovação.
+
+O trabalho consiste em, durante o decorrer do curso, utilizar as técnicas aprendidas para explicitar os requisitos do sistema em questão e produzir os diagramas de análise e projeto para esse sistema.
+
+Foram reservados três momentos para apresentações de 15 a 20 minutos por grupo. O grupo deve entregar no [Google Classroom](https://classroom.google.com/) um vídeo contendo a apresentação, assim como toda a documentação produzida até então. A primeira apresentação deve conter a descrição do escopo do sistema e apresentar os seus requisitos e seus diagramas e descrições de casos de uso. A segunda apresentação deve conter os diagramas de classe no nível de análise e projeto. A terceira apresentação deve conter diagramas de transição de estados, atividades e sequência. Além disso, nessa última apresentação também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Essas apresentações e documentos serão avaliados pela sua completude e corretude, e capacidade de argumentação em relação às decisões tomadas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Essas entregas devem ser feitas nas datas estipuladas na seção Cronograma.
+
+### Ferramentas
+
+Ferramentas CASE são de extrema valia durante as atividades de análise e projeto. Contudo, em momentos mais incipientes dessas atividades, a utilização de papel ou quadro normalmente contribui na estimulação da criatividade. Desta forma, é esperada a utilização de papel durante os exercícios, apesar de não ser proibida a utilização de ferramentas CASE caso o aluno prefira. Entretanto, para a execução do trabalho, é esperado o uso de ferramentas CASE.
+
+Atualmente, existem diversas ferramentas CASE disponíveis gratuitamente para uso (<http://en.wikipedia.org/wiki/List_of_UML_tools>). Fica a critério dos grupos a seleção da ferramenta CASE que será utilizada na execução do trabalho. É importante notar que a ferramenta escolhida deve dar suporte à confecção de diagramas de caso de uso, classes, transição de estados, atividade e sequência de acordo com a UML 2. Um exemplo de ferramenta gratuita e compatível com todos os diagramas da UML 2 é a [Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp). 
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. Apesar de essas referências estarem em inglês, muitos desses livros têm versões em português.
+
+* Booch, G.; Rumbaugh, J.; Jacobson, I.; 2005. The Unified Modeling Language User Guide. 2nd ed. Addison-Wesley Professional.
+* Cockburn, A.; 2000. Writing Effective Use Cases. Addison-Wesley Professional.
+* Fowler, M.; 2003. UML Distilled: A Brief Guide to the Standard Object Modeling Language. 3rd ed. Addison-Wesley Professional.
+* Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
+* McLaughlin, B. D.; Pollice, G.; West, D.; 2006. Head First Object-Oriented Analysis and Design. illustrated edition. O'Reilly Media, Inc.
+* Pilone, D.; Russ, M.; 2008. Head First Software Development. illustrated edition. O'Reilly Media, Inc.
+* Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Além desses livros, há materiais online e cursos a distância de engenharia de software que podem ser úteis:
+
+* [Apostila de OO da Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+* [Livro “Engenharia de Software Moderna” da UFMG](https://engsoftmoderna.info/)
+* [Guias sobre UML da Visual Paradigm](https://www.visual-paradigm.com/guide)
+* [Tutoriais sobre UML da Visual Paradigm](https://www.visual-paradigm.com/tutorials/)
+* [Curso de Tecnologia em Sistemas de Computação do consórcio CEDERJ](https://www.cecierj.edu.br/videoaulas/) (ver disciplina de "Engenharia de Software").
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+| Data | Atividade | Entrega
+| ---
+| 15/06/2021 | Aula assíncrona - [Apresentação da Disciplina](https://youtu.be/wDZ02BYdA7I) ([slides](/courses/es1/aula1-2021-1.pdf))
+| 17/06/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 22/06/2021 | Aula assíncrona - [Introdução à ES](https://youtu.be/mJxPXTnbH7E) ([slides](/courses/es1/aula2.pdf))
+| 24/06/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 29/06/2021 | Aula assíncrona - [Revisão de Orientação a Objetos](https://youtu.be/Q-WJKl7z0To) ([slides](/courses/es1/aula3.pdf))
+| 01/07/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 06/07/2021 | Aula assíncrona - [Modelagem de Software](https://youtu.be/XE01uVysflY) ([slides](/courses/es1/aula4.pdf))
+| 08/07/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 13/07/2021 | Aula assíncrona - [Princípios de Engenharia de Requisitos](https://youtu.be/-Gj8-njGn6o) ([slides](/courses/es1/aula5.pdf))
+| 15/07/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 20/07/2021 | Aula assíncrona - [Casos de Uso](https://youtu.be/sCgYCTsAa4c) ([slides](/courses/es1/aula6.pdf)) | Teste no [Google Classroom](https://classroom.google.com/) 
+| 22/07/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 27/07/2021 | <span style="color: blue">Apresentações de trabalhos</span>
+| 29/07/2021 | <span style="color: blue">Apresentações de trabalhos</span> | Vídeo e documentação de andamento do trabalho no [Google Classroom](https://classroom.google.com/)
+| 03/08/2021 | Aula assíncrona - [Diagrama de Classes](https://youtu.be/x7ZqKk4tw7Y) ([slides](/courses/es1/aula7.pdf)) | Teste no [Google Classroom](https://classroom.google.com/)
+| 05/08/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 10/08/2021 | Aula assíncrona - [Diagrama de Transição de Estados](https://youtu.be/TAJAiWVDAd8) ([slides](/courses/es1/aula8.pdf)) | Teste no [Google Classroom](https://classroom.google.com/)
+| 12/08/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 17/08/2021 | <span style="color: blue">Apresentações de trabalhos</span>
+| 19/08/2021 | <span style="color: blue">Apresentações de trabalhos</span> | Vídeo e documentação de andamento do trabalho no [Google Classroom](https://classroom.google.com/)
+| 24/08/2021 | Aula assíncrona - [Diagrama de Atividades](https://youtu.be/d3s06WrHSYQ) ([slides](/courses/es1/aula9.pdf)) | Teste no [Google Classroom](https://classroom.google.com/)
+| 26/08/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 31/08/2021 | Aula assíncrona - [Diagrama de Sequência](https://youtu.be/ifMzPoyU1TQ) ([slides](/courses/es1/aula10.pdf)) | Teste no [Google Classroom](https://classroom.google.com/)
+| 02/09/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 07/09/2021 | <span style="color: red">Sem aula (independência)</span>
+| 09/09/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 14/09/2021 | Aula assíncrona - [Outros Diagramas](https://youtu.be/0zegc0HZEi0) ([slides](/courses/es1/aula11.pdf)) | Teste no [Google Classroom](https://classroom.google.com/)
+| 16/09/2021 | <span style="color: green">Aula síncrona de dúvidas (9h às 11h)</span>
+| 21/09/2021 | <span style="color: blue">Apresentações de trabalhos</span>
+| 23/09/2021 | <span style="color: blue">Apresentações de trabalhos</span> | Vídeo e documentação final do trabalho no [Google Classroom](https://classroom.google.com/)

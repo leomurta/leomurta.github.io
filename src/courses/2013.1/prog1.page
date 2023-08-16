@@ -1,0 +1,285 @@
+---
+title: Programação de Computadores I
+in_menu: true
+sort_info: 3
+---
+## Programação de Computadores I
+
+### Logística
+
+Disciplina: TCC00173  Programação de Computadores I
+
+Data: quartas de 9h às 11h e sextas de 7h às 11h
+
+Local: quartas na sala 205 do bloco H (UFASA) e sextas na sala 202 do bloco H (UFASA) ou na sala 312 do bloco E (laboratório de ciência da computação)
+
+Grupo: <https://www.facebook.com/groups/prog12013.1/> (importante: todos os alunos **devem** se cadastrar neste grupo)
+
+### Avaliação
+
+*Avaliação 1* = Prova sem consulta
+
+*Avaliação 2* = Prova sem consulta
+
+*Avaliação 3* = (Participação + 2 x Trabalho) / 3
+
+*Média das Provas* = (*Avaliação 1* + *Avaliação 2*) / 2
+
+Caso *Média das Provas* >= 6 OU falta em *Avaliação 1* OU falta em *Avaliação 2*:
+
+> *Média* = (*Avaliação1* + *Avaliação2* + *Avaliação3*) / 3
+
+Caso contrário:
+
+> *Média* = *Média das Provas*
+
+Obs.: Vale notar que o uso da nota da *Avaliação 3* não é opcional para quem fica com *Média das Provas* >= 6. Então, caso a nota da *Avaliação 3* seja baixa, a *Média* será afetada mesmo que a *Média das Provas* seja alta.
+
+**APROVADO**
+
+(Presença >= 75%) E (*Média* >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= *Média* < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Grupos
+
+As atividades da *Avaliação 3* serão feitas em grupos de 4 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: Prog I - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+Ao final do curso, cada membro do grupo será solicitado a indicar, sob o seu ponto de vista, o percentual de participação de cada membro do grupo (inclusive de sí próprio) nas atividades relacionadas à *Avaliação 3*. Esta informação será utilizada na distribuição das notas. Desta forma, se empenhe desde o início de forma pró-ativa.
+
+### Trabalho
+
+Cada grupo deverá implementar um jogo como trabalho da disciplina. Os grupos deverão combinar com o professor o tema escolhido para o jogo. Os grupos podem optar por implementar jogos já conhecido (ex.: Space Invaders, Pac Man, Missile Command, Arkanoid, etc.) ou criar seus próprios jogos.
+
+No seminário inicial (ver seção Cronograma) cada grupo deverá explicar como será o seu jogo. Nesse momento, é esperado que sejam apresentados ao menos desenhos e fluxogramas detalhando a dinâmica do jogo que pretendem desenvolver. No seminário final (ver seção Cronograma) os grupos apresentarão o jogo funcionando e terão a oportunidade de discutir as dificuldades encontradas durante o desenvolvimento.
+
+O código fonte do jogo deve ser entregue em CD ou via e-mail (assunto do e-mail: Prog - Trabalho). A entrega deve ser feita na data estipulada (ver seção Cronograma) para compor a *Avaliação 3* (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Listas
+
+Duas listas de exercício são disponibilizadas durante o curso, respectivamente para a matéria da primeira e da segunda prova. Durante a resolução dos exercícios apresentados nas listas, os alunos podem entrar em contato com os monitores para tirar dúvidas. Contudo, espera-se que os alunos façam uso do próprio compilador Java para verificar a corretude das suas respostas. 
+
+As listas não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala. Como estímulo, ao menos uma questão de cada prova será inspirada na lista de exercícios. Nas aulas de exercícios, os alunos serão convidados a apresentar as suas respostas da lista. Essas apresentações irão compor a *Avaliação 3* (item Participação).
+
+* [Lista para a primeira prova](/courses/prog-java/lista1.pdf)
+* [Lista para a segunda prova](/courses/prog-java/lista2.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Presença
+
+De acordo com o [Regulamento](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+### Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+### Ferramentas
+
+O aluno tem liberdade de utilizar o editor e o compilador Java de sua preferência. Contudo, nas atividades de sala de aula será utilizado o [NetBeans](http://netbeans.org/downloads) como editor e o [JDK da Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html) como compilador, ambos na edição Java SE.
+
+Para o desenvolvimento do trabalho, é esperada a utilização do framework de jogos [JPlay](https://www.ic.uff.br/jplay). A versão indicada do JPlay para uso é a 2.1. O livro "Introdução à Ciência da Computação com Jogos" discute a utilização do JPlay no desenvolvimento de jogos. Além disso, o site do [JPlay](https://www.ic.uff.br/jplay) apresenta tutoriais e exemplos de utilização do framework.
+
+### Bibliografia
+
+Feijó, B., Clua, E., Silva, F., 2010, "Introdução à Ciência da Computação com Jogos", Editora Campus.
+
+Oracle, "The Java Tutorials", disponível em http://docs.oracle.com/javase/tutorial.
+
+Sierra, K., Bates, B., 2005, "Use a Cabeça! Java", Alta Books, 2a. edição.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, "Algoritmos e Lógica de Programação", Editora Thomson.
+
+Farrer, H. et al., 1999, "Algoritmos Estruturados", Editora LTC.
+
+Guimarães, A., Lages, N., 1994, "Algoritmos e Estruturas de Dados", Editora LTC.
+
+### Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>24/04/2013</td>
+          <td>Aula - <a href="../prog-java/aula1-2013-1.pdf">Apresentação do Curso</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>26/04/2013</td>
+          <td>Aula - <a href="../prog-java/aula2.pdf">Introdução à Programação</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/05/2013</td>
+          <td><font color="red">Sem Aula</font></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>03/05/2013</td>
+          <td>Aula - <a href="../prog-java/aula3.pdf">Fluxogramas</a></td>
+	  <td></td>
+	</tr>
+        <tr>
+	  <td>08/05/2013</td>
+          <td>Aula - <a href="../prog-java/aula3.pdf">Fluxogramas</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>10/05/2013</td>
+          <td>Aula - <a href="../prog-java/aula4.pdf">Organização de Programas em Java</a></td>
+          <td></td>
+        </tr>
+	<tr>
+	  <td>15/05/2013</td>
+          <td>Aula - <a href="../prog-java/aula4.pdf">Organização de Programas em Java</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>17/05/2013</td>
+          <td><font color="red">Sem Aula</font></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>22/05/2013</td>
+          <td><font color="red">Sem Aula</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/05/2013</td>
+          <td><font color="red">Sem Aula</font></td>
+          <td></td>
+        </tr> 
+        <tr>
+	  <td>29/05/2013</td>
+          <td>Aula - <a href="../prog-java/aula5.pdf">Operadores e Estruturas de Decisão</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>31/05/2013</td>
+          <td><font color="red">Sem Aula</font></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>05/06/2013</td>
+          <td>Aula - <a href="../prog-java/aula5.pdf">Operadores e Estruturas de Decisão</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>07/06/2013</td>
+          <td>Aula - <a href="../prog-java/aula5.pdf">Operadores e Estruturas de Decisão</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>12/06/2013</td>
+          <td>Aula - <a href="../prog-java/aula6.pdf">Estruturas de Repetição e String</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>14/06/2013</td>
+          <td>Aula - <a href="../prog-java/aula6.pdf">Estruturas de Repetição e String</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>19/06/2013</td>
+          <td><font color="blue">Prova 1</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/06/2013</td>
+	  <td><font color="blue">Seminários (rodada inicial)</font> e Aula - <a href="../prog-java/aula7.pdf">Subprogramação e Introdução a OO</a></td>    
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/06/2013</td>
+	  <td>Aula - <a href="../prog-java/aula7.pdf">Subprogramação e Introdução a OO</a></td>
+          <td></td>
+        </tr>
+        <tr>
+	  <td>28/06/2013</td>
+	  <td>Aula - <a href="../prog-java/aula7.pdf">Subprogramação e Introdução a OO</a></td>
+          <td></td>
+        </tr>  
+        <tr>
+	  <td>03/07/2013</td>
+	  <td><font color="red">Sem Aula</font></td>   
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/07/2013</td>
+	  <td>Aula - <a href="../prog-java/jplay.pdf">JPlay</a></td>
+	  <td></td>
+	</tr>	
+        <tr>
+	  <td>10/07/2013</td>
+	  <td>Aula - <a href="../prog-java/aula8.pdf">Variáveis Compostas</a></td>   
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/07/2013</td>
+	  <td>Aula - <a href="../prog-java/aula8.pdf">Variáveis Compostas</a></td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/07/2013</td>
+	  <td>Aula - <a href="../prog-java/aula9.pdf">Arquivos</a></td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/07/2013</td>
+	  <td>Aula - <a href="../prog-java/aula9.pdf">Arquivos</a></td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/07/2013</td>
+	  <td>Aula - Exercícios e Dúvidas</td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/07/2013</td>
+	  <td>Aula - Exercícios e Dúvidas</td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>31/07/2013</td>
+	  <td><font color="blue">Prova 2</font></td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/08/2013</td>
+	  <td><font color="blue">Seminários (rodada final)</font></td> 	 
+	  <td>Trabalho</td>
+	</tr>
+	<tr>
+	  <td>07/08/2013</td>
+	  <td><font color="blue">Vista de Avaliação</font></td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/08/2013</td>
+	  <td><font color="blue">VS</font></td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/08/2013</td>
+	  <td><font color="red">Sem Aula</font></td> 	 
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/08/2013</td>
+	  <td><font color="blue">Vista de Avaliação</font></td> 	 
+	  <td></td>
+	</tr>	
+</table>

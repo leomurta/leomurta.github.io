@@ -1,0 +1,162 @@
+--- alcn
+2023.1/:
+  title: 2023.1
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 73
+
+2022.2/:
+  title: 2022.2
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 74
+
+2022.1/:
+  title: 2022.1
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 75
+
+2021.1/:
+  title: 2021.1
+  proxy_path: es1.html
+  in_menu: true
+  sort_info: 76
+
+2020.2/:
+  title: 2020.2
+  proxy_path: cv.html
+  in_menu: true
+  sort_info: 77
+
+2020.1/:
+  title: 2020.1
+  proxy_path: prog.html
+  in_menu: true
+  sort_info: 78
+
+2019.1/:
+  title: 2019.1
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 79
+
+2018.2/:
+  title: 2018.2
+  proxy_path: es1.html
+  in_menu: true
+  sort_info: 80
+
+2018.1/:
+  title: 2018.1
+  proxy_path: cm.html
+  in_menu: true
+  sort_info: 81
+
+2017.2/:
+  title: 2017.2
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 82
+
+2017.1/:
+  title: 2017.1
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 83
+
+2016.2/:
+  title: 2016.2
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 84
+
+2016.1/:
+  title: 2016.1
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 85
+
+2015.2/:
+  title: 2015.2
+  proxy_path: es1.html
+  in_menu: true
+  sort_info: 86
+
+2015.1/:
+  title: 2015.1
+  proxy_path: dw.html
+  in_menu: true
+  sort_info: 87
+
+2014.2/:
+  title: 2014.2
+  proxy_path: cm.html
+  in_menu: true
+  sort_info: 88
+
+2014.1/:
+  title: 2014.1
+  proxy_path: gps.html
+  in_menu: true
+  sort_info: 89
+
+2013.1/:
+  title: 2013.1
+  proxy_path: gc.html
+  in_menu: true
+  sort_info: 90
+
+2012.2/:
+  title: 2012.2
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 91
+
+2012.1/:
+  title: 2012.1
+  proxy_path: gc.html
+  in_menu: true
+  sort_info: 92
+
+2011.2/:
+  title: 2011.2
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 93
+
+2011.1/:
+  title: 2011.1
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 94
+
+2010.2/:
+  title: 2010.2
+  proxy_path: labgc.html
+  in_menu: true
+  sort_info: 95
+
+2010.1/:
+  title: 2010.1
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 96
+
+2009.2/:
+  title: 2009.2
+  proxy_path: es2.html
+  in_menu: true
+  sort_info: 97
+
+2009.1/:
+  title: 2009.1
+  proxy_path: es1.html
+  in_menu: true
+  sort_info: 98
+
+2008.2/:
+  title: 2008.2
+  proxy_path: es1.html
+  in_menu: true
+  sort_info: 99

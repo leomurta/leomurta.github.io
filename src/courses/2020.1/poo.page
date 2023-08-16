@@ -1,0 +1,80 @@
+---
+title: Programação Orientada a Objetos
+in_menu: true
+sort_info: 2
+---
+## Programação Orientada a Objetos
+
+### Logística
+
+Disciplina: TCC00328 - Programação Orientada a Objetos
+
+Data: terças, quartas e quintas, de 18:00 às 22:00
+
+Sala: as aulas são na sala 304 do prédio de laboratórios. As provas são na sala 217 do prédio de salas de aula.
+
+Grupo: todos os alunos devem se inscrever na nossa sala de aula virtual do [Google Classroom](https://classroom.google.com/). O código da sala virtual está escrito na folha de chamada.
+
+### Ementa
+
+* Fundamentos da programação orientada a objetos
+* Orientação a objetos
+* Elementos da linguagem Java
+* Relacionamento entre objetos
+* Herança e polimorfismo
+* Classes abstratas e interfaces
+* Exceções
+* Threads
+
+### Avaliação
+
+*Média* = (*Prova 1* + *Prova 2*) / 2
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+### Lista de exercícios
+
+As listas de exercícios devem ser feitas individualmente e entregues no [Google Classroom](https://classroom.google.com/) dentro do prazo definido na seção de Cronograma. Caso, no final do curso, o aluno esteja com média entre 5 e 6, as listas serão corrigidas podendo somar até 1 pontos na média, eventualmente arredondando a média para 6. Não serão aceitas entregas fora do prazo.
+
+* [Lista 1](/courses/poo/lista1.pdf)
+* [Lista 2](/courses/poo/lista2_sem_swing.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Ferramentas
+
+No curso utilizaremos a versão mais recente da [IDE NetBeans](https://netbeans.apache.org/download/index.html) na distribuição Java SE. O NetBeans é gratuito e está disponível para os principais sistemas operacionais (Linux, Mac e Windows).
+
+### Bibliografia
+
+Há diversos livros sobre o assunto que podem ser consultados. Há a opção de consultar gratuitamente o [tutorial oficial da Oracle](http://docs.oracle.com/javase/tutorial/). Além disso, a Caelum disponibiliza gratuitamente uma [apostila em português sobre orientação a objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/). Por fim, o seguinte livro tem uma didática diferenciada: "Use a Cabeça Java", segunda edição, de Kathy Sierra e Bert Bates.
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+| Data | Atividade | Entrega
+| ---
+| 14/01/2020 | Aula - [Apresentação do Curso](/courses/poo/aula1-2020-1.pdf) e [Organização de Programas em Java](/courses/poo/aula2.pdf)
+| 15/01/2020 | Aula - [Operadores e Estruturas de Decisão](/courses/poo/aula3.pdf) e [Estruturas de Repetição e String](/courses/poo/aula4.pdf)
+| 16/01/2020 | Aula - [Variáveis Compostas](/courses/poo/aula5.pdf) e [Subprogramação](/courses/poo/aula6.pdf)
+| 21/01/2020 | Aula - [Introdução a Orientação a Objetos](/courses/poo/aula7.pdf)
+| 22/01/2020 | Aula - [Exercícios](/courses/poo/lista1.pdf)
+| 23/01/2020 | Aula - [Exercícios](/courses/poo/lista1.pdf)
+| 28/01/2020 | <span style="color: blue">Prova 1 (das 19h às 21h na sala 217)</span> | Lista 1
+| 29/01/2020 | Aula - [Herança e Polimorfismo](/courses/poo/aula8.pdf)
+| 30/01/2020 | Aula - [Tratamento de Exceções](/courses/poo/aula9.pdf), [Coleções](/courses/poo/aula10.pdf) e <span style="color: blue">Vista de Prova</span>
+| 04/02/2020 | Aula - [Threads](/courses/poo/aula12.pdf)
+| 05/02/2020 | Aula - [Exercícios](/courses/poo/lista2_sem_swing.pdf)
+| 06/02/2020 | <span style="color: blue">Prova 2 (das 19h às 21h na sala 217)</span> | Lista 2
+| 11/02/2020 | <span style="color: blue">Segunda Chamada (das 19h às 21h na sala 217)</span>
+| 12/02/2020 | <span style="color: blue">Vista de Prova (das 19h às 21h na sala 528)</span>
+| 13/02/2020 | <span style="color: blue">Verificação Suplementar (das 19h às 21h na sala 217)</span> 
+| 18/02/2020 | <span style="color: blue">Vista de Prova (das 19h às 21h na sala 528)</span>

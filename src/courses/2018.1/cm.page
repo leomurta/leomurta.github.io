@@ -1,0 +1,151 @@
+---
+title: Configuration Management
+in_menu: true
+sort_info: 1
+---
+## Configuration Management
+
+### Logistics
+
+Course: Configuration Management
+
+Date: Wednesdays from 9am to 1pm
+
+Room: 317
+
+Group: <https://www.facebook.com/groups/cm-2018.1> (important: all students **should** subscribe to this group)
+
+### Grading
+
+Score = (2 x Paper Presentations + Discussions + 2 x Term Paper + 2 x Seminars + Paper Reviews) / 8
+
+**APPROVED**
+
+(Presence >= 75%) AND (Score >= 6)
+
+**SUPPLEMENTARY TEST**
+
+(Undergrad Student) AND (Presence >= 75%) AND (4 <= Score < 6)
+
+### Groups
+
+All activities can be performed in groups of two for undergrad students. Groups should be established in the first week and remain the same until the end of the course. All grad students (MS and Ph.D.) should perform all activities individually. 
+
+### Paper Presentations
+
+The second half of the classes (check schedule section) is dedicated to the presentation of papers read during the week (around 30 minutes), followed by questions and discussions. All students are supposed to read all papers, but only a predefined student/group presents each paper. By the end of the presentation, all students are supposed to ask questions and discuss about the paper. Usually, each student/group presents around four papers during the whole course. Please, send me the list of papers you want to present as soon as possible                                   (list at least 5, sorted by preference). The assignment is based on a "first come, first served" strategy. 
+
+The papers are available at [our Facebook group](https://www.facebook.com/groups/cm-2018.1/files). Please, subscribe to our [group](https://www.facebook.com/groups/cm-2018.1) to download the papers.
+
+**1st reading:**
+
+> \[Tayane\] Estublier, J., "Software Configuration Management: a Roadmap", International Conference on Software Engineering (ICSE), The Future of Software Engineering, p. 279-289, 2000.
+
+> \[Henrique\] Bersoff, E. H., "Elements of Software Configuration Management", IEEE Transactions on Software Engineering, v. SE-10, n. 1, p. 79 - 87, 1984.
+
+**2nd reading:**
+
+> \[Cristiane\] Chacon S., "Chapter 1: Getting Started", Pro Git, 2nd ed., 2014.
+
+> \[Henrique\] Chacon S., "Chapter 2: Git Basics", Pro Git, 2nd ed., 2014.
+
+**3rd reading:**
+
+> \[Felipe\] Chacon S., "Chapter 3: Git Branching", Pro Git, 2nd ed., 2014.
+
+> \[Leonardo + Lucas\] Chacon S., "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.
+
+**4th reading:**
+
+> \[Henrique & Leonardo + Lucas\] Chacon S., "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.
+
+**5th reading:**
+
+> \[Henrique & Leonardo + Lucas\] Conradi, R. and Westfechtel, B., "Version Models for Software Configuration Management", ACM Computing Surveys, v. 30, n. 2, p. 232-282, 1998.
+
+**6th reading:**
+
+> \[Felipe\] Hunt, J., McIlroy, M., "An Algorithm for Differential File Comparison", Bell Laboratories, 1976.
+
+> \[Cristiane\]Miller, W., Myers, E., "A File Comparison Program", Software: Practice and Experience, v. 15, n. 11, p. 1025-1040, 1985. 
+
+**7th reading:**
+
+> \[Cristiane\] Mens, T., "A State-of-the-Art Survey on Software Merging", IEEE Transactions Software Engineering, v. 28, n. 5, p. 449-462, 2002.
+
+> \[Tayane\] Dig, D., Manzoor, K., Johnson, R., Nguyen, T., "Effective Software Merging in the Presence of Object-Oriented Refactorings", IEEE Transactions on Software Engineering, v. 34, n. 3, p. 321 - 335, 2008.
+
+**8th reading:**
+
+> \[Felipe\] Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R., "Streamed Lines: Branching Patterns for Parallel Software Development", Pattern Languages of Programs (PLoP), 1998.
+
+**9th reading:**
+
+> \[Cristiane\] Bird, C., Rigby, P. C., Barr, E. T., Hamilton, D. J., German, D. M., & Devanbu, P. "The promises and perils of mining git", International Working Conference on Mining Software Repositories (MSR), p. 1-10, 2009.
+
+> \[Tayane\] Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", International Working Conference on Mining Software Repositories (MSR), p. 92-101,  2014.
+
+**10th reading:**
+
+> \[Leonardo + Lucas & Tayane\] Estublier, J., Leblang, D., van der Hoer, A., Conradi, R., Clemm, G., Tichy, W., Wiborg-Weber, D., "Impact of Software Engineering Research on the Practice of Software Configuration Management", ACM Transactions on Software Engineering and Methodology (TOSEM), v. 14, n. 4, p. 1-48, 2005.
+
+### Discussion
+
+Every student/group that is not in charge of a given presentation should be prepared to ask questions, provide comments, and answer questions about the paper being presented. The deepness of the questions, the quality of the discussion, and the intensity of the interaction will be considered.
+
+<!-- 
+### Essays
+
+Every student/group should write an essay about each paper read during the week, except for the student/group that is in charge of presenting the paper. These documents should fit in just one page A4 (font 12, margin 2 cm, single spacing), containing the name of the paper, the name of the student(s), and the essay itself. The essay should focus on the main message of the paper, having a clear beginning, middle, and ending (avoid using bullets). Finish the essay with a paragraph with your own opinion about the paper (present the main positive and negative aspects of the paper).
+
+Obs.: delays in delivering the essays will be charged with 1 point per day.
+-->
+
+### Term Paper
+
+Each student/group should select a theme for the term project in the first weeks. This term project may reflect the application of CM in some field, the use of some technique to support CM, mining and visualization of CM repositories, or an study about some advanced CM technique. The theme should be explained to the professor **before** the beginning of the research.
+
+As a result, a five-page term paper should be written according to the [ACM format](https://www.acm.org/publications/proceedings-template) -- use the ACM_SigConf template. This paper should present the motivation and goal of the work, the related work, the obtained results, and final considerations.
+
+The submission of term papers will follow a conference paper submission procedure. We will emulate a mini-conference using a real conference management software: [EasyChair](http://www.easychair.org). [Click here](https://easychair.org/conferences/?conf=uffcm20181) to submit your term paper (please, check the schedule section about the expected submission date). 
+
+Obs.: delays in the submission of term papers will be charged with 1 point per day.
+
+### Seminars
+
+The course has three moments specifically reserved to present the ongoing Term Project (check the schedule). It is possible to use slides and whiteboard during the presentations, and each presentation should take around 30 minutes. The first seminar is dedicated to understand the context of the work and the work methodology/goals. The second seminar focuses on showing the progress of the work. At this moment some partial but concrete result should be presented. Finally, the third seminar is the final presentation of the work, and should include a deep discussion of the obtained results.
+
+### Paper Reviews
+
+As previously mentioned, we are going to simulate a conference in this course. The students will submit their term papers and also act as members of the program committee. Consequently, each student is supposed to review term papers of other three students. The reviews will not be used to grade the term papers, but to grade the capability of students in criticizing and providing deep feedback to other work.
+
+[Click here](https://easychair.org/conferences/?conf=uffcm20181) to write the reviews of papers assigned to you. Select the menu uff-cm-2018-1 and choose Change Role. Select the Review role and access the Reviews menu, clicking at My Papers. You should be able to see all papers assigned to you. 
+
+Obs.: delays in the submission of papers reviews will be charged with 1 point per day.
+
+### Presence
+
+According to the [Undergrad](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf) and [Grad](https://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Regimento_Revisao_PGC_2009-2017-v5_final.pdf) rules, the minimal presence is 75% of the classes (Art. 80, §14 and Art. 20, respectively).
+
+### Schedule
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Date|Activity|Deliverable
+|---
+|14/03/2018|Lecture - [Course outline](/courses/cm/lecture1-2018-1.pdf)
+|21/03/2018|Lecture - [Introduction to CM](/courses/cm/lecture2.pdf)<br/><span style="color: green">Paper presentation (1st reading)</span>
+|28/03/2018|Lecture - [CM Foundations](/courses/cm/lecture3.pdf)<br/><span style="color: green">Paper presentation (2nd reading)</span>
+|04/04/2018|<span style="color: blue">Seminar (1st round)</span>
+|11/04/2018|Lecture - [CM Foundations](/courses/cm/lecture3.pdf)<br/><span style="color: green">Paper presentation (3rd reading)</span>
+|18/04/2018|<span style="color: red">No class</span>
+|25/04/2018|Lecture - [CM Foundations](/courses/cm/lecture3.pdf)<br/><span style="color: green">Paper presentation (4th reading)</span>
+|02/05/2018|<span style="color: green">Paper presentation (5th reading)</span><br/><span style="color: green">Paper presentation (6th reading)</span>
+|09/05/2018|<span style="color: blue">Seminar (2st round)</span>
+|16/05/2018|Lecture - [Diff](/courses/cm/lecture4.pdf)<br/>Lecture - [Branching](/courses/cm/lecture5.pdf)<br/><span style="color: green">Paper presentation (7th reading)</span>
+|23/05/2018|Lecture - [Branching](/courses/cm/lecture5.pdf)<br/><span style="color: green">Paper presentation (8th reading)</span>
+|30/05/2018|<span style="color: red">No class ([ICSE](https://www.icse2018.org/))</span>
+|06/06/2018|Lecture - presentation of papers published in [SBES 2014](/courses/cm/sbes2014.pdf) and [FSE 2016](/courses/cm/fse2016.pdf)<br/><span style="color: green">Paper presentation (9th reading)</span>
+|13/06/2018|Lecture - presentation of papers published in [CSMR 2012](/courses/cm/csmr2012.pdf) and [SEKE 2014](/courses/cm/seke2014.pdf)<br/><span style="color: green">Paper presentation (10th reading)</span>
+|20/06/2018|<span style="color: blue">Seminar (last round)</span>|Term paper (submitted via [Easychair](https://easychair.org/conferences/?conf=uffcm20181))
+|27/06/2018|<span style="color: blue">Supplementary test (undergrad only)</span>|Reviews (submitted via [Easychair](https://easychair.org/conferences/?conf=uffcm20181))
+|04/07/2018|<span style="color: blue">Grades review at room 528</span>

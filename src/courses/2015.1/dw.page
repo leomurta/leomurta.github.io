@@ -1,0 +1,148 @@
+---
+title: Desenvolvimento Web
+in_menu: true
+sort_info: 1
+---
+## Desenvolvimento Web
+
+### Logística
+
+Disciplina: TCC00226 - Desenvolvimento Web
+
+Data: sextas de 18h às 22h
+
+Local: sala 321 do prédio novo do Instituto de Computação
+
+Grupo: <https://www.facebook.com/groups/dw2015.1>
+
+### Avaliação
+
+*Média* = (2 x *Prova 1* + 2 x *Prova 2* + *Trabalho*) / 5
+
+### Trabalho
+
+O curso terá um trabalho feito em grupos de 3 participantes que consiste em desenvolver um sistema bancário usando as tecnologias estudadas durante o curso. O sistema deve controlar usuários e contas, permitindo as operações de saldo, extrato, depósito, saque, transferência e investimento.
+
+Como resultado final espera-se uma apresentação do trabalho (10 a 15 minutos) e a entrega do código. Essas atividades devem ocorrer na data estipulada (ver seção Cronograma).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Listas
+
+As listas não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala. Não serão fornecidos gabaritos das listas. Enviem as dúvidas específicas para o grupo do Facebook.
+
+* [Lista de Programação em Java](/courses/dw/lista1.pdf)* [Lista de Programação Web](/courses/dw/lista2.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Ferramentas
+
+No curso utilizaremos a versão mais recente da [IDE NetBeans](https://netbeans.org/downloads) na distribuição Java EE e o Servidor Java EE Glassfish, que vem junto com a IDE NetBeans. Ambos são gratuitos e estão disponíveis para os principais sistemas operacionais (Linux, Mac e Windows).
+
+### Bibliografia
+
+Há diversos livros sobre o assunto que podem ser consultados. Há a opção de consultar gratuitamente os tutoriais oficiais da Oracle referentes a [Java](http://docs.oracle.com/javase/tutorial/), [Servlets](http://docs.oracle.com/javaee/7/tutorial/servlets.htm), [JDBC](http://docs.oracle.com/javase/tutorial/jdbc/) e [JSP](http://docs.oracle.com/javaee/5/tutorial/doc/bnagx.html). Além disso, a Caelum disponibiliza gratuitamente apostilas em português de [Java](http://www.caelum.com.br/apostila-java-orientacao-objetos/), [Servlets](http://www.caelum.com.br/apostila-java-web/servlets/), [JDBC](http://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/) e [JSP](http://www.caelum.com.br/apostila-java-web/javaserver-pages/). Por fim, os seguintes livros têm uma didática diferenciada: "Use a Cabeça Java", segunda edição, de Kathy Sierra e Bert Bates, e "Use a Cabeça Servlets & JSP", segunda edição, de Brian Basham, Kathy Sierra e Bert Bates.
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Hora</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>13/03/2015</td>
+	  <td colspan="3"><font color="red">Sem aula (sem professor)</font></td>
+	</tr>
+	<tr>
+	  <td>20/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula1.pdf">Apresentação do Curso</a>, <a href="../dw/aula2.pdf">Organização de Programas em Java</a> e <a href="../dw/aula3.pdf">Operadores e Estruturas de Decisão</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>27/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula3.pdf">Operadores e Estruturas de Decisão</a>, <a href="../dw/aula4.pdf">Estruturas de Repetição e Strings</a> e <a href="../dw/aula5.pdf">Variáveis Compostas</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>03/04/2015</td>
+	  <td colspan="3"><font color="red">Sem aula (Semana Santa)</font></td>
+	</tr>
+	<tr>
+	  <td>10/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula6.pdf">Subprogramação e Orientação a Objetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula6.pdf">Subprogramação e Orientação a Objetos</a> e <a href="../dw/aula7.pdf">Coleções e Exceções</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Prova 1</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/05/2015</td>
+	  <td colspan="3"><font color="red">Sem aula (Dia do Trabalho)</font></td>
+	</tr>
+	<tr>
+	  <td>08/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula7.pdf">Coleções e Exceções</a>, <a href="../dw/aula8.pdf">HTML</a> e <a href="../dw/aula9.pdf">Arquiteturas Web</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>15/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula10.pdf">Servlets</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>22/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula10.pdf">Servlets</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>29/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula11.pdf">JDBC</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/06/2015</td>
+	  <td colspan="3"><font color="red">Sem aula (Corpus Christi)</font></td>
+	</tr>
+	<tr>
+	  <td>12/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../dw/aula12.pdf">JSP</a> e <a href="../dw/aula13.pdf">MVC</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Prova 2</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Apresentação dos trabalhos</font></td>
+	  <td>Trabalho</td>
+	</tr>
+	<tr>
+	  <td>03/07/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Verificação Suplementar</font></td>
+	  <td></td>
+	</tr>	 
+</table>
