@@ -1,0 +1,332 @@
+---
+title: Engenharia de Software I
+in_menu: true
+sort_info: 1
+---
+## Engenharia de Software I
+
+### Logística
+
+Disciplina: TCC04081  Engenharia de Software I
+
+Data: terças e quintas, de 7:00 às 9:00
+
+Sala: 234 (bloco D)
+
+Lista: <http://groups.google.com/group/uff-es1-2009-1> (importante: todos os alunos devem se cadastrar nessa lista, informando matrícula e nome completo)
+
+### Avaliação
+
+Média = (Avaliação1 + Avaliação2 + Avaliação3) / 3
+
+Avaliação1 = Prova sem consulta
+
+Avaliação2 = Prova sem consulta
+
+Avaliação3 = (Participação + Listas + Seminários + 2 x Trabalho) / 5
+
+**APROVADO**
+
+Presença >= 75% E Média >= 6
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+Presença >= 75% E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Presença < 75% OU Média < 4
+
+### Grupos
+
+As atividades da Avaliação3 serão feitas em grupos de 3 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: ES1 - Grupo) o número da matrícula, nome completo e o e-mail de cada participante do grupo, juntamente com o tema do trabalho (ver seção Trabalho).
+
+### Participação
+
+Na maioria das aulas serão fornecidos exercícios para serem feitos em grupo durante a aula. Ao término, os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da Avaliação3 (item Participação).
+
+### Listas
+
+Um cronograma de leituras é indicado para viabilizar a consolidação dos conhecimentos referentes à matéria. É importante notar que o conteúdo das aulas teóricas, apesar de ser alinhado com as leituras, não as substitui. Por outro lado, não basta fazer as leituras, pois usualmente as aulas teóricas são mais profundas do que o que é apresentado nos livros.
+
+O monitor enviará periodicamente listas de exercícios baseadas nas leituras. Essas listas de exercícios devem ser respondidas pelo grupo e entregues na data estipulada (ver seção Cronograma) para o monitor (ver seção Monitoria) para compor a Avaliação3 (item Listas).
+
+**Leitura 1**: Capítulo 1 great software development: Pleasing your customer do livro Pilone, D.; Russ, M.; 2008. Head First Software Development. illustrated edition. O'Reilly Media, Inc.
+
+**Leitura 2**: Capítulo 7 Requirements Engineering do livro Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+**Leitura 3**: Capítulo 1 Introduction do livro Cockburn, A.; 2000. Writing Effective Use Cases. Addison-Wesley Professional.
+
+**Leitura 4**: Capítulo 4 Taking Your Software Into the Real World: analysis do livro McLaughlin, B. D.; Pollice, G.; West, D.; 2006. Head First Object-Oriented Analysis and Design. illustrated edition. O'Reilly Media, Inc.
+
+**Leitura 5**: Capítulos 8 Encapsulamento e Congeneridade e 9 Domínios, Grau de Dependência e Coesão do livro Page-Jones, M.; 2001. Fundamentos do Desenho Orientado a Objetos com UML. Makron Books.
+
+**Leitura 6**: Capítulos 10 Espaço-estado e Comportamentos, 11 Conformidade de Tipo e Comportamento Fechado e 14 Coesão de Classe, Suporte de Estados e de Comportamentos do livro Page-Jones, M.; 2001. Fundamentos do Desenho Orientado a Objetos com UML. Makron Books.
+
+**Leitura 7**: Capítulo 17 GRASP: Projeto de Objetos com Responsabilidades do livro Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman.
+
+**Leitura 8**: Capítulo 25 GRASP: Mais Objetos com Responsabilidades do livro Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman.
+
+Obs.: atraso na entrega das Listas terá uma multa de um ponto por dia.
+
+### Trabalho
+
+Cada grupo deve, preferencialmente na primeira semana de aula, escolher um sistema para ser o tema do seu trabalho. Esse sistema pode ser o Projeto de Aplicação de algum membro do grupo, algum sistema legado do estágio de um dos membros do grupo, algum sistema existente na internet, ou qualquer outro sistema que não tenha documentação de análise e projeto acessível aos membros do grupo.
+
+Caso o sistema seja de um porte muito grande, o escopo do trabalho deve ser negociado com o professor durante o curso, com o intuito de atuar em partes desse sistema, se for o caso, para viabilizar a aplicação de todas as técnicas estudadas.
+
+O trabalho consiste em, durante o decorrer do curso, utilizar as técnicas aprendidas para explicitar os requisitos do sistema em questão e produzir os diagramas de análise e projeto para esse sistema.
+
+Como resultado, espera-se a escrita de um documento descrevendo brevemente o escopo do sistema, apresentando os seus requisitos, as descrições de casos de uso e os principais diagramas de análise e projeto construídos. Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Esse documento não será avaliado pelo seu tamanho, mas sim pela sua completude e corretude e capacidade de argumentação em relação às decisões tomadas para contornar as dificuldades encontradas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Esse documento deve ser entregue na data estipulada (ver seção Cronograma) para compor a Avaliação3 (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Seminários
+
+Durante o curso foram reservados dois momentos para a apresentação dos trabalhos (ver seção Cronograma). Inicialmente, haverá uma primeira apresentação, onde é esperado que cada grupo discuta brevemente (15 minutos por grupo) como está o andamento do trabalho. O grupo poderá utilizar slides e quadro. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento.
+
+Posteriormente, haverá a segunda e última apresentação, também com duração de 15 minutos, onde os grupos devem mostrar os resultados finais do trabalho. Vale notar que nesse momento os trabalhos já foram entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Essas apresentações serão consideradas na composição da Avaliação3 (item Seminários).
+
+### Monitoria
+
+Monitor: André Luiz Brandão (aluno de doutorado em estágio de docência)  
+E-mail: <brandaoihc@gmail.com>
+
+### Presença
+
+De acordo com o Regulamento dos Cursos de Graduação, a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+### Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o Regulamento dos Cursos de Graduação, não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+### Ferramentas CASE
+
+Ferramentas CASE são de extrema valia durante as atividades de análise e projeto. Contudo, em momentos mais incipientes dessas atividades, a utilização de papel ou quadro normalmente contribui na estimulação da criatividade. Desta forma, é esperada a utilização de papel durante os exercícios em sala de aula, apesar de não ser proibida a utilização de ferramentas CASE caso o grupo disponha de notebook. Entretanto, para a execução do trabalho, é esperado o uso de ferramentas CASE.
+
+Atualmente, existem diversas ferramentas CASE disponíveis gratuitamente para uso (<http://en.wikipedia.org/wiki/List_of_UML_tools>).  Fica a critério dos grupos a seleção da ferramenta CASE que será utilizada na execução do trabalho. É importante notar que a ferramenta escolhida deve dar suporte à confecção de diagramas de caso de uso, classes, transição de estados, atividade e seqüência de acordo com a UML 2.
+
+### Orientação a Objetos
+
+É desejável que os alunos já tenham alguma experiência em orientação a objetos no nível de programação. Contudo, será dada uma aula com o intuito de fazer uma breve revisão dos conceitos de orientação a objetos utilizando Java. Uma leitura recomendada sobre o tema se encontra em <http://java.sun.com/docs/books/tutorial/java/concepts/index.html>. Para um aprofundamento maior, leia <http://java.sun.com/docs/books/tutorial/java/index.html>.
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. Apesar de essas referências estarem em inglês, muitos desses livros têm versões em português.
+
+Booch, G.; Rumbaugh, J.; Jacobson, I.; 2005. The Unified Modeling Language User Guide. 2nd ed. Addison-Wesley Professional.
+
+Cockburn, A.; 2000. Writing Effective Use Cases. Addison-Wesley Professional.
+
+Fowler, M.; 2003. UML Distilled: A Brief Guide to the Standard Object Modeling Language. 3rd ed. Addison-Wesley Professional.
+
+Gamma, Erich, Richard Helm, Ralph Johnson, e John M. Vlissides. 1994. Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley Professional.
+
+Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
+
+McLaughlin, B. D.; Pollice, G.; West, D.; 2006. Head First Object-Oriented Analysis and Design. illustrated edition. O'Reilly Media, Inc.
+
+Page-Jones, M.; 2001. Fundamentos do Desenho Orientado a Objetos com UML. Makron Books.
+
+Pilone, D.; Russ, M.; 2008. Head First Software Development. illustrated edition. O'Reilly Media, Inc.
+
+Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Zakhour, Sharon, Scott Hommel, Jacob Royal, et al. 2006. The Java Tutorial: A Short Course on the Basics, 4th Edition. 4th ed. Prentice Hall PTR.
+
+### Cronograma
+
+<table style="border-collapse: collapse; width: 100%; text-align: center;" border="1">
+	<tr style="font-weight: bold;">
+		<td>Data</td>
+		<td>Atividade</td>
+		<td>Entrega</td>
+	</tr>
+	<tr>
+		<td>10/3/2009</td>
+		<td>Aula - <a href="../es1/aula1-2009-1.pdf">Apresentação do curso</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>12/3/2009</td>
+		<td>Aula - <a href="../es1/aula2.pdf">Introdução à ES</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>17/3/2009</td>
+		<td>Aula - <a href="../es1/aula2.pdf">Introdução à ES</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>19/3/2009</td>
+		<td>Aula - <a href="../es1/aula2.pdf">Introdução à ES</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>24/3/2009</td>
+		<td>Aula - <a href="../es1/aula2a.pdf">Processo Unificado</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>26/3/2009</td>
+		<td>Aula - <a href="../es1/aula3.pdf">OO em Java</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>31/3/2009</td>
+		<td>Aula - <a href="../es1/aula5.pdf">Princípios de Engenharia de Requisitos</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2/4/2009</td>
+		<td>Aula - <a href="../es1/aula6.pdf">Casos de Uso</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>7/4/2009</td>
+		<td>Aula - <a href="../es1/aula6.pdf">Casos de Uso</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>9/4/2009</td>
+		<td>Sem atividade (Semana Santa)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>14/4/2009</td>
+		<td>Aula - <a href="../es1/aula7.pdf">Classes</a></td>
+		<td><a href="../es1/lista1.pdf">Lista 1</a> e <a href="../es1/lista2.pdf">Lista 2</a></td>
+	</tr>
+	<tr>
+		<td>16/4/2009</td>
+		<td>Sem atividade (Banca de Concurso na UFJF)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>21/4/2009</td>
+		<td>Sem atividade (Tiradentes)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>23/4/2009</td>
+		<td>Sem atividade (São Jorge)</td>
+		<td><a href="../es1/lista3.pdf">Lista 3</a></td>
+	</tr>
+	<tr>
+		<td>28/4/2009</td>
+		<td>Aula - <a href="../es1/aula7.pdf">Classes</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>30/4/2009</td>
+		<td>Aula - <a href="../es1/aula7.pdf">Classes</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>5/5/2009</td>
+		<td>Aula - <a href="../es1/aula7.pdf">Classes</a> e revisão das listas</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>7/5/2009</td>
+		<td>Prova 1</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>12/5/2009</td>
+		<td>Seminários - Grupos 1, 2, 3 e 8</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>14/5/2009</td>
+		<td>Seminários - Grupos 4, 5, 6 e 7</td>
+		<td><a href="../es1/lista4.pdf">Lista 4</a></td>
+	</tr>
+	<tr>
+		<td>19/5/2009</td>
+		<td>Aula - <a href="../es1/aula8.pdf">Estados</a> e vista de prova</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>21/5/2009</td>
+		<td>Aula - <a href="../es1/aula9.pdf">Atividades</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>26/5/2009</td>
+		<td>Aula - <a href="../es1/aula10.pdf">Seqüência</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>28/5/2009</td>
+		<td>Aula - <a href="../es1/aula12.pdf">Princípios de Projeto OO</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2/6/2009</td>
+		<td>Sem atividade (<a href="http://www.sbqs2009.ufop.br">SBQS</a>)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>4/6/2009</td>
+		<td>Sem atividade (<a href="http://www.sbqs2009.ufop.br">SBQS</a>)</td>
+		<td><a href="../es1/lista5.pdf">Lista 5</a></td>
+	</tr>
+	<tr>
+		<td>9/6/2009</td>
+		<td>Aula - <a href="../es1/aula12.pdf">Princípios de Projeto OO</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>11/6/2009</td>
+		<td>Sem atividade (Corpus Christi)</td>
+		<td><a href="../es1/lista6.pdf">Lista 6</a></td>
+	</tr>
+	<tr>
+		<td>16/6/2009</td>
+		<td>Aula - <a href="../es1/aula12.pdf">Princípios de Projeto OO</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>18/6/2009</td>
+		<td>Aula - <a href="../es1/aula12.pdf">Princípios de Projeto OO</a> e Aula - <a href="../es1/aula12a.pdf">Padrões GRASP</a></td>
+		<td><a href="../es1/lista7.pdf"></a></td>
+	</tr>
+	<tr>
+		<td>23/6/2009</td>
+		<td>Aula - <a href="../es1/aula12a.pdf">Padrões GRASP</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>25/6/2009</td>
+		<td>Aula - <a href="../es1/aula12a.pdf">Padrões GRASP</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>30/6/2009</td>
+		<td>Seminários - Grupos 2, 3, 6 e 7</td>
+		<td><a href="../es1/lista7.pdf">Lista 7 (leituras 7 e 8, com peso 2)</a> e Trabalho</td>
+	</tr>
+	<tr>
+		<td>2/7/2009</td>
+		<td>Seminários - Grupos 1, 4, 5 e 8</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>7/7/2009</td>
+		<td>Prova 2</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>9/7/2009</td>
+		<td>Sem atividade</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>14/7/2009</td>
+		<td>Verificação Suplementar</td>
+		<td></td>
+	</tr>
+</table>

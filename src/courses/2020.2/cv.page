@@ -1,0 +1,156 @@
+---
+title: Controle de Versão
+in_menu: true
+sort_info: 1
+---
+## Controle de Versão
+
+### Logística
+
+Data: terças e quintas, de 16h às 18h.
+
+Sala: [Google Meet](https://meet.google.com/) informado no [Google Classroom](https://classroom.google.com/). 
+
+Todos os alunos **devem** estar inscritos na nossa sala de aula virtual do [Google Classroom](https://classroom.google.com/). Caso você não esteja inscrito, entre em contato comigo.
+
+### Avaliação
+
+A avaliação na disciplina ocorre de forma continuada, observando diversos componentes do processo de aprendizagem. Será aprovado na disciplina o aluno que obtiver *Média Final* maior ou igual a 6, computada conforme a seguinte equação:
+
+*Média Final = (2 x Apresentações de Artigos + Discussões de Artigos + 2 x Desafios + 3 x Trabalho + Apresentações do Trabalho + Avaliações de Artigos) / 10*
+
+### Apresentações de Artigos
+
+As aulas de terça-feira consistem na apresentação dos artigos lidos na semana, seguida de discussões sobre os artigos (ver seção *Cronograma*). Todos os alunos devem ler todos os artigos, porém a apresentação será feita por alunos previamente definidos. No final da apresentação, todos os alunos devem fazer perguntas e discutir sobre os artigos (se preparem para tal). Usualmente, cada aluno apresenta em torno de 3 artigos no decorrer do curso. Me envie o quanto antes uma lista dos artigos que você gostaria de apresentar (envie ao menos cinco, ordenados por preferência). A atribuição será feita pela ordem do recebimento dos pedidos. Cada apresentação deve ter duração de **no máximo** 30 minutos. A participação nessas atividades será considerada na composição da média final (item *Apresentações de Artigos*).
+
+Os artigos, listados a seguir, estão disponíveis em formato pdf no [Google Classroom](https://classroom.google.com/). Para cada artigo é indicado o responsável pela apresentação, ou se ele ainda está disponível. Algumas leituras não terão apresentação, pois serão sujeitas a um "desafio", conforme discutido mais a frente.
+
+**1ª leitura: Git**
+
+> \[<span style="color: red">Apresentador: Clayton</span>\] Chacon S., "Chapter 1: Getting Started", Pro Git, 2nd ed., 2014.
+
+> \[<span style="color: red">Apresentador: Wagner</span>\] Chacon S., "Chapter 2: Git Basics", Pro Git, 2nd ed., 2014.
+
+**2ª leitura: Git**
+
+> \[<span style="color: red">Apresentador: Raquel</span>\] Chacon S., "Chapter 3: Git Branching", Pro Git, 2nd ed., 2014.
+
+> \[<span style="color: red">Apresentador: Bruno</span>\] Chacon S., "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.
+
+**3ª leitura: Git**
+
+> Chacon S., "Chapter 7: Git Tools", Pro Git, 2nd ed., 2014.
+
+**4ª leitura: Git**
+
+> \[<span style="color: red">Apresentadores: Raphael e Wagner</span>\] Chacon S., "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.
+
+**5ª leitura: Versioning**
+
+> \[<span style="color: red">Apresentador: Bruno</span>\] Conradi, R. and Westfechtel, B., "Version Models for Software Configuration Management", ACM Computing Surveys, v. 30, n. 2, p. 232-282, 1998.
+
+**6ª leitura: Diff**
+
+> Hunt, J., McIlroy, M., "An Algorithm for Differential File Comparison", Bell Laboratories, 1976.
+
+> Miller, W., Myers, E., "A File Comparison Program", Software: Practice and Experience, v. 15, n. 11, p. 1025-1040, 1985. 
+
+**7ª leitura: Merge**
+
+> \[<span style="color: red">Apresentador: Raphael</span>\] Mens, T., "A State-of-the-Art Survey on Software Merging", IEEE Transactions Software Engineering, v. 28, n. 5, p. 449-462, 2002.
+
+> \[<span style="color: red">Apresentador: Raquel</span>\] Ghiotto, G., Murta, L., Barros, M., van der Hoek, A., "On the Nature of Merge Conflicts: a Study of 2,731 Open Source Java Projects Hosted by GitHub", IEEE Transactions on Software Engineering, 2019.
+
+**8ª leitura: Branching**
+
+> \[<span style="color: red">Apresentador: Raphael</span>\] Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R., "Streamed Lines: Branching Patterns for Parallel Software Development", Pattern Languages of Programs (PLoP), 1998.
+
+**9ª leitura: MSR**
+
+> \[<span style="color: red">Apresentador: Raquel</span>\] Hassan, A., "The road ahead for Mining Software Repositories", Frontiers of Software Maintenance, pp. 48-57, 2008.
+
+> \[<span style="color: red">Apresentador: Clayton</span>\] Pimentel, J. F., Murta, L., Braganholo, V., and Freire, J., "A Large-Scale Study About Quality and Reproducibility of Jupyter Notebooks", International Conference on Mining Software Repositories (MSR), pp. 507-517, 2019.
+
+
+**10ª leitura: MSR**
+
+> \[<span style="color: red">Apresentador: Wagner</span>\] Bird, C., Rigby, P. C., Barr, E. T., Hamilton, D. J., German, D. M., & Devanbu, P. "The promises and perils of mining git", International Working Conference on Mining Software Repositories (MSR), p. 1-10, 2009.
+
+> \[<span style="color: red">Apresentador: Clayton</span>\] Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", International Working Conference on Mining Software Repositories (MSR), p. 92-101,  2014.
+
+
+### Discussões de Artigos
+
+Todo aluno que não está responsável pela apresentação de artigos da semana deve se preparar para fazer perguntas e trazer o seu ponto de vista sobre os artigos que estão sendo apresentados pelos colegas. A profundidade dessas perguntas, assim como a intensidade e qualidade das discussões, serão consideradas na composição da média final (item *Discussões de Artigos*).
+
+### Desafios
+
+Em algumas semanas, teremos uma atividade assíncrona de desafio. Esse desafio tem por objetivo praticar os conhecimentos da leitura daquela semana, visando uma maior fixação do conteúdo. Para que os alunos possam se dedicar aos desafios, não teremos aulas síncronas nos dias dos desafios (ver seção *Cronograma*). Contudo, os alunos podem usar o [Google Classroom](https://classroom.google.com/) para dúvidas e discussões. A completude e corretude das respostas ao desafio serão consideradas na composição da média final (item *Desafios*). 
+
+### Trabalho
+
+Cada aluno deve, durante as primeiras semanas de aula, escolher o tema do seu trabalho. Esse trabalho pode ser (1) a aplicação de controle de versão em alguma área, (2) o uso de alguma técnica para apoiar o controle de versão, (3) mineração e visualização de repositórios de controle de versão ou (4) um estudo de técnicas avançadas de controle de versão. O tema do trabalho deve ser negociado com o professor antes do seu início.
+
+Como resultado, espera-se a escrita de um artigo de 4 páginas no [formato da ACM](https://www.acm.org/publications/proceedings-template) -- use o template ACM_SigConf. Esse artigo deve apresentar uma introdução, contendo a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos (tanto a descrição do que foi feito quanto uma avaliação, mostrando a efetividade) e conclusão. 
+
+A entrega será feita através de um software de controle de conferências real, o [EasyChair](http://www.easychair.org). Nós iremos simular todo o processo de submissão e avaliação de artigos usado em conferências no contexto dessa disciplina. Para submeter seu artigo, [clique aqui](https://easychair.org/conferences/?conf=uffvc20202). O artigo deve ser entregue na data estipulada (ver seção *Cronograma*) para compor a média final (item *Trabalho*).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Apresentações do Trabalho
+
+Durante o curso foram reservados três momentos para a apresentação de trabalhos (ver seção *Cronograma*). Cada apresentação deve durar **no máximo** 20 minutos. Na primeira apresentação, é esperado que os alunos discutam o contexto do trabalho, o seu objetivo e a metodologia a ser adotada na execução do mesmo. Na segunda apresentação, é esperado que os alunos discutam como está o andamento do trabalho. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento. Posteriormente, haverá uma apresentação final onde os alunos devem mostrar os resultados obtidos no trabalho. Essas apresentações serão consideradas na composição da média final (item *Apresentações do Trabalho*).
+
+### Avaliações de Artigos
+
+Conforme explicado anteriormente, na disciplina simularemos uma conferência, onde os autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e, consequentemente, receberão artigos dos colegas para avaliar. As avaliações serão consideradas na composição da média final (item *Avaliações de Artigos*) do aluno que fez a avaliação, mas não serão consideradas na nota do aluno que submeteu o artigo. Assim, as avaliações devem ser tecnicamente profundas, sem preocupação de prejudicar a nota do colega.
+
+Para avaliar os artigos que foram atribuídos a você, [clique aqui](https://easychair.org/conferences/?conf=uffvc20202). No menu, escolha uff-vc-2020-2, e depois clique em Change Role. Escolha agora o papel de avaliador ao invés de autor. Depois, acesse o menu Reviews, e clique em Assigned to me. Lá aparecerão os artigos que foram atribuídos para você avaliar.
+
+Obs.: atraso na entrega das Avaliações de Artigos terá uma multa de um ponto por dia.
+
+### Resumos (opcionais)
+
+Os alunos que não estão encarregados de fazer apresentações de artigos na semana podem, opcionalmente, escrever resumos sobre cada um dos artigos lidos. A escrita dos resumos pode ajudar a organizar as ideias para a discussão dos artigos. Esses resumos devem caber em uma página A4 (fonte 12, margem 2 cm, espaçamento simples), contendo o título do artigo, o nome do aluno e o resumo em si. O resumo deve focar na principal mensagem do artigo, tendo início, meio e fim (evite o uso de bullets). Termine o resumo com um parágrafo expondo a sua opinião sobre o artigo, indicando os principais aspectos positivos e negativos do artigo.
+
+Caso o aluno opte por fazer resumos, eles devem ser enviados na atividade respectiva do [Google Classroom](https://classroom.google.com/) antes da aula em que o artigo será apresentado. Caso, no final do curso, o aluno esteja com média entre 5,5 e 6,0, os resumos serão corrigidos podendo somar até 0,5 pontos na média, eventualmente arredondando a média para 6,0. Não serão aceitas entregas fora do prazo.
+
+### Gravação
+
+As aulas síncronas serão gravadas e disponibilizadas para os alunos do curso, visando permitir que quem não pôde assistir de forma síncrona tenha acesso ao que foi apresentado e discutido. Além disso, esse material pode ser utilizado pelos demais alunos durante seus estudos durante o curso. Caso algum aluno não queria que sua imagem ou voz seja gravada, mantenha a câmera desligada e opte pelo uso do chat ao invés do microfone.
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+| Data | Atividade | Entrega
+|---
+| 01/09/20 | Aula - [apresentação do curso](/courses/cm/lecture1-2020-2.pdf)
+| 03/09/20 | Aula - [introdução ao controle de versão](/courses/cm/lecture2.pdf)
+| 08/09/20 | <span style="color: green">Apresentações de artigos (1ª leitura)</span> | Resumos (opcional)
+| 10/09/20 | Aula - [fundamentos de controle de versão](/courses/cm/lecture3.pdf)
+| 15/09/20 | <span style="color: green">Apresentações de artigos (2ª leitura)</span> | Resumos (opcional)
+| 17/09/20 | Aula - [fundamentos de controle de versão](/courses/cm/lecture3.pdf)
+| 22/09/20 | <span style="color: blue">Apresentações dos trabalhos (1ª rodada)</span>
+| 24/09/20 | <span style="color: blue">Apresentações dos trabalhos (1ª rodada)</span>
+| 29/09/20 | <span style="color: red">Sem aula síncrona (desafio de análise de log -- 3ª leitura)</span>
+| 01/10/20 | <span style="color: red">Sem aula síncrona (desafio de análise de log -- 3ª leitura)</span> | Resposta do desafio
+| 06/10/20 | <span style="color: green">Apresentações de artigos (4ª leitura)</span> | Resumos (opcional)
+| 08/10/20 | Aula - [diff](/courses/cm/lecture4.pdf)
+| 13/10/20 | <span style="color: green">Apresentações de artigos (5ª leitura)</span> | Resumos (opcional)
+| 15/10/20 | <span style="color: red">Sem aula síncrona (dia do professor)</span>
+| 20/10/20 | <span style="color: red">Sem aula síncrona (desafio de diff -- 6ª leitura)</span>
+| 22/10/20 | <span style="color: red">Sem aula síncrona (desafio de diff -- 6ª leitura)</span> | Resposta do desafio
+| 27/10/20 | <span style="color: blue">Apresentações dos trabalhos (2ª rodada)</span>
+| 29/10/20 | <span style="color: blue">Apresentações dos trabalhos (2ª rodada)</span>
+| 03/11/20 | <span style="color: green">Apresentações de artigos (7ª leitura)</span> | Resumos (opcional)
+| 05/11/20 | <span style="color: blue">Apresentações dos trabalhos (2ª rodada)</span>
+| 10/11/20 | Aula - [fundamentos de controle de versão](/courses/cm/lecture3.pdf)
+| 12/11/20 | Aula - [estratégias de ramificação](/courses/cm/lecture5.pdf)
+| 17/11/20 | <span style="color: green">Apresentações de artigos (8ª leitura)</span> | Resumos (opcional)
+| 19/11/20 | <span style="color: green">Apresentações de artigos (9ª leitura)</span> | Resumos (opcional)
+| 24/11/20 | <span style="color: green">Apresentações de artigos (10ª leitura)</span> | Resumos (opcional)
+| 26/11/20 | Aula - apresentação de artigo publicado no [SBES 2014](/courses/cm/sbes2014.pdf)
+| 01/12/20 | <span style="color: blue">Apresentações dos trabalhos (3ª rodada)</span>
+| 03/12/20 | <span style="color: blue">Apresentações dos trabalhos (3ª rodada)</span> | Trabalho (submeter via [EasyChair](https://easychair.org/conferences/?conf=uffvc20202))
+| 08/12/20 | <span style="color: red">Sem aula síncrona (avaliações de artigos)</span>
+| 10/12/20 | <span style="color: red">Sem aula síncrona (avaliações de artigos)</span> | Avaliações de artigos (submeter via [EasyChair](https://easychair.org/conferences/?conf=uffvc20202))

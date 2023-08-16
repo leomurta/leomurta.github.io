@@ -1,0 +1,298 @@
+---
+title: Engenharia de Software II
+in_menu: true
+sort_info: 1
+---
+## Engenharia de Software II
+
+### Logística
+
+Disciplina: TCC00181  Engenharia de Software II
+
+Data: quartas e sextas, de 7:00 às 9:00
+
+Local: quartas na sala 233 do bloco D e sextas na sala 335 do bloco D
+
+Lista: <http://groups.google.com/group/uff-es2-2011-2> (importante: todos os alunos **devem** se cadastrar nessa lista)
+
+### Avaliação
+
+Média = (Avaliação1 + Avaliação2 + Avaliação3) / 3
+
+Avaliação1 = Prova sem consulta
+
+Avaliação2 = Prova sem consulta
+
+Avaliação3 = (Participação + 2 x Seminários + 3 x Trabalho) / 6
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Grupos
+
+As atividades da Avaliação3 serão feitas em grupos de 6 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: ES2 - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+Ao final do curso, cada membro do grupo será solicitado a indicar, sob o seu ponto de vista, o percentual de participação de cada membro do grupo (inclusive de sí próprio) no resultado final do trabalho. Esta informação será utilizada na distribuição das notas. Desta forma, se empenhe desde o início de forma pró-ativa.
+
+### Participação
+
+Na maioria das aulas serão fornecidos exercícios para serem feitos em grupo durante a aula ou em casa. Ao término, os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da Avaliação3 (item Participação).
+
+### Trabalho
+
+Cada grupo deve se enxergar como uma pequena software house, e enxergar o professor como cliente. O tema do trabalho é fazer um [jogo de xadrez](http://en.wikipedia.org/wiki/Chess) onde seja possível jogar contra o computador. 
+
+O trabalho consiste em, durante o decorrer do curso, utilizar as técnicas aprendidas para gerenciar o projeto e desenvolver o produto. Será avaliado o produto final e como esse produto foi desenvolvido (processos e técnicas aplicados).
+
+Como resultado, além do produto funcionando, espera-se a escrita de um documento (a ser entregue impresso) descrevendo o planejamento de gerência de projetos, o seu monitoramento e controle, os recursos de gerência de configuração utilizados, os casos, dados e resultados de testes e todos os demais artefatos estudados durante o curso. Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Esse documento será avaliado pela sua completude e corretude e capacidade de argumentação em relação às decisões tomadas para contornar as dificuldades encontradas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Esse documento deve ser entregue na data estipulada (ver seção Cronograma) para compor a Avaliação3 (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Seminários
+
+Durante o curso foram reservados três momentos para a apresentação dos trabalhos (ver seção Cronograma). Inicialmente, haverá uma primeira apresentação, onde é esperado que cada grupo discuta brevemente (20 minutos por grupo) como está o andamento do trabalho. O grupo poderá utilizar slides e quadro. Nesse momento, já é esperado algum resultado concreto, em especial referente a papéis dos membros da equipe, estimativas de esforço, custo e cronograma de desenvolvimento e versão parcial do produto.
+
+Posteriormente, haverá a segunda apresentação, também com duração de 20 minutos, onde os grupos devem mostrar os dados de monitoramento e controle do projeto, repositório de gerência de configuração e uma versão parcial do produto.
+
+Finalmente, haverá uma última apresentação dos resultados finais do trabalho. Vale notar que nesse momento os trabalhos estão prestes a ser entregues (programa funcionando e relatório impresso), e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Nesse momento é esperado os dados de monitoração e controle do projeto, casos de teste e resultados da sua execução e versão final do produto. Essas apresentações serão consideradas na composição da Avaliação3 (item Seminários).
+
+### Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+### Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+### Ferramentas
+
+No curso não temos uma ferramenta obrigatória, mas sugiro que os grupos utilizem essa oportunidade para experimentar ferramentas que ainda não conhecem ou mesmo aprofundar os conhecimentos em ferramentas já conhecidas.
+
+A ferramenta MS Project, de gerência de projetos baseada em métodos clássicos, está disponível para download em função da parceria do IC com a Microsoft. Consultem mais informações no laboratório da graduação.
+
+Contudo, existem várias outras ferramentas proprietárias e livres que apóiam os diferentes tópicos tratados neste curso: [gerência de projetos](https://en.wikipedia.org/wiki/Comparison_of_project_management_software), [estimativas](https://en.wikipedia.org/wiki/Comparison_of_development_estimation_software), [controle de versões](https://en.wikipedia.org/wiki/Comparison_of_revision_control_software), [controle de modificações](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems), [gerenciamento de construção](https://en.wikipedia.org/wiki/List_of_build_automation_software), [integração contínua](https://en.wikipedia.org/wiki/Comparison_of_Continuous_Integration_Software), [hospedagem de projetos](https://en.wikipedia.org/wiki/Comparison_of_open_source_software_hosting_facilities), [testes de unidade](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks), [testes de interface](https://en.wikipedia.org/wiki/List_of_GUI_testing_tools), [testes de carga](https://en.wikipedia.org/wiki/Web_server_benchmarking), [profiling](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools) e [stubs de teste](http://en.wikipedia.org/wiki/List_of_mock_object_frameworks).
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. Apesar de essas referências estarem em inglês, muitos desses livros têm versões em português.
+
+Greene, J.; Stellman, A.; 2007. Head First PMP. O'Reilly Media.
+
+Orth, A.; Prikladnicki, R.; 2009. Planejamento e Gerência de Projetos. EDIPUCRS.
+
+Pilone, D.; Miles, R.; 2008. Head First Software Development. O'Reilly Media.
+
+Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Schwaber, K.; 2004. Agile Project Management with Scrum. Microsoft Press.
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>10/08/2011</td>	  
+	  <td>Aula - <a href="../es2/aula1-2011-2.pdf">Apresentação do Curso</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/08/2011</td>	  
+	  <td>Aula - <a href="../es2/aula2.pdf">Revisão de ES1</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/08/2011</td>
+	  <td>Aula - <a href="../es2/aula2.pdf">Revisão de ES1</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/08/2011</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>	  	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/08/2011</td>	  
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/08/2011</td>	  
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>	  	  
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>31/08/2011</td>	  
+	  <td>Sem aula (<a href="http://www.cos.ufrj.br/index.php?option=com_extcalendar&Itemid=99999999&extmode=view&extid=844">banca de defesa de doutorado</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/09/2011</td>	  
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/09/2011</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Independência</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/09/2011</td>	  
+	  <td>Aula - <a href="../es2/aula4.pdf">Monitoramento e Controle</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/09/2011</td>
+	  <td>Aula - <a href="../es2/aula4.pdf">Monitoramento e Controle</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/09/2011</td>
+	  <td>Seminário (1ª rodada) - grupos 2, 5 e 6</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/09/2011</td>
+	  <td>Seminário (1ª rodada) - grupos 1 e 4</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/09/2011</td>
+	  <td>Prova 1</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/09/2011</td>
+	  <td>Sem aula (<a href="http://www.each.usp.br/cbsoft2011">CBSoft</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/09/2011</td>
+	  <td>Sem aula (<a href="http://www.each.usp.br/cbsoft2011">CBSoft</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/10/2011</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/10/2011</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/10/2011</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Nossa Senhora Aparecida</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/10/2011</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>	  
+	</tr>
+	<tr>
+	  <td>19/10/2011</td>
+	  <td>Sem aula (<a href="http://semanact.mct.gov.br">Semana Nacional de Ciência e Tecnologia</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/10/2011</td>
+	  <td>Sem aula (<a href="http://semanact.mct.gov.br">Semana Nacional de Ciência e Tecnologia</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/10/2011</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/10/2011</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Funcionário Público</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/11/2011</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Finados</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/11/2011</td>
+	  <td>Seminário (2ª rodada) - grupos 1 e 4</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/11/2011</td>
+	  <td>Seminário (2ª rodada) - grupos 2, 5 e 6</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/11/2011</td>
+	  <td>Aula - <a href="../es2/aula6.pdf">Verificação, Validação & Testes</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/11/2011</td>
+	  <td>Aula - <a href="../es2/aula6.pdf">Verificação, Validação & Testes</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/11/2011</td>
+	  <td>Aula - <a href="../es2/aula6.pdf">Verificação, Validação & Testes</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/11/2011</td>
+	  <td>Aula - <a href="../es2/aula7.pdf">Garantia da Qualidade, Medição e Melhoria</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/11/2011</td>
+	  <td>Prova 2</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/11/2011</td>
+	  <td>Seminário (rodada final) - grupos 2, 4, 5</td>
+	  <td>Trabalho</td>
+	</tr>
+	<tr>
+	  <td>02/12/2011</td>
+	  <td>Seminário (rodada final) - grupos 1 e 6</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/12/2010</td>
+	  <td>Vista de Avaliação (bloco E, sala 304)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/12/2011</td>	
+	  <td>Sem aula</td>	
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/12/2011</td>	
+	  <td>Verificação Suplementar</td>	
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/12/2011</td>	
+	  <td>Vista de Avaliação (bloco E, sala 304)</td>	
+	  <td></td>
+	</tr>
+</table>

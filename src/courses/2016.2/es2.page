@@ -1,0 +1,302 @@
+---
+title: Engenharia de Software II
+in_menu: true
+sort_info: 1
+---
+## Engenharia de Software II
+
+### Logística
+
+Disciplina: TCC00181 - Engenharia de Software II
+
+Data: quartas e sextas, de 7:00 às 9:00
+
+Sala: 321
+
+Grupo: <http://www.facebook.com/groups/es2-2016.2> (todos os alunos devem se inscrever no grupo)
+
+### Avaliação
+
+*Média* = (2 x *Prova 1* + 2 x *Prova 2* + *Trabalho*) / 5
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+(Presença < 75%) OU (Média < 4)
+
+### Trabalho
+
+O curso terá um trabalho feito em grupos de 5 participantes, que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso. Cada grupo deve se enxergar como uma pequena software house. O tema do trabalho consiste em fazer um [jogo de Damas](https://pt.wikipedia.org/wiki/Damas) onde seja possível jogar contra o computador. É esperado que os grupos, durante o decorrer do curso, utilizem as técnicas aprendidas para gerenciar o projeto e desenvolver o produto. Será avaliado o produto final e como esse produto foi desenvolvido (processos e técnicas aplicados).
+
+Desde o início do trabalho, os grupos devem registrar as tarefas alocadas para cada membro do grupo, assim como as horas previstas para realização da tarefa e as horas efetivamente realizadas na tarefa. Essa informação será fundamental para viabilizar o Monitoramento e Controle do projeto.
+
+Foram reservados 3 momentos para apresentações de 30 minutos por grupo. O grupo deve utilizar slides nas apresentações e publicar esses slides no grupo do Facebook da disciplina no final das apresentações. 
+
+A **primeira apresentação** deve conter o escopo do projeto e do produto, as estimativas de esforço e custo, o orçamento, o cronograma de desenvolvimento, a análise de riscos e o monitoramento e controle do projeto. O grupo também deve mostrar a versão parcial do produto feita até então.
+
+A **segunda apresentação** deve descrever como está sendo usado controle de versões e controle de modificações no projeto, qual estratégia de ramificação foi adotada, assim como apresentar o conteúdo do repositório e o monitoramento e controle do projeto, além de mostrar a versão parcial do produto feita até então. Além disso, nessa apresentação deve ser informado o endereço do repositório de controle de versões e de controle de modificações. Vale ressaltar que o repositório de controle de versões deve conter todos os artefatos produzidos durante o trabalho.
+
+A **terceira apresentação** deve descrever como foram feitos testes de unidade, integração, sistema e aceitação no projeto, assim como apresentar os casos de teste e resultados da sua execução, dados de monitoramento e controle do projeto e versão final do produto. Além disso, nessa última apresentação também é esperado um detalhamento das dificuldades encontradas e decisões tomadas e listagem do percentual de participação de cada membro do grupo no trabalho. Caso não seja informado o percentual de participação, estará subentendido que todos participaram igualmente. 
+
+Essas apresentações serão avaliadas pela sua completude e corretude e capacidade de argumentação em relação às decisões tomadas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Essas apresentações e entregas devem ser feitas nas datas estipuladas na seção Cronograma. 
+
+Obs.: O atraso na entrega terá uma multa de um ponto por dia.
+
+### Listas
+
+As listas não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala.
+
+* [Lista de Processo de Software](/courses/es2/lista1.pdf)
+* [Lista de Planejamento de Projetos](/courses/es2/lista2.pdf)
+* [Lista de Monitoramento e Controle](/courses/es2/lista3.pdf)
+* [Lista de Gerência de Configuração](/courses/es2/lista4.pdf)
+* [Lista de Verificação, Validação e Testes](/courses/es2/lista5.pdf)
+* [Lista de Qualidade, Medição e Melhoria](/courses/es2/lista6.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Ferramentas
+
+No curso não temos uma ferramenta obrigatória. Os grupos devem aproveitar essa oportunidade para experimentar ferramentas que ainda não conhecem ou mesmo aprofundar os conhecimentos em ferramentas já conhecidas.
+
+Existem várias ferramentas proprietárias e livres que apóiam os diferentes tópicos tratados neste curso: [gerência de projetos](https://en.wikipedia.org/wiki/Comparison_of_project_management_software), [estimativas](https://en.wikipedia.org/wiki/Comparison_of_development_estimation_software), [controle de versões](https://en.wikipedia.org/wiki/Comparison_of_revision_control_software), [controle de modificações](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems), [gerenciamento de construção](https://en.wikipedia.org/wiki/List_of_build_automation_software), [integração contínua](https://en.wikipedia.org/wiki/Comparison_of_Continuous_Integration_Software), [hospedagem de projetos](https://en.wikipedia.org/wiki/Comparison_of_open_source_software_hosting_facilities), [testes de unidade](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks), [testes de interface](https://en.wikipedia.org/wiki/List_of_GUI_testing_tools), [testes de carga](https://en.wikipedia.org/wiki/Web_server_benchmarking) e [profiling](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools).
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. Apesar de essas referências estarem em inglês, muitos desses livros têm versões em português.
+
+Greene, J.; Stellman, A.; 2007. Head First PMP. O'Reilly Media.
+
+Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
+
+Orth, A.; Prikladnicki, R.; 2009. Planejamento e Gerência de Projetos. EDIPUCRS.
+
+Pilone, D.; Miles, R.; 2008. Head First Software Development. O'Reilly Media.
+
+Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Schwaber, K.; 2004. Agile Project Management with Scrum. Microsoft Press.
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>31/08/2016</td>
+	  <td>Aula - <a href="../es2/aula1-2016-2.pdf">Apresentação do Curso</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/09/2016</td>
+	  <td>Aula - <a href="../es2/aula2.pdf">Processo de Software</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/09/2016</td>
+	  <td><font color="red">Sem aula (Independência do Brasil)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/09/2016</td>
+	  <td>Aula - <a href="../es2/aula2.pdf">Processo de Software</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/09/2016</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/09/2016</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/09/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://cbsoft.org/cbsoft2016">CBSoft</a>)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/09/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://cbsoft.org/cbsoft2016">CBSoft</a>)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/09/2016</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/09/2016</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/10/2016</td>
+	  <td>Aula - <a href="../es2/aula4.pdf">Monitoramento e Controle</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/10/2016</td>
+	  <td>Aula - <a href="../es2/aula4.pdf">Monitoramento e Controle</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/10/2016</td>
+	  <td><font color="red">Sem aula (Nossa Senhora Aparecida)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/10/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 2, 4 e 6)</font></td>
+	  <td>Slides</td>
+	</tr>
+	<tr>
+	  <td>19/10/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://uff.br/?q=agenda-academica-2016">Agenda Acadêmica</a>)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/10/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://uff.br/?q=agenda-academica-2016">Agenda Acadêmica</a>)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/10/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 1, 3, 5 e 7)</font></td>
+	  <td>Slides</td>
+	</tr>
+	<tr>
+	  <td>28/10/2016</td>
+	  <td><font color="red">Sem aula (Servidor Público)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/11/2016</td>
+	  <td><font color="red">Sem aula (Finados)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/11/2016</td>
+	  <td><font color="blue">Prova 1</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/11/2016</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/11/2016</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/11/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://www.cs.ucdavis.edu/fse2016/">FSE</a>)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/11/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://www.cs.ucdavis.edu/fse2016/">FSE</a>)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/11/2016</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/11/2016</td>
+	  <td>Aula - <a href="../es2/aula5a.pdf">Git</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/11/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos  (grupos 1, 2, 5 e 7)</font></td>
+	  <td>Slides</td>
+	</tr>
+	<tr>
+	  <td>02/12/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 3, 4 e 6)</font></td>
+	  <td>Slides</td>
+	</tr>
+	<tr>
+	  <td>07/12/2016</td>
+	  <td>Aula - <a href="../es2/aula6.pdf">VV&T</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/12/2016</td>
+	  <td>Aula - <a href="../es2/aula6.pdf">VV&T</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/12/2016</td>
+	  <td>Aula - <a href="../es2/aula7.pdf">Qualidade</a> e <a href="../es2/aula8.pdf">Manutenção</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/12/2016</td>
+	  <td><font color="blue">Prova 2</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/12/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 4, 5, 6 e 7)</font></td>
+	  <td>Slides</td>
+	</tr>
+	<tr>
+	  <td>23/12/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 1, 2 e 3)</font></td>
+	  <td>Slides</td>
+	</tr>
+	<tr>
+	  <td>28/12/2016</td>
+	  <td><font color="red">Sem aula (Natal/Reveillon)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/12/2016</td>
+	  <td><font color="red">Sem aula (Natal/Reveillon)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/01/2017</td>
+	  <td><font color="red">Sem aula</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>06/01/2017</td>
+	  <td><font color="blue">Segunda Chamada</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/01/2017</td>
+	  <td><font color="blue">Vista de prova</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/01/2017</td>
+	  <td><font color="blue">Verificação Suplementar</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/01/2017</td>
+	  <td><font color="blue">Vista de prova</font></td>
+	  <td></td>
+	</tr>
+</table>

@@ -1,0 +1,329 @@
+---
+title: Engenharia de Software I
+in_menu: true
+sort_info: 1
+---
+## Engenharia de Software I
+
+### Logística
+
+Disciplina: TCC04081  Engenharia de Software I
+
+Aulas: Terças e Quintas
+
+Horário: 7:00 às 9:00
+
+### Informações Gerais
+
+Inicio do curso: 05/08/2008  
+Término do curso: 09/12/2008  
+Total de Aulas: 30  
+
+### Avaliação
+
+Média = (Avaliação1 + Avaliação2 + Avaliação3) / 3
+
+Avaliação1 = Prova sem consulta
+
+Avaliação2 = Prova sem consulta
+
+Avaliação3 = (Participação + Listas + Trabalho + Apresentações) / 4
+
+**APROVADO**
+
+Presença >= 75% E Média >= 6
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+Presença >= 75% E 4 <= Média < 6
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Presença < 75% OU Média <= 4
+
+### Grupos
+
+As atividades da Avaliação3 serão feitas em grupos de 3 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: ES1 - Grupo) o nome e o e-mail de cada participante do grupo, juntamente com o tema do trabalho (ver seção Trabalho).
+
+### Participação
+
+Na maioria das aulas serão fornecidos exercícios para serem feitos em grupo durante a aula. Ao término, os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da Avaliação3 (item Participação).
+
+### Listas
+
+Um cronograma de leituras é indicado para viabilizar a consolidação dos conhecimentos referentes à matéria. É importante notar que o conteúdo das aulas teóricas, apesar de ser alinhado com as leituras, não as substitui. Por outro lado, não basta fazer as leituras, pois usualmente as aulas teóricas são mais profundas do que o que é apresentado no livro.
+
+Todo capítulo apresenta um conjunto de exercícios ao final (Problems and Points to Ponder). Para cada capítulo lido, devem ser escolhidos seis problemas desse conjunto e respondidos em grupo. Essa lista deve ser entregue na data estipulada (ver seção Cronograma) para o monitor (ver seção Monitoria) para compor a Avaliação3 (item Listas).
+
+Lista 1  
+Leitura: Capítulo 1 do Pressman: Software and Software Engineering
+
+Lista 2  
+Leitura: Capítulo 2 do Pressman: Process: A Generic View
+
+Lista 3  
+Leitura: Capítulo 3 do Pressman: Prescriptive Process Models
+
+Lista 4  
+Leitura: Capítulo 5 do Pressman: Practice: A Generic View
+
+Lista 5  
+Leitura: Capítulo 7 do Pressman: Requirements Engineering
+
+Lista 6  
+Leitura: Capítulo 8 do Pressman: Analysis Modeling
+(Seção 8.6 opcional)
+
+Lista 7  
+Leitura: Capítulo 9 do Pressman: Design Engineering
+
+Obs.: atraso na entrega das Listas terá uma multa de um ponto por dia.
+
+### Trabalho
+
+Cada grupo deve, preferencialmente na primeira semana de aula, escolher um sistema para ser o tema do seu trabalho. Esse sistema pode ser o Projeto de Aplicação de algum membro do grupo, algum sistema legado do estágio de um dos membros do grupo, algum sistema existente na internet, ou qualquer outro sistema que não tenha documentação de análise e projeto acessível aos membros do grupo.
+
+Caso o sistema seja de um porte muito grande, o escopo do trabalho deve ser negociado com o professor durante o curso, com o intuito de atuar em partes desse sistema, se for o caso, para viabilizar a aplicação de todas as técnicas estudadas.
+
+O trabalho consiste em, durante o decorrer do curso, utilizar as técnicas aprendidas para explicitar os requisitos do sistema em questão e produzir os diagramas de análise e projeto para esse sistema.
+
+Como resultado, espera-se a escrita de um documento descrevendo brevemente o sistema, apresentando os seus requisitos e os principais diagramas de análise e projeto construídos. Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Esse documento não será avaliado pelo seu tamanho, mas sim pela capacidade de argumentação em relação às decisões tomadas para contornar as dificuldades encontradas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Esse documento deve ser entregue na data estipulada (ver seção Cronograma) para compor a Avaliação3 (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Apresentações
+
+Durante o curso foram reservados dois momentos para a apresentação dos trabalhos (ver seção Cronograma). Inicialmente, haverá uma primeira apresentação, onde é esperado que cada grupo discuta brevemente (20 minutos por grupo) como está o andamento do trabalho. O grupo poderá utilizar slides e quadro. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento.
+
+Posteriormente, haverá a segunda e última apresentação, também com duração de 20 minutos, onde os grupos devem mostrar os resultados finais do trabalho. Vale notar que nesse momento os trabalhos já foram entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Essas apresentações serão consideradas na composição da Avaliação3 (item Apresentações).
+
+### Monitoria
+
+Monitor: André Nascimento  
+E-mail: <andreluiscn@yahoo.com.br>  
+Verificar horários na sala de monitoria (sala 321).  
+
+### Presença
+
+De acordo com o Regulamento dos Cursos de Graduação, a presença mínima necessária para aprovação é de 75% das aulas (Art. 83, § 15). Em um total de 30 aulas, são toleradas até 7 faltas. Vale notar que segundo o mesmo regulamento, nenhuma falta é abonada, exceto o caso citado no Art. 83, § 16.
+
+### Reposição de Avaliação
+
+De acordo com o Regulamento dos Cursos de Graduação, não é permitida a Reposição de Avaliação (i.e., 2ª chamada), com exceção dos casos citados no mesmo.
+
+### Ferramentas CASE
+
+Ferramentas CASE são de extrema valia durante as atividades de análise e projeto. Contudo, em momentos mais incipientes dessas atividades, a utilização de papel ou quadro normalmente contribui na estimulação da criatividade. Desta forma, é esperada a utilização de papel durante os exercícios em sala de aula, apesar de não ser proibida a utilização de ferramentas CASE caso o grupo disponha de notebook. Entretanto, para a execução do trabalho, é esperado o uso de ferramentas CASE.
+
+Atualmente, existem diversas ferramentas CASE disponíveis gratuitamente para uso (<http://en.wikipedia.org/wiki/List_of_UML_tools>).  Fica a critério dos grupos a seleção da ferramenta CASE que será utilizada na execução do trabalho. É importante notar que a ferramenta escolhida deve dar suporte à confecção de diagramas de caso de uso, classes, transição de estados, atividade e seqüência de acordo com a UML 2.
+
+### Orientação a Objetos
+
+É desejável que os alunos já tenham alguma experiência em orientação a objetos no nível de programação. Contudo, será dada uma aula com o intuito de fazer uma breve revisão dos conceitos de orientação a objetos utilizando Java. Uma leitura recomendada sobre o tema se encontra em <http://java.sun.com/docs/books/tutorial/java/concepts/index.html>. Para um aprofundamento maior, leia <http://java.sun.com/docs/books/tutorial/java/index.html>.
+
+### Bibliografia Principal
+
+Roger Pressman. 2004. Software Engineering: A Practitioner's Approach. 6th ed. McGraw-Hill.
+
+##Cronograma
+
+<table style="border-collapse: collapse;width: 100%;text-align: center;" border="1">
+  <tr style="font-weight: bold;">
+    <td>Data</td>
+    <td>Atividade</td>
+    <td>Entrega</td>
+  </tr>
+  <tr>
+    <td>5/8/2008</td>
+    <td>Aula - <a href="../es1/aula1-2008-2.pdf">Motivação e apresentação do curso</a></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>7/8/2008</td>
+    <td>Aula - <a href="../es1/aula2.pdf">Introdução à ES</a></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>12/8/2008</td>
+    <td>Aula - <a href="../es1/aula2.pdf">Introdução à ES</a></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>14/8/2008</td>
+    <td>Aula - <a href="../es1/aula2a.pdf">Processo Unificado</a></td>
+    <td>&nbsp;</td>
+  </tr>
+ <tr>
+  <td>19/8/2008</td>
+  <td>Aula - <a href="../es1/aula3.pdf">OO em Java</a></td>  
+  <td>Lista 1</td>
+ </tr>
+ <tr>
+  <td>21/8/2008</td>
+  <td class="xl69" style="border-top: medium none; border-left: medium none; text-align: center;">Sem atividade
+  (<a href="http://www.inf.pucrs.br/sbcars2008">SBCARS</a>)</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>26/8/2008</td>
+  <td>Aula - <a href="../es1/aula5.pdf">Engenharia de Requisitos</a></td>
+  <td>Lista 2</td>
+ </tr>
+ <tr>
+  <td>28/8/2008</td>
+  <td>Aula - <a href="../es1/aula6.pdf">Casos de Uso</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2/9/2008</td>
+  <td>Aula - <a href="../es1/aula7.pdf">Classes</a></td>
+  <td>Lista 3</td>
+ </tr>
+ <tr>
+  <td>4/9/2008</td>
+  <td>Aula - <a href="../es1/aula7.pdf">Classes</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>9/9/2008</td>
+  <td>Aula - <a href="../es1/aula8.pdf">Estados</a></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>11/9/2008</td>
+  <td>Aula - <a href="../es1/aula9.pdf">Atividades</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>16/9/2008</td>
+  <td class="xl70" style="border-top: medium none; border-left: medium none; text-align: center;">Aula - <a href="../es1/aula9a.pdf">Maquetes</a></td>
+  <td>Lista 4</td>
+ </tr>
+ <tr>
+  <td>18/9/2008</td>
+  <td class="xl70" style="border-top: medium none; border-left: medium none; text-align: center;">Seminários - Grupos 2 e 3</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>23/9/2008</td>
+  <td class="xl70" style="border-top: medium none; border-left: medium none; text-align: center;">Seminários - Grupos 5 e 6</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>25/9/2008</td>
+  <td class="xl71" style="border-top: medium none; border-left: medium none; text-align: center;">Prova 1</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>30/9/2008</td>
+  <td>Seminários - Grupos 7 e 8</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>2/10/2008</td>
+  <td>Aula - <a href="../es1/aula10.pdf">Seqüência</a> / Seminários - Grupos 1 e 4</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>7/10/2008</td>
+  <td>Aula - <a href="../es1/aula12.pdf">Princípios de Projeto OO</a></td>
+  <td>Lista 5</td>
+ </tr>
+ <tr>
+  <td>9/10/2008</td>
+  <td>Aula - <a href="../es1/aula12.pdf">Princípios de Projeto OO</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>14/10/2008</td>
+  <td class="xl69" style="border-top: medium none; border-left: medium none; text-align: center;">Sem atividade (<a href="http://sbbdes.ic.unicamp.br">SBES</a>)</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>16/10/2008</td>
+  <td class="xl69" style="border-top: medium none; border-left: medium none; text-align: center;">Sem atividade (<a href="http://sbbdes.ic.unicamp.br">SBES</a>)</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>21/10/2008</td>
+  <td>Aula - <a href="../es1/aula12.pdf">Princípios de Projeto OO</a></td>
+  <td>Lista 6</td>
+ </tr>
+ <tr>
+  <td>23/10/2008</td>
+  <td>Aula - <a href="../es1/aula12.pdf">Princípios de Projeto OO</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>28/10/2008</td>
+  <td class="xl69" style="border-top: medium none; border-left: medium none; text-align: center;">Aula - <a href="../es1/aula12a.pdf">Padrões GRASP</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>30/10/2008</td>
+  <td>Aula - <a href="../es1/aula12a.pdf">Padrões GRASP</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>4/11/2008</td>
+  <td>Aula - <a href="../es1/aula12a.pdf">Padrões GRASP</a></td>
+  <td>Lista 7</td>
+ </tr>
+ <tr>
+  <td>6/11/2008</td>
+  <td>Aula - <a href="../es1/aula12a.pdf">Padrões GRASP</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>11/11/2008</td>
+  <td>Aula - <a href="../es1/aula12b.pdf">Padrões GoF</a></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>13/11/2008</td>
+  <td>Aula - <a href="../es1/aula12b.pdf">Padrões GoF</a></td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>18/11/2008</td>
+  <td class="xl70" style="border-top: medium none; border-left: medium none; text-align: center;">Aula - <a href="../es1/aula12b.pdf">Padrões GoF</a></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>20/11/2008</td>
+  <td class="xl70" style="border-top: medium none; border-left: medium none; text-align: center;">Seminários - Grupos 2, 6 e 8</td>
+  <td>Trabalho</td>
+ </tr>
+ <tr>
+  <td>25/11/2008</td>
+  <td class="xl70" style="border-top: medium none; border-left: medium none; text-align: center;">Sem atividade (Semana Acadêmica)</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>27/11/2008</td>
+  <td class="xl71" style="border-top: medium none; border-left: medium none; text-align: center;">Sem atividade (Semana Acadêmica)</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>2/12/2008</td>
+  <td>Seminários - Grupos 1, 3, 4, 5 e 7</td>
+  <td>&nbsp;Trabalho</td>
+ </tr>
+ <tr>
+  <td>4/12/2008</td>
+  <td>Prova 2</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>9/12/2008</td>
+  <td style="text-align: center;">Sem atividade</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>11/12/2008</td>
+  <td class="xl71" style="border-left: medium none; text-align: center;">Verificação Suplementar</td>
+  <td>&nbsp;</td>
+ </tr>
+</table>

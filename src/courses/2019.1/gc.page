@@ -1,0 +1,150 @@
+---
+title: Gerência de Configuração
+in_menu: true
+sort_info: 2
+---
+## Gerência de Configuração
+
+### Logística
+
+Disciplina: Gerência de Configuração
+
+Data: quartas de 9h às 13h
+
+Sala: 302
+
+Grupo: <http://groups.google.com/group/uff-gc-2019-1> (importante: todos os alunos **devem** se cadastrar nesse grupo)
+
+### Avaliação
+
+Média = (2 x Apresentações de Artigos + Discussões de Artigos + 2 x Trabalho + Apresentações do Trabalho + Avaliações de Artigos) / 7
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Aluno de Graduação) E (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+### Grupos
+
+As atividades serão feitas individualmente para alunos de doutorado e em dupla para alunos de mestrado ou de graduação. Os grupos devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Entreguem por e-mail (assunto: GC - Grupo) o nome completo de cada participante do grupo.
+
+### Apresentações de Artigos
+
+A segunda metade da aula (ver seção Cronograma) consiste na apresentação dos artigos lidos na semana, seguida de discussões sobre os artigos. Todos os alunos devem ler todos os artigos, porém a apresentação será feita por grupos previamente definidos. No final da apresentação, todos os alunos devem fazer perguntas e discutir sobre os artigos. Usualmente, cada grupo apresenta em torno de 3 artigos no decorrer do curso. Me envie o quanto antes uma lista dos artigos que você gostaria de apresentar (envie ao menos cinco, ordenados por preferência). A atribuição será feita pela ordem do recebimento dos pedidos. Cada apresentação deve ter duração de 30 minutos. A participação nessas atividades será considerada na composição da média final (item Apresentações de Artigos).
+
+Os artigos estão disponíveis em formato pdf no [Google Drive](https://drive.google.com/drive/folders/1YZUAudAJWwc3-lqy9qdhhM8UTR4gXtIs?usp=sharing) para os alunos já cadastrados no [Grupo](http://groups.google.com/group/uff-gc-2019-1).
+
+**1ª leitura:**
+
+> \[<span style="color: blue">Heleno</span>\] Estublier, J., "Software Configuration Management: a Roadmap", International Conference on Software Engineering (ICSE), The Future of Software Engineering, p. 279-289, 2000.
+
+> \[<span style="color: blue">Camila & Daniel Jasbick</span>\] Chacon S., "Chapter 1: Getting Started", Pro Git, 2nd ed., 2014.
+
+**2ª leitura:**
+
+> \[<span style="color: blue">Magaywer & Thais</span>\] Chacon S., "Chapter 2: Git Basics", Pro Git, 2nd ed., 2014.
+
+> \[<span style="color: blue">Cafer & Rômulo</span>\] Chacon S., "Chapter 3: Git Branching", Pro Git, 2nd ed., 2014.
+
+**3ª leitura:**
+
+> \[<span style="color: blue">Camila & Daniel Jasbick</span>\] Chacon S., "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.
+
+> \[<span style="color: blue">Daniel Prett</span>\] Chacon S., "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.
+
+**4ª leitura:**
+
+> \[<span style="color: blue">Nathan & Victor</span>\] + \[<span style="color: blue">Magaywer & Thais</span>\] Conradi, R. and Westfechtel, B., "Version Models for Software Configuration Management", ACM Computing Surveys, v. 30, n. 2, p. 232-282, 1998.
+
+**5ª leitura:**
+
+> \[<span style="color: blue">Bruno</span>\] Hunt, J., McIlroy, M., "An Algorithm for Differential File Comparison", Bell Laboratories, 1976.
+
+> \[<span style="color: blue">Arlindo & Juliana</span>\] Miller, W., Myers, E., "A File Comparison Program", Software: Practice and Experience, v. 15, n. 11, p. 1025-1040, 1985. 
+
+**6ª leitura:**
+
+> \[<span style="color: blue">Heleno</span>\] Mens, T., "A State-of-the-Art Survey on Software Merging", IEEE Transactions Software Engineering, v. 28, n. 5, p. 449-462, 2002.
+
+> \[<span style="color: blue">Bruno</span>\] Ghiotto, G., Murta, L., Barros, M., van der Hoek, A., "On the Nature of Merge Conflicts:
+a Study of 2,731 Open Source Java Projects Hosted by GitHub", IEEE Transactions on Software Engineering, 2019.
+
+**7ª leitura:**
+
+> \[<span style="color: blue">Daniel Prett</span>\] + \[<span style="color: blue">Gabriel & Paulo</span>\] Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R., "Streamed Lines: Branching Patterns for Parallel Software Development", Pattern Languages of Programs (PLoP), 1998.
+
+**8ª leitura:**
+
+> \[<span style="color: blue">Arlindo & Juliana</span>\] Bird, C., Rigby, P. C., Barr, E. T., Hamilton, D. J., German, D. M., & Devanbu, P. "The promises and perils of mining git", International Working Conference on Mining Software Repositories (MSR), p. 1-10, 2009.
+
+> \[<span style="color: blue">Cafer & Rômulo</span>\] Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", International Working Conference on Mining Software Repositories (MSR), p. 92-101,  2014.
+
+**9ª leitura:**
+
+> \[<span style="color: blue">Nathan & Victor</span>\] + \[<span style="color: blue">Gabriel & Paulo</span>\] Estublier, J., Leblang, D., van der Hoer, A., Conradi, R., Clemm, G., Tichy, W., Wiborg-Weber, D., "Impact of Software Engineering Research on the Practice of Software Configuration Management", ACM Transactions on Software Engineering and Methodology (TOSEM), v. 14, n. 4, p. 1-48, 2005.
+
+### Discussões de Artigos
+
+Todo aluno que não está responsável pela apresentação de artigos da semana deve se preparar para fazer perguntas e trazer o seu ponto de vista sobre os artigos que estão sendo apresentados pelos colegas. A profundidade dessas perguntas, assim como a intensidade e qualidade das discussões, serão consideradas na composição da média final (item Discussões de Artigos).
+
+### Trabalho
+
+Cada grupo deve, durante as primeiras semanas de aula, escolher o tema do seu trabalho. Esse trabalho pode ser (1) a aplicação de gerência de configuração em alguma área, (2) o uso de alguma técnica para apoiar a gerência de configuração, (3) mineração e visualização de repositórios de gerência de configuração ou (4) um estudo de técnicas avançadas de gerência de configuração. O tema do trabalho deve ser negociado com o professor antes do seu início.
+
+Como resultado, espera-se a escrita de um artigo de 5 páginas no [formato da ACM](https://www.acm.org/publications/proceedings-template) -- use o template ACM_SigConf. Esse artigo deve apresentar uma introdução, contendo a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos (tanto a descrição do que foi feito quanto uma avaliação, mostrando a efetividade) e conclusão. 
+
+A entrega será feita através de um software de controle de conferências real, o [EasyChair](http://www.easychair.org). Nós iremos simular todo o processo de submissão e avaliação de artigos usado em conferências no contexto dessa disciplina. Para submeter seu artigo, [clique aqui](https://easychair.org/conferences/?conf=uffcm20191). O artigo deve ser entregue na data estipulada (ver seção Cronograma) para compor a média final (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Apresentações do Trabalho
+
+Durante o curso foram reservados três momentos para a apresentação de trabalhos (ver seção Cronograma). O grupo poderá utilizar slides e quadro e cada apresentação deve durar 20 minutos. Na primeira apresentação, é esperado que o grupo discuta o contexto do trabalho, o seu objetivo e a metodologia a ser adotada na execução do mesmo. Na segunda apresentação, é esperado que o grupo discuta como está o andamento do trabalho. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento. Posteriormente, haverá uma apresentação final onde os grupos devem mostrar os resultados obtidos no trabalho. Essas apresentações serão consideradas na composição da média final (item Apresentações do Trabalho).
+
+### Avaliações de Artigos
+
+Na disciplina simularemos uma conferência, onde os autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e, consequentemente, receberão artigos dos colegas para avaliar. As avaliações serão consideradas na composição da média final (item Avaliações de Artigos) do aluno que fez a avaliação, mas não serão consideradas na nota do grupo que submeteu o artigo. Assim, as avaliações devem ser tecnicamente profundas, sem preocupação de prejudicar a nota do colega.
+
+Para avaliar os artigos que foram atribuídos a você, [clique aqui](https://easychair.org/conferences/?conf=uffcm20191). No menu, escolha uff-cm-2019-1, e depois clique em Change Role. Escolha agora o papel de avaliador ao invés de autor. Depois, acesse o menu Reviews, e clique em Assigned to me. Lá aparecerão os artigos que foram atribuídos para você avaliar.
+
+Obs.: atraso na entrega das Avaliações de Artigos terá uma multa de um ponto por dia.
+
+### Resumos (opcionais)
+
+Os alunos que não estão encarregados de fazer apresentações de artigos na semana podem, opcionalmente, escrever resumos sobre cada um dos artigos lidos. A escrita dos resumos pode ajudar a organizar as ideias para a discussão dos artigos. Esses resumos devem caber em uma página A4 (fonte 12, margem 2 cm, espaçamento simples), contendo o título do artigo, o nome do aluno e o resumo em si. O resumo deve focar na principal mensagem do artigo, tendo início, meio e fim (evite o uso de bullets). Termine o resumo com um parágrafo expondo a sua opinião sobre o artigo, indicando os principais aspectos positivos e negativos do artigo.
+
+Os resumos devem ser entregues impressos ao final da aula, após as discussões dos respectivos artigos. Caso, no final do curso, o aluno esteja com média entre 5,5 e 6,0, os resumos serão corrigidos podendo somar até 0,5 pontos na média, eventualmente arredondando a média para 6,0. Não serão aceitas entregas fora do prazo.
+
+### Presença
+
+De acordo com os regulamentos da [graduação](http://www.uff.br/sites/default/files/001-2015_regulamento_do_curso_de_graduacao_0.pdf) e da [pós-graduação](https://www.ic.uff.br/images/documentos/pos_graduacao/regras_e_procedimentos/regulamentos/Regimento_Revisao_PGC_2009-2017-v5_final.pdf), a presença mínima é de 75% das aulas (Art. 80 §14 e Art. 20, respectivamente).
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+| Data | Atividade | Entrega
+|---
+| 13/03/2019 | Aula - [Apresentação do curso para alunos de pós](/courses/cm/lecture1-2019-1.pdf)
+| 20/03/2019 | Aula - [Apresentação do curso para alunos de graduação](/courses/cm/lecture1-2019-1.pdf)
+| 27/03/2019 | Aula - [Introdução à GC](/courses/cm/lecture2.pdf)<br/><span style="color: green">Apresentações de Artigos (1a leitura)</span> | Resumos
+| 03/04/2019 | Aula - [Introdução à GC](/courses/cm/lecture2.pdf) e [Fundamentos de GC](/courses/cm/lecture3.pdf)<br/><span style="color: green">Apresentações de Artigos (2a leitura)</span> | Resumos
+| 10/04/2019 | <span style="color: blue">Apresentações dos Trabalhos (1a rodada)</span>
+| 17/04/2019 | Aula - [Fundamentos de GC](/courses/cm/lecture3.pdf)<br/><span style="color: green">Apresentações de Artigos (3a leitura)</span> | Resumos
+| 24/04/2019 | Aula - [Fundamentos de GC](/courses/cm/lecture3.pdf)<br/><span style="color: green">Apresentações de Artigos (4a leitura)</span> | Resumos
+| 01/05/2019 | <span style="color: red">Sem Aula (dia do trabalho)</span>
+| 08/05/2019 | Aula - [Diff](/courses/cm/lecture4.pdf)<br/><span style="color: green">Apresentações de Artigos (5a leitura)</span> | Resumos
+| 15/05/2019 | <span style="color: blue">Apresentações dos Trabalhos (2a rodada)</span>
+| 22/05/2019 | <span style="color: green">Apresentações de Artigos (6a leitura)</span> | Resumos
+| 29/05/2019 | <span style="color: red">Sem Aula ([ICSE](http://2019.icse-conferences.org))</span>
+| 05/06/2019 | Aula - [Branching](/courses/cm/lecture5.pdf)<br/><span style="color: green">Apresentações de Artigos (7a leitura)</span> | Resumos
+| 12/06/2019 | Aula - apresentação de artigos publicados no [SBES 2014](/courses/cm/sbes2014.pdf) e no [FSE 2016](/courses/cm/fse2016.pdf)<br/><span style="color: green">Apresentações de Artigos (8a leitura)</span> | Resumos
+| 19/06/2019 | Aula - apresentação de artigos publicados no [CSMR 2012](/courses/cm/csmr2012.pdf) e no [SEKE 2014](/courses/cm/seke2014.pdf)<br/><span style="color: green">Apresentações de Artigos (9a leitura)</span> | Resumos<br/>Trabalho
+| 26/06/2019 | <span style="color: blue">Apresentações dos Trabalhos (rodada final)</span> | Avaliações de Artigos
+| 03/07/2019 | <span style="color: blue">Vista de avaliações na sala 528 (9h às 11h)</span>
+| 10/07/2019 | <span style="color: blue">Verificação Suplementar (9h às 11h)</span>
+| 17/07/2019 | <span style="color: blue">Vista da VS na sala 528 (9h às 11h)</span>

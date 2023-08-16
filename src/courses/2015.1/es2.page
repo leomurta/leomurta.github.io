@@ -1,0 +1,225 @@
+---
+title: Engenharia de Software II / Gerência de Projetos de Software
+in_menu: true
+sort_info: 2
+---
+## Engenharia de Software II / Gerência de Projetos de Software
+
+### Logística
+
+Disciplina: TCC00181 - Engenharia de Software II / TCC00223 - Gerência de Projetos de Software
+
+Data: quintas de 18h às 22h
+
+Local: sala 213 do prédio novo do Instituto de Computação
+
+Grupo: <https://www.facebook.com/groups/es22015.1> (importante: todos os alunos **devem** se cadastrar nesse grupo)
+
+### Avaliação
+
+*Avaliação 1* = Prova sem consulta
+
+*Avaliação 2* = Prova sem consulta
+
+*Avaliação 3* = (Participação + 2 x Trabalho + 3 x Seminário) / 6
+
+*Média das Provas* = (*Avaliação 1* + *Avaliação 2*) / 2
+
+Caso *Média das Provas* >= 4:
+
+> *Média* = (*Avaliação 1* + *Avaliação 2* + *Avaliação 3*) / 3
+
+Caso contrário:
+
+> *Média* = *Média das Provas*
+
+Obs.: Vale notar que o uso da nota da *Avaliação 3* não é opcional para quem fica com *Média das Provas* >= 4. Então, caso a nota da *Avaliação 3* seja baixa, a *Média* será afetada mesmo que a *Média das Provas* seja alta.
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Grupos
+
+As atividades da Avaliação3 serão feitas em grupos de 5 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Informem no grupo da turma no Facebook o nome completo de cada participante do grupo, indicando quem é o gerente do grupo.
+
+### Participação
+
+Na maioria das aulas serão fornecidos exercícios para serem feitos em grupo durante a aula ou em casa. Ao término, os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da Avaliação3 (item Participação).
+
+### Trabalho
+
+Cada grupo deve se enxergar como uma pequena software house. O tema do trabalho é fazer um [jogo de Damas](http://pt.wikipedia.org/wiki/Damas) onde seja possível jogar contra o computador. 
+
+O trabalho consiste em, durante o decorrer do curso, utilizar as técnicas aprendidas para gerenciar o projeto e desenvolver o produto. Será avaliado o produto final e como esse produto foi desenvolvido (processos e técnicas aplicados).
+
+Como resultado final espera-se a entrega do repositório de gerência de configuração contendo todos os artefatos produzidos durante o trabalho, assim como o executável do jogo e instruções claras de como instalar e rodar. Esse material deve ser entregue na data estipulada (ver seção Cronograma) para compor a Avaliação3 (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Seminários
+
+Durante o curso foram reservados três momentos para a apresentação do andamento do trabalho (ver seção Cronograma). Essas apresentações tem duração de 20 minutos por grupo e  podem ser feitas usando slides e quadro. Inicialmente, haverá um primeiro seminário onde é esperado que cada grupo apresente o escopo do projeto e do produto, as estimativas de esforço e custo, o orçamento, o cronograma de desenvolvimento, a análise de riscos e o monitoramento e controle do projeto, e mostre a versão parcial do produto feita até então. 
+
+Posteriormente, haverá um segundo seminário onde os grupos devem apresentar as ferramentas e técnicas de gerência de configuração adotadas no projeto, assim como o conteúdo do repositório e o monitoramento e controle do projeto, e mostrar a versão parcial do produto feita até então.
+
+Finalmente, haverá um último seminário para a apresentação dos resultados finais do trabalho. Vale notar que nesse momento os trabalhos estão prestes a ser entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Nesse momento é esperada a apresentação das ferramentas e técnicas de testes usadas, assim como os casos de teste e resultados da sua execução, dados de monitoramento e controle do projeto e versão final do produto. Essas apresentações serão consideradas na composição da Avaliação3 (item Seminários).
+
+### Listas
+
+As listas não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala.
+
+* [Lista de Revisão de ES1](/courses/es2/lista1.pdf)
+* [Lista de Planejamento de Projetos](/courses/es2/lista2.pdf)
+* [Lista de Monitoramento e Controle](/courses/es2/lista3.pdf)
+* [Lista de Gerência de Configuração](/courses/es2/lista4.pdf)
+* [Lista de Verificação, Validação e Testes](/courses/es2/lista5.pdf)
+* [Lista de Qualidade, Medição e Melhoria](/courses/es2/lista6.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Monitoria
+
+Monitora: Thayanne Antão Viegas  
+Dias: terças de 14h às 16h, quartas de 18h às 20h, quintas de 14h às 16h e sextas de 16h às 18h
+
+### Presença
+
+De acordo com o Regulamento dos Cursos de Graduação, a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas (Art. 103).
+
+### Ferramentas
+
+No curso não temos uma ferramenta obrigatória. Os grupos devem aproveitar essa oportunidade para experimentar ferramentas que ainda não conhecem ou mesmo aprofundar os conhecimentos em ferramentas já conhecidas.
+
+Existem várias ferramentas proprietárias e livres que apóiam os diferentes tópicos tratados neste curso: [gerência de projetos](https://en.wikipedia.org/wiki/Comparison_of_project_management_software), [estimativas](https://en.wikipedia.org/wiki/Comparison_of_development_estimation_software), [controle de versões](https://en.wikipedia.org/wiki/Comparison_of_revision_control_software), [controle de modificações](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems), [gerenciamento de construção](https://en.wikipedia.org/wiki/List_of_build_automation_software), [integração contínua](https://en.wikipedia.org/wiki/Comparison_of_Continuous_Integration_Software), [hospedagem de projetos](https://en.wikipedia.org/wiki/Comparison_of_open_source_software_hosting_facilities), [testes de unidade](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks), [testes de interface](https://en.wikipedia.org/wiki/List_of_GUI_testing_tools), [testes de carga](https://en.wikipedia.org/wiki/Web_server_benchmarking) e [profiling](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools).
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. Apesar de essas referências estarem em inglês, muitos desses livros têm versões em português.
+
+Greene, J.; Stellman, A.; 2007. Head First PMP. O'Reilly Media.
+
+Orth, A.; Prikladnicki, R.; 2009. Planejamento e Gerência de Projetos. EDIPUCRS.
+
+Pilone, D.; Miles, R.; 2008. Head First Software Development. O'Reilly Media.
+
+Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Schwaber, K.; 2004. Agile Project Management with Scrum. Microsoft Press.
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Hora</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>12/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula1-2015-1.pdf">Apresentação do Curso</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula2.pdf">Revisão de ES</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/04/2015</td>
+	  <td colspan="3"><font color="red">Sem aula (Semana Santa)</font></td>	  
+	</tr>
+	<tr>
+	  <td>09/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a> e <a href="../es2/aula4.pdf">Monitoramento e Controle</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/04/2015</td>
+          <td colspan="3"><font color="red">Sem aula (São Jorge)</font></td>
+	</tr>
+	<tr>
+	  <td>30/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Seminário (1a. rodada)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Prova 1</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a> e Palestra IBM</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a> e <a href="../es2/aula5a.pdf">Git</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula6.pdf">Verificação, Validação e Testes</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/06/2015</td>
+	  <td colspan="3"><font color="red">Sem aula (Corpus Christi)</font></td>	  
+	</tr>
+	<tr>
+	  <td>11/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../es2/aula7.pdf">Qualidade, Medição e Melhoria</a> e <a href="../es2/aula8.pdf">Manutenção de Software</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Prova 2</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Seminário (rodada final)</font></td>
+	  <td>Trabalho</td>
+	</tr>
+	<tr>
+	  <td>02/07/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Verificação Suplementar</font></td>
+	  <td></td>
+	</tr>	 
+</table>

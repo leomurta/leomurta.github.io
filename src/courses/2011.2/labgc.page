@@ -1,0 +1,377 @@
+---
+title: Laboratório de Gerência de Configuração
+in_menu: true
+sort_info: 2
+---
+## Laboratório de Gerência de Configuração
+
+### Logística
+
+Disciplina: Laboratório de Gerência de Configuração
+
+Data: quartas e sextas, de 9:00 às 11:00
+
+Local: quartas na sala 331 do bloco D e sextas na sala 335 do bloco D
+
+Lista: <http://groups.google.com/group/uff-labgc-2011-2> (importante: todos os alunos **devem** se cadastrar nessa lista)
+
+### Avaliação
+
+Média = (Apresentação de Leituras + Resumos + Seminários + 2 x Trabalho) / 5
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Aluno de Graduação) E (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Grupos
+
+As atividades do curso serão feitas individualmente para alunos de doutorado e em dupla para alunos de mestrado e em trio para alunos de graduação, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Apesar das atividades serem em grupo, a avaliação será individual. Entreguem por e-mail (assunto: Lab GC - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+### Apresentação de Leituras
+
+Um cronograma de leituras de artigos e capítulos de livro é indicado para viabilizar a consolidação dos conhecimentos referentes à matéria.
+
+Uma das aulas da semana (ver seção Cronograma) consiste na apresentação dos leituras e capítulos de livro lidos na semana, seguida de discussões sobre as leituras. Essa apresentação será feita por grupos previamente definidos (reserve o quanto antes as suas por e-mail). Os grupos responsaveis por apresentar a leitura da semana devem definir qual parte da leitura ficará a cargo de qual grupo. Além disso, os demais grupos ficarão encarregados de discutir aspectos da leitura. Cada apresentação deve ter duração de 20 a 30 minutos. A participação nessas atividades será considerada na composição da Média (item Apresentação de Leituras).
+
+Os artigos e livros estão disponíveis em formato pdf no [Google Docs](https://docs.google.com/leaf?id=0B5wo5KD80_6gNzAzYmM1M2EtMDdlNC00MWY4LTlmY2MtYmU4MjlkODU4YWIx&hl=en_US) para os alunos já cadastrados no [Google Groups](http://groups.google.com/group/uff-labgc-2011-2).
+
+**1ª leitura: sistemas históricos (SCCS, RCS e CVS)**
+
+> Marc J. Rochkind, 1975, "The Source Code Control System", IEEE Transactions on Software Engineering (TSE), 1 (4), pp. 364-370
+
+> Walter F. Tichy, 1984, "RCS - A System for Version Control", Purdue University, TR 84-474
+
+> Capítulo 1, "Overview", de Cederqvist, 2005, "Version Management with CVS"
+
+**2ª leitura: Subversion (1 de 3)**
+
+> Prefácio, "What Is Subversion?", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+> Capítulo 1, "Fundamental Concepts", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+> Capítulo 2, "Basic Usage", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+**3ª leitura: Subversion (2 de 3)**
+
+> Capítulo 4, "Branching and Merging", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+**4ª leitura: Subversion (3 de 3)**
+
+> Capítulo 5, "Repository Administration", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+**5ª leitura: Mercurial (1 de 2)**
+
+> Capítulo 1, "How did we get here?", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Capítulo 2, "A tour of Mercurial: the basics", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Capítulo 3, "A tour of Mercurial: merging work", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+**6ª leitura: Mercurial (2 de 2)**
+
+> Capítulo 4, "Behind the scenes", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Capítulo 6, "Collaborating with other people", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Capítulo 8, "Managing releases and branchy development", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+**7ª leitura: Git (1 de 6)**
+
+> Capítulo 1, "Getting Started", de Scott Chacon, 2010, "Pro Git"
+
+> Capítulo 2, "Git Basics", de Scott Chacon, 2010, "Pro Git"
+
+**8ª leitura: Git (2 de 6)**
+
+> Capítulo 3, "Git Branching", de Scott Chacon, 2010, "Pro Git"
+
+**9ª leitura: Git (3 de 6)**
+
+> Capítulo 4, "Git on the Server", de Scott Chacon, 2010, "Pro Git"
+
+**10ª leitura: Git (4 de 6)**
+
+> Capítulo 5, "Distributed Git", de Scott Chacon, 2010, "Pro Git"
+
+**11ª leitura: Git (5 de 6)**
+
+> Capítulo 6, "Git Tools", de Scott Chacon, 2010, "Pro Git"
+
+**12ª leitura: Git (6 de 6)**
+
+> Capítulo 9, "Git Internals", de Scott Chacon, 2010, "Pro Git"
+
+### Resumos
+
+Para cada artigo lido, deve ser feito um resumo. Os resumos devem ser sucintos, não passando de 1 página A4 (fonte 12, margem de 2 cm), contendo o nome do artigo, o nome dos alunos e o resumo em si. O resumo deve focar no que realmente interessa no artigo e ter princípio, meio e fim (evitar o uso de bullets). Encerre o resumo com 1 parágrafo que emita a sua opinião sobre o artigo (tenha uma visão crítica e identifique os pontos positivos e negativos do artigo).
+
+Cada resumo será pontuado como Entregue (10) ou Não Entregue (0), respeitando a data estipulada (ver seção Cronograma). Os resumos serão lidos por amostragem e os principais problemas detectados serão discutidos com a turma na aula apropriada para apresentação dos artigos, sem revelar os resumos que foram lidos. Essa atividade irá compor a Média (item Resumos).
+
+Obs.: atraso na entrega dos Resumos terá uma multa de um ponto por dia.
+
+### Trabalho
+
+O trabalho consiste na construção colaborativa de um sistema de controle de versões. Nas primeiras aulas discutiremos uma arquitetura genérica de um sistema de controle de versões e cada grupo deverá escolher um módulo dessa arquitetura para ser o tema do seu trabalho.
+
+Como resultado, espera-se a escrita de um artigo de 8 a 10 páginas no [formato da SBC](http://www.sbc.org.br/index.php?option=com_jdownloads&Itemid=195&task=view.download&catid=32&cid=38), apresentando as seguintes seções:
+
+* Introdução (motivação, objetivo e organização do trabalho)
+* Fundamentação teórica e trabalhos relacionados
+* Abordagem proposta
+* Aspectos da implementação
+* Avaliação experimental ou exemplo de utilização
+* Conclusão (contribuições, limitações e trabalhos futuros)
+
+Além disso, também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. Em princípio, esses artigos resultantes do trabalho serão utilizados somente para avaliação na disciplina, mas podem ser posteriormente aprimorados para submissão a fóruns científicos, caso seja de interesse do aluno e do professor. O trabalho deve ser entregue na data estipulada (ver seção Cronograma) para compor a Média (item Trabalho).
+
+A entrega será feita através da submissão do artigo para a mini-conferência da disciplina, usando um software de controle de conferências real, o [EasyChair](http://www.easychair.org). Para submeter seu artigo, [clique aqui](https://www.easychair.org/conferences/?conf=ufflabgc20112). 
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Avaliação de Artigos
+
+Na disciplina, simularemos uma conferência real, onde autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e consequentemente receberão artigos dos colegas para avaliar. As avaliações serão consideradas na composição da Média (item Trabalho) do aluno que fez a avaliação, mas não serão consideradas na nota do grupo que submeteu o artigo. Assim, as avaliações devem ser tecnicamente profundas, sem preocupação em prejudicar a nota do colega. 
+
+Para avaliar os artigos que foram atribuídos a você, [clique aqui](https://www.easychair.org/conferences/?conf=ufflabgc20112). No menu, escolha uff-labgc-2011-2, e depois em Change Role. Escolha agora o papel de avaliador ao invés de autor. Depois, acesse o menu Reviews, e clique em My Papers. Lá aparecerão os artigos que foram atribuídos para você avaliar. 
+
+### Seminários
+
+Uma das aulas da semana (ver seção Cronograma) consiste no seminário de andamento dos trabalhos (ver seção Cronograma). O grupo poderá utilizar slides e quadro e cada apresentação deve durar 20 a 30 minutos. Nas primeiras apresentações é esperado que o grupo discuta o contexto do trabalho, o detalhamento da interface com outros módulos e a metodologia a ser adotada na execução do mesmo. Nas apresentações intermediárias é esperado que o grupo discuta como está o andamento do trabalho. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento.
+
+Na última semana do curso haverá uma apresentação final onde os grupos devem mostrar os resultados obtidos no trabalho. Vale notar que nesse momento os trabalhos estão sendo entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Essas apresentações serão consideradas na composição da Média (item Seminários).
+
+### Presença
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+### Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+### Bibliografia
+
+As leituras do curso são sobre os artigos e livros a seguir. Alguns capítulos foram selecionados para leitura, mas é recomendado que os demais capítulos sejam lidos sob demanda, em função do tema do trabalho.
+
+> Marc J. Rochkind, 1975, "The Source Code Control System", IEEE Transactions on Software Engineering (TSE), 1 (4), pp. 364-370
+
+> Walter F. Tichy, 1984. "RCS - A System for Version Control", Purdue University, TR 84-474
+
+> Cederqvist, 2005, "Version Management with CVS"
+
+> Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+> Bryan OSullivan, 2009, "Mercurial: The Definitive Guide"
+
+> Scott Chacon, 2010, "Pro Git"
+
+> Eric Sink, 2011, "Version Control by Example"
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>10/08/2011</td>	  
+	  <td>Aula - <a href="../labgc/aula1-2011-2.pdf">Apresentação do Curso</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/08/2011</td>	  
+	  <td>Aula - <a href="../labgc/aula2.pdf">Introdução à Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/08/2011</td>
+	  <td>Aula - <a href="../labgc/aula2.pdf">Introdução à Gerência de Configuração</a> e <a href="../labgc/aula3.pdf">Apresentação da Arquitetura</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/08/2011</td>
+	  <td>Apresentação e Discussão (1ª leitura) - grupos 2, 3 e 1</td>	  	  
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>24/08/2011</td>	  
+	  <td>Seminário - grupos 2, 4 e 5</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/08/2011</td>	  
+	  <td>Apresentação e Discussão (2ª leitura) - grupos 7, 6 e 8</td>	  	  
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>31/08/2011</td>	  
+	  <td>Sem aula (<a href="http://www.cos.ufrj.br/index.php?option=com_extcalendar&Itemid=99999999&extmode=view&extid=844">banca de defesa de doutorado</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/09/2011</td>	  
+	  <td>Apresentação e Discussão (3ª leitura) - grupos 4 e 5</td>
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>07/09/2011</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Independência</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/09/2011</td>	  
+	  <td>Apresentação e Discussão (4ª leitura) - grupos 3 e 5</td>
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>14/09/2011</td>
+	  <td>Seminário - grupos 1, 3 e 6</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/09/2011</td>
+	  <td>Apresentação e Discussão (5ª leitura) - grupos 2, 7 e 4</td>
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>21/09/2011</td>
+	  <td>Seminário - grupos 5, 7 e 8</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/09/2011</td>
+	  <td>Apresentação e Discussão (6ª leitura) - grupos 8, 1 e 6</td>
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>28/09/2011</td>
+	  <td>Sem aula (<a href="http://www.each.usp.br/cbsoft2011">CBSoft</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/09/2011</td>
+	  <td>Sem aula (<a href="http://www.each.usp.br/cbsoft2011">CBSoft</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/10/2011</td>
+	  <td>Seminário - grupos 1, 2 e 4</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/10/2011</td>
+	  <td>Apresentação e Discussão (7ª leitura) - grupos 7 e 6</td>
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>12/10/2011</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Nossa Senhora Aparecida</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/10/2011</td>
+	  <td>Apresentação e Discussão (8ª leitura) - grupos 2 e 5</td>
+	  <td>Resumo</td>	  
+	</tr>
+	<tr>
+	  <td>19/10/2011</td>
+	  <td>Sem aula (<a href="http://semanact.mct.gov.br">Semana Nacional de Ciência e Tecnologia</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/10/2011</td>
+	  <td>Sem aula (<a href="http://semanact.mct.gov.br">Semana Nacional de Ciência e Tecnologia</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/10/2011</td>
+	  <td>Seminário - grupos 3, 6 e 7</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/10/2011</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Funcionário Público</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/11/2011</td>
+	  <td>Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Finados</a>)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/11/2011</td>
+	  <td>Apresentação e Discussão (9ª leitura) - grupo 3 e Aula - <a href="../labgc/aula4.pdf">Ant</a></td>
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>09/11/2011</td>
+	  <td>Seminário - grupos 1, 5 e 8</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/11/2011</td>
+	  <td>Apresentação e Discussão (10ª leitura) - grupo 4</td>
+	  <td>Resumo</td>
+	</tr>
+	<tr>
+	  <td>16/11/2011</td>
+	  <td>Seminário - grupos 2, 3 e 4</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/11/2011</td>
+	  <td>Apresentação e Discussão (11ª leitura) - grupo 1 e Aula - <a href="../labgc/aula5.pdf">Maven</a></td>
+	  <td>Resumo e Trabalho (submetido via <a href="https://www.easychair.org/conferences/?conf=ufflabgc20112">EasyChair</a>)</td>
+	</tr>
+	<tr>
+	  <td>23/11/2011</td>
+	  <td>Seminário - grupos 6, 7 e 8</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/11/2011</td>
+	  <td>Apresentação e Discussão (12ª leitura) - grupo 8 e Seminário Final (integração com todos os grupos)</td>
+	  <td>Avaliações (submetidas via <a href="https://www.easychair.org/conferences/?conf=ufflabgc20112">EasyChair</a>) e Resumo</td>
+	</tr>
+	<tr>
+	  <td>30/11/2011</td>
+	  <td>Sem aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/12/2011</td>
+	  <td>Sem aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/12/2010</td>
+	  <td>Vista de Avaliações (bloco E, sala 304)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/12/2011</td>	
+	  <td>Verificação Suplementar (somente para graduação)</td>	
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/12/2011</td>	
+	  <td>Sem aula</td>	
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/12/2011</td>	
+	  <td>Vista de Avaliações (bloco E, sala 304)</td>	
+	  <td></td>
+	</tr>
+</table>

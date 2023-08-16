@@ -1,0 +1,238 @@
+---
+title: Programação de Computadores I
+in_menu: true
+sort_info: 2
+---
+## Programação de Computadores I
+
+### Logística
+
+Disciplina: TCC00308 - Programação de Computadores I (turma F-1)
+
+Data: segundas e quartas, de 18:00 às 20:00
+
+Sala: 321, LII (sala 320 do bloco E) ou LCC (Sala 312 do Bloco E). Os dias de aula no LII ou LCC serão informados pelo [Google Classroom](https://classroom.google.com/) e indicados no cronograma.
+
+Sala virtual: usaremos o [Google Classroom](https://classroom.google.com/) como nossa sala de aula virtual. Lá serão divulgadas listas de exercícios valendo nota e por lá devem ser feitas as entregas. O [Google Classroom](https://classroom.google.com/) será usado também para divulgar avisos gerais e para dúvidas.
+
+Importante: todos os alunos devem se inscrever no [Google Classroom](https://classroom.google.com/) na primeira semana de aula. Para se inscrever, é necessário ter uma conta no UFF Mail (@id.uff.br), clicar no símbolo de "+" no canto superior direito da página do [Google Classroom](https://classroom.google.com/), e selecione a opção "Participar da Turma". O código de inscrição na turma será fornecido no primeiro dia de aula. 
+
+### Avaliação
+
+*Média* = (2 x *Prova 1* + 2 x *Prova 2* + *Lista de Exercícios*) / 5
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+(Presença < 75%) OU (Média < 4)
+
+### Estagiário de Docência
+
+Rubén Interian Kovaliova (enviar dúvidas no [Google Classroom](https://classroom.google.com/))
+
+### Monitoria
+
+Arthur Braga: segundas das 13h às 18h e quartas das 13h às 16h.
+
+Felipe Vieira: segundas das 11h às 13h e das 16h às 18h, quartas das 16h às 18h e sextas das 14h às 16h.
+
+### Lista de exercícios
+
+Ao longo da disciplina, serão realizados diversos exercícios individualmente. Esses exercícios comporão a média. Todos terão data de entrega definida e deverão ser entregues via [Google Classroom](https://classroom.google.com/).
+
+### Ferramentas
+
+O aluno tem liberdade de utilizar a IDE Python de sua preferência. Contudo, nas atividades de sala de aula será utilizado a [IDE PyCharm](https://www.jetbrains.com/pycharm-educational/).
+
+* [Interpretador Python](https://www.python.org/downloads/)
+* [IDE PyCharm](https://www.jetbrains.com/pycharm-educational/)
+
+### Bibliografia
+
+Paul Barry, Use a Cabeça! Programação, Editora Alta Books.
+
+Paul Barry, Use a Cabeça! Python, Editora Alta Books.
+
+Furlan, M., Gomes, M., Soares, M., Concilio, R., 2005, Algoritmos e Lógica de Programação, Editora Thomson.
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Atividade</td>
+	</tr>
+	<tr>
+          <td>29/08/2016</td>
+          <td>Aula - <a href="../prog/aula01-2016-2.pdf">Apresentação do curso</a></td>
+	</tr>
+	<tr>
+          <td>31/08/2016</td>
+          <td>Aula - <a href="../prog/aula02.pdf">Histórico</a> e <a href=“../prog/aula03.pdf”>Introdução à programação</a></td>
+	</tr>
+	<tr>
+	  <td>05/09/2016</td>
+	  <td>Aula - <a href="../prog/aula02.pdf">Histórico</a> e <a href=“../prog/aula03.pdf”>Introdução à programação</a></td>
+	</tr>
+	<tr>
+	  <td>07/09/2016</td>
+	  <td><font color="red">Sem aula (Independência do Brasil)</font></td>
+	</tr>
+	<tr>
+	  <td>12/09/2016</td>
+	  <td>Aula - <a href="../prog/aula04.pdf">Organização de programas em Python</a></td>
+	</tr>
+	<tr>
+	  <td>14/09/2016</td>
+	  <td>Aula - <a href="../prog/aula04.pdf">Organização de programas em Python</a></td>
+	</tr>
+	<tr>
+	  <td>19/09/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://cbsoft.org/cbsoft2016">CBSoft</a>)</font></td>
+	</tr>
+	<tr>
+	  <td>21/09/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://cbsoft.org/cbsoft2016">CBSoft</a>)</font></td>
+	</tr>
+	<tr>
+	  <td>26/09/2016</td>
+	  <td>Aula - <a href="../prog/aula05.pdf">Operadores</a> e <a href="../prog/aula06.pdf">Estruturas de Decisão</a></td>
+	</tr>
+	<tr>
+	  <td>28/09/2016</td>
+	  <td>Aula no LII - <a href="../prog/aula05.pdf">Operadores</a> e <a href="../prog/aula06.pdf">Estruturas de Decisão</a></td>
+	</tr>
+	<tr>
+	  <td>03/10/2016</td>
+	  <td>Aula - <a href="../prog/aula05.pdf">Repetição</a></td>
+	</tr>
+	<tr>
+	  <td>05/10/2016</td>
+          <td>Aula no LCC - <a href="../prog/aula07.pdf">Repetição</a></td>
+	</tr>
+	<tr>
+	  <td>10/10/2016</td>
+	  <td>Aula no LII - <a href="../prog/aula09.pdf">Vetores</a></td>
+	</tr>
+	<tr>
+	  <td>12/10/2016</td>
+	  <td><font color="red">Sem aula (Nossa Senhora Aparecida)</font></td>
+	</tr>
+	<tr>
+	  <td>17/10/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://uff.br/?q=agenda-academica-2016">Agenda Acadêmica</a>)</font></td>
+	</tr>
+	<tr>
+	  <td>19/10/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://uff.br/?q=agenda-academica-2016">Agenda Acadêmica</a>)</font></td>
+	</tr>
+	<tr>
+	  <td>24/10/2016</td>
+	  <td>Aula no LCC - <a href="../prog/aula09.pdf">Vetores</a></td>
+	</tr>
+	<tr>
+	  <td>26/10/2016</td>
+	  <td><font color="blue">Prova 1</font></td>
+	</tr>
+	<tr>
+	  <td>31/10/2016</td>
+	  <td>Aula - <a href="../prog/aula10.pdf">Manipulação de Vetores</a></td>
+	</tr>
+	<tr>
+	  <td>02/11/2016</td>
+	  <td><font color="red">Sem aula (Finados)</font></td>
+	</tr>
+	<tr>
+	  <td>07/11/2016</td>
+	  <td>Aula no LII - <a href="../prog/aula10.pdf">Manipulação de Vetores</a></td>
+	</tr>
+	<tr>
+	  <td>09/11/2016</td>
+	  <td>Aula no LII - <a href="../prog/aula11.pdf">Matrizes</a></td>
+	</tr>
+	<tr>
+	  <td>14/11/2016</td>
+	  <td><font color="red">Sem aula (Proclamação da República)</font></td>
+	</tr>
+	<tr>
+	  <td>16/11/2016</td>
+	  <td><font color="red">Sem aula (<a href="http://www.cs.ucdavis.edu/fse2016/">FSE</a>)</font></td>
+	</tr>
+	<tr>
+	  <td>21/11/2016</td>
+	  <td><font color="red">Sem aula (Aniversário de Niterói)</font></td>
+	</tr>
+	<tr>
+	  <td>23/11/2016</td>
+	  <td>Aula no LII- <a href="../prog/aula11.pdf">Matrizes</a></td>
+	</tr>
+	<tr>
+	  <td>28/11/2016</td>
+	  <td>Aula - <a href="../prog/aula12.pdf">Subprogramação</a></td>
+	</tr>
+	<tr>
+	  <td>30/11/2016</td>
+	  <td>Aula no LII - <a href="../prog/aula12.pdf">Subprogramação</a></td>
+	</tr>
+	<tr>
+	  <td>05/12/2016</td>
+	  <td>Aula - <a href="../prog/aula08.pdf">Manipulação de Strings</a></td>
+	</tr>
+	<tr>
+	  <td>07/12/2016</td>
+	  <td>Aula no LII - <a href="../prog/aula08.pdf">Manipulação de Strings</a></td>
+ 	</tr>
+	<tr>
+	  <td>12/12/2016</td>
+	  <td><font color="red">Sem aula (<a href="https://www.ic.uff.br/index.php/pt/pos-graduacao/noticias-pos/809-defesa-de-tese-de-doutorado-do-aluno-gleiph-ghiotto-lima-de-menezes">Defesa de Doutorado</a>)</font></td>
+	</tr>
+	<tr>
+	  <td>14/12/2016</td>
+	  <td>Aula no LII - <a href="../prog/aula13.pdf">Arquivos</a></td>
+	</tr>
+	<tr>
+	  <td>19/12/2016</td>
+	  <td>Aula no LCC - <a href="../prog/aula13.pdf">Arquivos</a></td>
+	</tr>
+	<tr>
+	  <td>21/12/2016</td>
+	  <td><font color="blue">Prova 2</font></td>
+	</tr>
+	<tr>
+	  <td>26/12/2016</td>
+	  <td><font color="red">Sem aula (Natal/Reveillon)</font></td>
+	</tr>
+	<tr>
+	  <td>28/12/2016</td>
+	  <td><font color="red">Sem aula (Natal/Reveillon)</font></td>
+	</tr>
+	<tr>
+	  <td>02/01/2017</td>
+	  <td><font color="red">Sem aula</font></td>
+	</tr>
+	<tr>
+	  <td>04/01/2017</td>
+	  <td><font color="blue">Segunda Chamada</font></td>
+	</tr>
+	<tr>
+	  <td>09/01/2017</td>
+	  <td><font color="blue">Vista de prova</font></td>
+	</tr>
+	<tr>
+	  <td>11/01/2017</td>
+	  <td><font color="blue">Verificação Suplementar</font></td>
+	</tr>
+	<tr>
+	  <td>16/01/2017</td>
+	  <td><font color="blue">Vista de prova</font></td>
+	</tr>
+</table>

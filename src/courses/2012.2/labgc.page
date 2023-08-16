@@ -1,0 +1,297 @@
+---
+title: Laboratório de Gerência de Configuração
+in_menu: true
+sort_info: 2
+---
+## Laboratório de Gerência de Configuração
+
+### Logística
+
+Disciplina: Laboratório de Gerência de Configuração
+
+Data: sextas, de 9h às 13h
+
+Local: sala 238 do bloco D
+
+Grupo: <http://www.facebook.com/groups/labgc2012.2> (importante: todos os alunos **devem** se cadastrar nesse grupo)
+
+### Avaliação
+
+Média = (Apresentação de Leituras + Seminários + Trabalho) / 3
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Aluno de Graduação) E (Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Grupos
+
+As atividades do curso serão feitas individualmente para alunos de mestrado e doutorado e em dupla para alunos de graduação, que devem ser constituídas na primeira semana de aula e ter a mesma formação até o final do curso. Apesar das atividades serem em grupo, a avaliação será individual. Entreguem por e-mail (assunto: Lab GC - Grupo) o número da matrícula e o nome completo de cada participante do grupo.
+
+### Apresentação de Leituras
+
+Um cronograma de leituras de artigos e capítulos de livro é indicado para viabilizar a consolidação dos conhecimentos referentes à matéria.
+
+Uma das aulas da semana (ver seção Cronograma) consiste na apresentação dos leituras e capítulos de livro lidos na semana, seguida de discussões sobre as leituras. Essa apresentação será feita por grupos previamente definidos (reserve o quanto antes as suas por e-mail). Além disso, os demais grupos ficarão encarregados de discutir aspectos da leitura. Cada apresentação deve ter duração de 30 a 60 minutos. A participação nessas atividades será considerada na composição da Média (item Apresentação de Leituras).
+
+Os artigos e livros estão disponíveis no [Facebook](http://www.facebook.com/groups/labgc2012.2/files) para os alunos já cadastrados no [Grupo](http://www.facebook.com/groups/labgc2012.2).
+
+**1ª leitura: sistemas históricos (SCCS, RCS e CVS)**
+
+> Marc J. Rochkind, 1975, "The Source Code Control System", IEEE Transactions on Software Engineering (TSE), 1 (4), pp. 364-370
+
+> Walter F. Tichy, 1984, "RCS - A System for Version Control", Purdue University, TR 84-474
+
+> Capítulo 1, "Overview", de Cederqvist, 2005, "Version Management with CVS"
+
+**2ª leitura: Subversion (1 de 3)**
+
+> Prefácio, "What Is Subversion?", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+> Capítulo 1, "Fundamental Concepts", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+> Capítulo 2, "Basic Usage", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+**3ª leitura: Subversion (2 de 3)**
+
+> Capítulo 4, "Branching and Merging", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+**4ª leitura: Subversion (3 de 3)**
+
+> Capítulo 5, "Repository Administration", de Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+**5ª leitura: Mercurial (1 de 2)**
+
+> Capítulo 1, "How did we get here?", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Capítulo 2, "A tour of Mercurial: the basics", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Capítulo 3, "A tour of Mercurial: merging work", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+**6ª leitura: Mercurial (2 de 2)**
+
+> Capítulo 4, "Behind the scenes", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Capítulo 6, "Collaborating with other people", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Capítulo 8, "Managing releases and branchy development", de Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+**7ª leitura: Git (1 de 6)**
+
+> Capítulo 1, "Getting Started", de Scott Chacon, 2010, "Pro Git"
+
+> Capítulo 2, "Git Basics", de Scott Chacon, 2010, "Pro Git"
+
+**8ª leitura: Git (2 de 6)**
+
+> Capítulo 3, "Git Branching", de Scott Chacon, 2010, "Pro Git"
+
+**9ª leitura: Git (3 de 6)**
+
+> Capítulo 4, "Git on the Server", de Scott Chacon, 2010, "Pro Git"
+
+**10ª leitura: Git (4 de 6)**
+
+> Capítulo 5, "Distributed Git", de Scott Chacon, 2010, "Pro Git"
+
+**11ª leitura: Git (5 de 6)**
+
+> Capítulo 6, "Git Tools", de Scott Chacon, 2010, "Pro Git"
+
+**12ª leitura: Git (6 de 6)**
+
+> Capítulo 9, "Git Internals", de Scott Chacon, 2010, "Pro Git"
+
+### Trabalho
+
+O trabalho consiste na construção colaborativa de um sistema de controle de versões. Nas primeiras aulas discutiremos uma arquitetura genérica de um sistema de controle de versões e cada grupo deverá escolher alguns módulos dessa arquitetura para ser o tema do seu trabalho.
+
+Como resultado, espera-se a escrita de um artigo de 8 a 10 páginas no [formato da SBC](http://www.sbc.org.br/index.php?option=com_jdownloads&Itemid=195&task=view.download&catid=32&cid=38), apresentando as seguintes seções:
+
+* Introdução (motivação, objetivo e organização do trabalho)
+* Fundamentação teórica e trabalhos relacionados
+* Abordagem proposta
+* Aspectos da implementação
+* Avaliação experimental ou exemplo de utilização
+* Conclusão (contribuições, limitações e trabalhos futuros)
+
+O trabalho deve ser entregue na data estipulada (ver seção Cronograma) para compor a Média (item Trabalho). 
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Seminários
+
+Uma das aulas da semana consiste no seminário de andamento dos trabalhos (ver seção Cronograma). O grupo poderá utilizar slides e quadro e cada apresentação deve durar 30 a 60 minutos. Nas primeiras apresentações é esperado que o grupo discuta o contexto do trabalho, o detalhamento da interface com outros módulos e a metodologia a ser adotada na execução do mesmo. Nas apresentações intermediárias é esperado que o grupo discuta como está o andamento do trabalho, mostrando os seus módulos em execução, integrados com os demais. Assim, nesse momento já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento. Desde a primeira apresentação, é esperado que a integração entre os módulos seja considerada como um elemento chave.
+
+Na última semana do curso haverá uma apresentação final onde os grupos devem mostrar os resultados obtidos no trabalho. Vale notar que nesse momento os trabalhos estão sendo entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Essas apresentações serão consideradas na composição da Média (item Seminários).
+
+### Presença
+
+De acordo com o Regulamento dos Cursos de [Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf) e de [Pós-Graduação](https://www.ic.uff.br/PosGraduacao/regras_e_procedimentos_arquivos/RegPGNovo.pdf), a presença mínima necessária para aprovação é de 75% das aulas (Art. 80, §14 e Art. 20, respectivamente). Vale notar que segundo o mesmo regulamento, nenhuma falta será abonada (Art. 80, §15).
+
+### Avaliação de Aprendizagem em Caráter Excepcional
+
+De acordo com o [Regulamento dos Cursos de Graduação](http://www.proac.uff.br/files/RegulamentoAprovadoCEP.pdf), não será permitida a Avaliação de Aprendizagem em Caráter Excepcional (i.e., 2ª chamada), com exceção dos casos citados no Art. 87, de acordo com os procedimentos do Art. 88.
+
+### Bibliografia
+
+As leituras do curso são sobre os artigos e livros a seguir. Alguns capítulos foram selecionados para leitura, mas é recomendado que os demais capítulos sejam lidos sob demanda, em função do tema do trabalho.
+
+> Marc J. Rochkind, 1975, "The Source Code Control System", IEEE Transactions on Software Engineering (TSE), 1 (4), pp. 364-370
+
+> Walter F. Tichy, 1984. "RCS - A System for Version Control", Purdue University, TR 84-474
+
+> Cederqvist, 2005, "Version Management with CVS"
+
+> Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato, "Version Control with Subversion"
+
+> Bryan OSullivan, "Mercurial: The Definitive Guide"
+
+> Scott Chacon, "Pro Git"
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Sessão</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td rowspan="2">17/08/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Aula - <a href="../labgc/aula1-2012-2.pdf">Apresentação do Curso</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Aula - <a href="../labgc/aula2.pdf">Introdução ao Controle de Versões</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td rowspan="2">24/08/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Apresentação e Discussão (1ª leitura)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Aula - <a href="../labgc/aula3.pdf">Apresentação da Arquitetura</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td rowspan="2">31/08/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Apresentação e Discussão (2ª leitura)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Seminário de andamento (Algoritmos de Diff e Patch; Modelo de versionamento e Armazenamento)</td>
+	  <td></td>
+	</tr>	
+	<tr>
+	  <td>07/09/2012</td>
+	  <td colspan="3">Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Independência do Brasil</a>)</td>	  
+	</tr>
+	<tr>
+	  <td rowspan="2">14/09/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Apresentação e Discussão (3ª e 4ª leituras)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Seminário de andamento (Espaço de trabalho; API Cliente e API Servidor)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td rowspan="2">21/09/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Apresentação e Discussão (5ª leitura)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Seminário de andamento (Comunicação; GUI/CLI e Algoritmo de Merge)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>28/09/2012</td>
+	  <td colspan="3">Sem aula (<a href="http://www.cbsoft.dimap.ufrn.br/">CBSoft</a>)</td>	  
+	</tr>
+	<tr>
+	  <td rowspan="2">05/10/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Apresentação e Discussão (6ª e 7ª leituras)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Seminário de andamento (Algoritmos de Diff e Patch; Modelo de versionamento e Armazenamento)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/10/2012</td>
+	  <td colspan="3">Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Nossa Senhora Aparecida</a>)</td>	  
+	</tr>
+	<tr>
+	  <td rowspan="2">19/10/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Apresentação e Discussão (8ª e 9ª leituras)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Seminário de andamento (Espaço de trabalho; API Cliente e API Servidor)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td rowspan="2">26/10/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Apresentação e Discussão (10ª leitura)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Seminário de andamento (Comunicação; GUI/CLI e Algoritmo de Merge)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/11/2012</td>
+	  <td colspan="3">Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Finados</a>)</td>	  
+	</tr>
+	<tr>
+	  <td>09/11/2012</td>
+	  <td colspan="3">Sem aula (BRAGFOST)</td>	  
+	</tr>
+	<tr>
+	  <td>16/11/2012</td>
+	  <td colspan="3">Sem aula (<a href="http://www.prograd.uff.br/novo/calendarios">Proclamação da República</a>)</td>	  
+	</tr>
+	<tr>
+	  <td>23/11/2012</td>
+	  <td colspan="3">Apresentação e Discussão (11ª e 12ª leituras)</td>	  
+	</tr>
+	<tr>
+	  <td rowspan="2">30/11/2012</td>
+	  <td>9h às 11h</td>	  
+	  <td>Seminário final (todos os módulos integrados)</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11h às 13h</td>	  
+	  <td>Seminário final (todos os módulos integrados) e Aula - <a href="../labgc/aula4.pdf">Ant</a> e <a href="../labgc/aula5.pdf">Maven</a></td>
+	  <td>Artigo</td>
+	</tr>	
+</table>

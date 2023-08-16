@@ -1,0 +1,204 @@
+---
+title: Técnicas de Projeto e Implementação de Sistemas II
+in_menu: true
+sort_info: 3
+---
+## Técnicas de Projeto e Implementação de Sistemas II
+
+### ATENÇÃO
+
+**A PARTIR DE 28/04/2015 ESTA DISCIPLINA PASSOU A SER DE RESPONSABILIDADE DO PROFESSOR MARCOS KALINOWSKI. POR FAVOR, ACESSE O NOVO SITE DA DISCIPLINA EM <http://www2.ic.uff.br/~kalinowski/tpis2.html>.**
+
+### Logística
+
+Disciplina: TCC00233 - Técnicas de Projeto e Implementação de Sistemas II
+
+Data: terças de 18h às 22h
+
+Local: sala 213 do prédio novo do Instituto de Computação
+
+Grupo: <https://www.facebook.com/groups/tpis22015.1> (importante: todos os alunos **devem** se cadastrar nesse grupo)
+
+### Avaliação
+
+*Avaliação 1* = Prova sem consulta
+
+*Avaliação 2* = Prova sem consulta
+
+*Avaliação 3* = (Participação + 2 x Trabalho + 3 x Seminário) / 6
+
+*Média das Provas* = (*Avaliação 1* + *Avaliação 2*) / 2
+
+Caso *Média das Provas* >= 4:
+
+> *Média* = (*Avaliação 1* + *Avaliação 2* + *Avaliação 3*) / 3
+
+Caso contrário:
+
+> *Média* = *Média das Provas*
+
+Obs.: Vale notar que o uso da nota da *Avaliação 3* não é opcional para quem fica com *Média das Provas* >= 4. Então, caso a nota da *Avaliação 3* seja baixa, a *Média* será afetada mesmo que a *Média das Provas* seja alta.
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+**REPROVADO**
+
+Caso contrário
+
+### Grupos
+
+As atividades da Avaliação3 serão feitas em grupos de 3 participantes, que devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Informem no grupo da turma no Facebook o nome completo de cada participante do grupo.
+
+### Participação
+
+Em algumas aulas serão fornecidos exercícios para serem feitos em grupo durante a aula ou em casa. Ao término, os grupos serão convidados a se voluntariar para apresentar as suas soluções. A participação nessas atividades será considerada na composição da Avaliação3 (item Participação).
+
+### Trabalho
+
+O curso terá dois trabalhos: um de cunho prático e outro de cunho teórico.
+
+O trabalho prático consiste em fazer um sistema bancário usando as tecnologias estudadas durante o curso. O sistema deve controlar usuários e contas, e permita as operações de depósito, saque, pagamento, impressão e compensação de cheques, saldo, extrato, investimento e transferência. As transferências e compensações de cheque podem ser entre contas do mesmo banco ou contas de bancos distintos, interagindo com os sistemas bancários feitos por outros grupos. 
+
+O trabalho teórico consiste em estudar uma tecnologia Java EE avançada e montar uma apresentação sobre ela. Dentre as tecnologias que podem ser apresentadas estão: Batch Processing, Concurrency Utilities, JMS, JavaMail, JSON-P, WebSockets, Bean Validation, JAX-RS, JAX-WS e Java EE Security. Informem no grupo da turma no Facebook a tecnologia que o grupo deseja apresentar no seminário final.
+
+Como resultado final espera-se a entrega do código do trabalho prático e dos slides do trabalho teórico. Esse material deve ser entregue na data estipulada (ver seção Cronograma) para compor a Avaliação3 (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de um ponto por dia.
+
+### Seminários
+
+Durante o curso foram reservados três momentos para a apresentação do andamento do trabalho (ver seção Cronograma). Essas apresentações tem duração de 20 minutos por grupo e  podem ser feitas usando slides e quadro. Inicialmente, haverá um primeiro seminário onde é esperado que cada grupo apresente modelos UML (casos de uso e classes) do sistema, assim como maquetes (telas) e mapas de navegação (com diagramas de atividades). 
+
+Posteriormente, haverá um segundo seminário onde os grupos devem apresentar a versão parcial do produto feita até então.
+
+Finalmente, haverá um último seminário para a apresentação dos resultados finais do trabalho, que consiste no sistema rodando e se comunicando com outros sistemas. Vale notar que nesse momento os trabalhos estão prestes a ser entregues, e essa apresentação serve como um espaço para que os grupos detalhem as suas experiências na execução do trabalho. Nesse momento é esperada também a apresentação do trabalho teórico. Essas apresentações serão consideradas na composição da Avaliação3 (item Seminários).
+
+### Presença
+
+De acordo com o Regulamento dos Cursos de Graduação, a presença mínima necessária para aprovação é de 75% das aulas (Art. 96) e não há abono de faltas (Art. 103).
+
+### Ferramentas
+
+No curso utilizaremos a versão mais recente da [IDE NetBeans](https://netbeans.org/downloads) na distribuição Java EE e o Servidor Java EE Glassfish, que vem junto com a IDE NetBeans. Ambos são gratuitos e estão disponíveis para os principais sistemas operacionais (Linux, Mac e Windows).
+
+### Bibliografia
+
+O curso é baseado na versão mais recente da especificação: Java EE 7. Há diversos livros sobre o assunto que podem ser consultados. Contudo o livro base do curso é o [Tutorial Java EE 7](http://docs.oracle.com/javaee/7/tutorial). O tutorial é gratuito e pode ser lido em diferentes formatos (HTML, PDF, ePub e Mobi). 
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Hora</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>10/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../tpis2/aula1.pdf">Apresentação do Curso</a> e <a href="../tpis2/aula2.pdf">Maven</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>17/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../tpis2/aula3.pdf">XML</a>, <a href="../tpis2/aula4.pdf">Arquiteturas Web</a> e <a href="../tpis2/aula5.pdf">Revisão de Servlets</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>24/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../tpis2/aula6.pdf">Revisão de JSP</a> e <a href="../tpis2/aula7.pdf">JSF</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>31/03/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../tpis2/aula7.pdf">JSF</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>07/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula - <a href="../tpis2/aula7.pdf">JSF</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>14/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Seminário (1a. rodada)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>21/04/2015</td>
+	  <td colspan="3"><font color="red">Sem aula (Tiradentes)</font></td>
+	</tr>
+	<tr>
+	  <td>28/04/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Prova 1</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>12/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>19/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Seminário (2a. rodada)</font></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>26/05/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td>Aula</td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Prova 2</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Seminário (rodada final)</font></td>
+	  <td>Trabalho</td>
+	</tr>
+	<tr>
+	  <td>30/06/2015</td>
+	  <td>18h às 22h</td>	  
+	  <td><font color="blue">Verificação Suplementar</font></td>
+	  <td></td>
+	</tr>	 
+</table>

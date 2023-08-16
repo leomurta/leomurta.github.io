@@ -1,0 +1,122 @@
+---
+title: Engenharia de Software II
+in_menu: true
+sort_info: 2
+---
+## Engenharia de Software II
+
+### Logística
+
+Disciplina: TCC00293 - Engenharia de Software II
+
+Data: quartas e sextas, de 7:00 às 9:00
+
+Sala: 202
+
+Grupo: <https://www.facebook.com/groups/es2-2018.1> (importante: todos os alunos **devem** se cadastrar nesse grupo)
+
+### Avaliação
+
+*Média* = (2 x *Prova 1* + 2 x *Prova 2* + *Trabalho*) / 5
+
+**APROVADO**
+
+(Presença >= 75%) E (Média >= 6)
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+(Presença >= 75%) E (4 <= Média < 6)
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+### Trabalho
+
+O curso terá um trabalho feito em grupos de 4 a 5 participantes, que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso. Cada grupo deve se enxergar como uma pequena software house. O tema do trabalho consiste em fazer um [jogo de Damas](https://pt.wikipedia.org/wiki/Damas) onde seja possível jogar contra o computador. É esperado que os grupos, durante o decorrer do curso, utilizem as técnicas aprendidas para gerenciar o projeto e desenvolver o produto. Será avaliado o produto final e como esse produto foi desenvolvido (processos e técnicas aplicados).
+
+Desde o início do trabalho, os grupos devem registrar as tarefas alocadas para cada membro do grupo, assim como as horas previstas para realização da tarefa e as horas efetivamente realizadas na tarefa. Essa informação será fundamental para viabilizar o Monitoramento e Controle do projeto.
+
+Foram reservados 3 momentos para apresentações de 30 minutos por grupo. O grupo deve utilizar slides nas apresentações e publicar esses slides no grupo do Facebook da disciplina no final das apresentações. 
+
+A **primeira apresentação** deve conter o escopo do projeto e do produto, as estimativas de esforço e custo, o orçamento, o cronograma de desenvolvimento, a análise de riscos e o monitoramento e controle do projeto. O grupo também deve mostrar a versão parcial do produto feita até então.
+
+A **segunda apresentação** deve descrever como está sendo usado controle de versões e controle de modificações no projeto, qual estratégia de ramificação foi adotada, assim como apresentar o conteúdo do repositório e o monitoramento e controle do projeto, além de mostrar a versão parcial do produto feita até então. Além disso, nessa apresentação deve ser informado o endereço do repositório de controle de versões e de controle de modificações. Vale ressaltar que o repositório de controle de versões deve conter todos os artefatos produzidos durante o trabalho.
+
+A **terceira apresentação** deve descrever como foram feitos testes de unidade, integração, sistema e aceitação no projeto, assim como apresentar os casos de teste e resultados da sua execução, dados de monitoramento e controle do projeto e versão final do produto. Além disso, nessa última apresentação também é esperado um detalhamento das dificuldades encontradas e decisões tomadas e listagem do percentual de participação de cada membro do grupo no trabalho. Caso não seja informado o percentual de participação, estará subentendido que todos participaram igualmente. 
+
+Essas apresentações serão avaliadas pela sua completude e corretude e capacidade de argumentação em relação às decisões tomadas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Essas apresentações e entregas devem ser feitas nas datas estipuladas na seção Cronograma. 
+
+Obs.: O atraso na entrega terá uma multa de um ponto por dia.
+
+### Listas de exercícios
+
+As listas de exercícios não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala.
+
+* [Lista de Processo de Software](/courses/es2/lista1.pdf)
+* [Lista de Planejamento de Projetos](/courses/es2/lista2.pdf)
+* [Lista de Monitoramento e Controle](/courses/es2/lista3.pdf)
+* [Lista de Gerência de Configuração](/courses/es2/lista4.pdf)
+* [Lista de Verificação, Validação e Testes](/courses/es2/lista5.pdf)
+* [Lista de Qualidade, Medição e Melhoria](/courses/es2/lista6.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Ferramentas
+
+No curso não temos uma ferramenta obrigatória. Os grupos devem aproveitar essa oportunidade para experimentar ferramentas que ainda não conhecem ou mesmo aprofundar os conhecimentos em ferramentas já conhecidas.
+
+Existem várias ferramentas proprietárias e livres que apóiam os diferentes tópicos tratados neste curso: [gerência de projetos](https://en.wikipedia.org/wiki/Comparison_of_project_management_software), [estimativas](https://en.wikipedia.org/wiki/Comparison_of_development_estimation_software), [controle de versões](https://en.wikipedia.org/wiki/Comparison_of_revision_control_software), [controle de modificações](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems), [gerenciamento de construção](https://en.wikipedia.org/wiki/List_of_build_automation_software), [integração contínua](https://en.wikipedia.org/wiki/Comparison_of_Continuous_Integration_Software), [hospedagem de projetos](https://en.wikipedia.org/wiki/Comparison_of_open_source_software_hosting_facilities), [testes de unidade](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks), [testes de interface](https://en.wikipedia.org/wiki/List_of_GUI_testing_tools), [testes de carga](https://en.wikipedia.org/wiki/Web_server_benchmarking) e [profiling](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools).
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. Apesar de essas referências estarem em inglês, muitos desses livros têm versões em português.
+
+Greene, J.; Stellman, A.; 2007. Head First PMP. O'Reilly Media.
+
+Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
+
+Orth, A.; Prikladnicki, R.; 2009. Planejamento e Gerência de Projetos. EDIPUCRS.
+
+Pilone, D.; Miles, R.; 2008. Head First Software Development. O'Reilly Media.
+
+Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Schwaber, K.; 2004. Agile Project Management with Scrum. Microsoft Press.
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+|Data|Atividade|Entrega
+|---
+|14/03/2018|Aula - [Apresentação da Disciplina](/courses/es2/aula1-2018-1.pdf)
+|16/03/2018|Aula - [Processo de Software](/courses/es2/aula2.pdf)
+|21/03/2018|Aula - [Processo de Software](/courses/es2/aula2.pdf)
+|23/03/2018|Aula - [Planejamento de Projetos](/courses/es2/aula3.pdf)
+|28/03/2018|Aula - [Planejamento de Projetos](/courses/es2/aula3.pdf)
+|30/03/2018|<span style="color: red">Sem aula (Semana Santa)</span>
+|04/04/2018|Aula - [Planejamento de Projetos](/courses/es2/aula3.pdf)
+|06/04/2018|Aula - [Planejamento de Projetos](/courses/es2/aula3.pdf)
+|11/04/2018|Aula - [Monitoramento e Controle](/courses/es2/aula4.pdf)
+|13/04/2018|Aula - [Monitoramento e Controle](/courses/es2/aula4.pdf)
+|18/04/2018|<span style="color: green">Apresentação de trabalhos - grupos 1, 2 e 3</span>|Slides
+|20/04/2018|<span style="color: green">Apresentação de trabalhos - grupos 4 e 5</span>|Slides
+|25/04/2018|<span style="color: blue">Prova 1</span>
+|27/04/2018|Aula - [Gerência de Configuração](/courses/es2/aula5.pdf)
+|02/05/2018|Aula - [Gerência de Configuração](/courses/es2/aula5.pdf)
+|04/05/2018|Aula - [Gerência de Configuração](/courses/es2/aula5.pdf)
+|09/05/2018|Aula - [Git](/courses/es2/aula5a.pdf)
+|11/05/2018|Aula - Dúvidas
+|16/05/2018|<span style="color: green">Apresentação de trabalhos - grupos 4 e 5</span>|Slides
+|18/05/2018|<span style="color: green">Apresentação de trabalhos - grupos 1, 2 e 3</span>|Slides
+|23/05/2018|Aula - [Verificação, Validação e Testes](/courses/es2/aula6.pdf)
+|25/05/2018|Aula - [Verificação, Validação e Testes](/courses/es2/aula6.pdf)
+|30/05/2018|<span style="color: red">Sem aula ([ICSE](https://www.icse2018.org/))</span>
+|01/06/2018|<span style="color: red">Sem aula (Corpus Christi)</span>
+|06/06/2018|Aula - [Garantia da Qualidade, Medição e Melhoria](/courses/es2/aula7.pdf)
+|08/06/2018|Aula - [Manutenção](/courses/es2/aula8.pdf)
+|13/06/2018|<span style="color: green">Apresentação de trabalhos - grupos 1, 2 e 3</span>|Slides
+|15/06/2018|<span style="color: green">Apresentação de trabalhos - grupos 4 e 5</span>|Slides
+|20/06/2018|<span style="color: blue">Prova 2</span>
+|22/06/2018|<span style="color: blue">Segunda Chamada</span>
+|27/06/2018|<span style="color: blue">Vista de prova na sala 528</span>
+|29/06/2018|<span style="color: blue">Verificação Suplementar</span>
+|04/07/2018|<span style="color: blue">Vista de prova na sala 528</span>

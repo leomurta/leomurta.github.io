@@ -1,0 +1,195 @@
+---
+title: Programação Orientada a Objetos
+in_menu: true
+sort_info: 2
+---
+## Programação Orientada a Objetos
+
+### Logística
+
+Disciplina: TCC00328 - Programação Orientada a Objetos
+
+Data: segundas e quartas, de 18:00 às 20:00
+
+Sala: 206 ou Lab II (sala 320 do bloco E). Os dias de aula no Lab II estão indicados no cronograma.
+
+Grupo: <http://www.facebook.com/groups/poo-2016.1> (todos os alunos devem se inscrever no grupo)
+
+### Avaliação
+
+*Média* = (2 x *Prova 1* + 2 x *Prova 2* + *Trabalho*) / 5
+
+### Trabalho
+
+O curso terá um trabalho feito em grupos de 3 participantes que consiste em desenvolver um sistema para um supermercado usando as tecnologias estudadas durante o curso. O supermercado tem um gerente e cinco funcionários, que se revezam nas três caixas de pagamento. Cada caixa está equipada com uma balança, viabilizando a venda de produtos por quilo ou por unidade. O sistema deve respeitar os seguintes requisitos:
+
+1. Fazer o controle do estoque de produtos do supermercado, permitindo que gerentes adicionem produtos ao estoque e que funcionários realizem a vendas de produtos, fazendo baixa do estoque.
+2. Efetuar venda de produtos, registrando em qual caixa e por qual funcionário a venda foi realizada. O sistema deve informar o valor total da venda ao final.
+3. Permitir o pagamento das vendas em dinheiro ou cartão. Caso seja em dinheiro, o sistema deve informar o valor do troco.
+4. Permitir que clientes consultem o preço dos produtos em leitores espalhados pelo supermercado.
+5. Permitir que o gerente emita relatórios de vendas e de estoque. O relatório de vendas deve informar, para cada caixa, os valores das vendas realizadas no dia, assim como o funcionário responsável pela venda. O relatório de estoque deve informar as quantidades disponíveis por produto no início do dia e no final do dia.
+
+Como resultado final espera-se uma demonstração do trabalho em 10 minutos e a entrega do código, juntamente com um arquivo README.txt contendo a listagem do percentual de participação de cada membro do grupo no trabalho. Caso não seja informado o percentual de participação, estará subentendido que todos participaram igualmente. Essas atividades devem ocorrer na data estipulada (ver seção Cronograma).
+
+Obs.: atraso na entrega terá uma multa de um ponto por dia.
+
+### Lista de exercícios
+
+A [lista de exercícios](../poo/lista.pdf) não precisa ser entregue ao professor. O intuito é servir como apoio para fixar a matéria dada em sala. Não será fornecido gabarito da lista. Enviem as dúvidas específicas para o grupo do Facebook.
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Ferramentas
+
+No curso utilizaremos a versão mais recente da [IDE NetBeans](https://netbeans.org/downloads) na distribuição Java SE. O NetBeans é gratuito e está disponível para os principais sistemas operacionais (Linux, Mac e Windows).
+
+### Bibliografia
+
+Há diversos livros sobre o assunto que podem ser consultados. Há a opção de consultar gratuitamente o [tutorial oficial da Oracle](http://docs.oracle.com/javase/tutorial/). Além disso, a Caelum disponibiliza gratuitamente uma [apostila em português sobre orientação a objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) e outra [apostila em português que trata de interface gráfica](https://www.caelum.com.br/apostila-java-testes-xml-design-patterns/), dentre outros assuntos fora do escopo deste curso. Por fim, o seguinte livro tem uma didática diferenciada: "Use a Cabeça Java", segunda edição, de Kathy Sierra e Bert Bates.
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>25/04/2016</td>
+	  <td>Aula - <a href="../poo/aula1-2016-1.pdf">Apresentação do Curso</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>27/04/2016</td>
+	  <td>Aula - <a href="../poo/aula2.pdf">Organização de Programas em Java</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>02/05/2016</td>
+	  <td>Aula - <a href="../poo/aula3.pdf">Operadores e Estruturas de Decisão</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>04/05/2016</td>
+	  <td>Aula - <a href="../poo/aula4.pdf">Estruturas de Repetição e String</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>09/05/2016</td>
+	  <td>Aula - <a href="../poo/aula5.pdf">Variáveis Compostas</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>11/05/2016</td>
+	  <td>Aula - <a href="../poo/aula6.pdf">Subprogramação</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>16/05/2016</td>
+	  <td>Aula - <a href="../poo/aula7.pdf">Introdução a Orientação a Objetos</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>18/05/2016</td>
+	  <td>Aula - <a href="../poo/aula7.pdf">Introdução a Orientação a Objetos</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>23/05/2016</td>
+	  <td>Aula no Lab II - <a href="../poo/aula7.pdf">Introdução a Orientação a Objetos</a></td>
+	  <td></td>
+	</tr>	<tr>
+	  <td>25/05/2016</td>
+	  <td><font color="blue">Prova 1</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>30/05/2016</td>
+	  <td>Aula - <a href="../poo/aula8.pdf">Herança e Polimorfismo</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/06/2016</td>
+	  <td>Aula - <a href="../poo/aula8.pdf">Herança e Polimorfismo</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>06/06/2016</td>
+	  <td>Aula no Lab II - <a href="../poo/aula9.pdf">Tratamento de Exceções</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>08/06/2016</td>
+	  <td><font color="blue">Vista de prova</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/06/2016</td>
+	  <td>Aula no Lab II - <a href="../poo/aula10.pdf">Coleções</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>15/06/2016</td>
+	  <td>Aula - <a href="../poo/aula10.pdf">Coleções</a> e <a href="../poo/aula11.pdf">Swing</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>20/06/2016</td>
+	  <td>Aula no Lab II - <a href="../poo/aula11.pdf">Swing</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>22/06/2016</td>
+	  <td>Aula - <a href="../poo/aula11.pdf">Swing</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>27/06/2016</td>
+	  <td>Aula no Lab II - <a href="../poo/aula12.pdf">Threads</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>29/06/2016</td>
+	  <td>Aula no Lab II - <a href="../poo/aula12.pdf">Threads</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/07/2016</td>
+	  <td colspan="2" rowspan="2"><font color="red">Sem aula (<a href="http://www.csbc2016.com.br/">CSBC</a>)</font></td>
+	</tr>
+	<tr>
+	  <td>06/07/2016</td>
+	</tr>
+	<tr>
+	  <td>11/07/2016</td>
+	  <td><font color="blue">Prova 2</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/07/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos no Lab II - grupos 1 a 8</font></td>
+	  <td rowspan="2">Código</td>
+	</tr>
+	<tr>
+	  <td>18/07/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos no Lab II - grupos 9 a 16</font></td>
+	</tr>
+	<tr>
+	  <td>20/07/2016</td>
+	  <td><font color="blue">Vista de prova</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/07/2016</td>
+	  <td><font color="blue">Verificação Suplementar e Segunda Chamada</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>27/07/2016</td>
+	  <td><font color="blue">Vista de prova (sala 528)</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/08/2016</td>
+	  <td><font color="blue">Verificação Suplementar para quem fez Segunda Chamada</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>03/08/2016</td>
+	  <td><font color="blue">Vista de prova (sala 528)</font></td>
+	  <td></td>
+	</tr>
+</table>

@@ -3,6 +3,12 @@
   handler: copy
 
 --- alcn
+courses/:
+  title: Courses
+  proxy_path: 2023.1/es2.html
+  in_menu: true
+  sort_info: 2
+
 people/:
   title: People
   proxy_path: current.html

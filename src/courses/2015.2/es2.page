@@ -1,0 +1,250 @@
+---
+title: Engenharia de Software II
+in_menu: true
+sort_info: 2
+---
+## Engenharia de Software II
+
+### Logística
+
+Disciplina: TCC00181 - Engenharia de Software II
+
+Data: quartas e sextas, de 11:00 às 13:00
+
+Sala: 321
+
+Grupo: <https://www.facebook.com/groups/es2-2015.2> (todos os alunos devem se inscrever no grupo)
+
+### Assistência
+
+Monitora: Thayanne Antão Viegas
+
+Horário: segundas e quartas de 9h às 13h
+
+### Avaliação
+
+*Média* = (2 x *Prova 1* + 2 x *Prova 2* + *Trabalho*) / 5
+
+### Trabalho
+
+O curso terá um trabalho feito em grupos de 5 participantes, que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso.
+
+Cada grupo deve se enxergar como uma pequena software house. O tema do trabalho é fazer um sistema de caixa bancário eletrônico. O sistema deve controlar usuários e contas, permitindo as operações de depósito, saque, pagamento, impressão e compensação de cheques, saldo, extrato, investimento e transferência.
+
+O trabalho consiste em, durante o decorrer do curso, utilizar as técnicas aprendidas para gerenciar o projeto e desenvolver o produto. Será avaliado o produto final e como esse produto foi desenvolvido (processos e técnicas aplicados).
+
+Foram reservados 3 momentos para apresentações de 15 a 20 minutos por grupo e entregas parciais do trabalho. O grupo poderá utilizar slides e quadro para as apresentações e as entregas devem ser feitas em papel, no momento das apresentações. A primeira apresentação e entrega parcial deve conter o escopo do projeto e do produto, as estimativas de esforço e custo, o orçamento, o cronograma de desenvolvimento, a análise de riscos e o monitoramento e controle do projeto. O grupo também deve mostrar a versão parcial do produto feita até então. A segunda apresentação e entrega parcial deve conter as ferramentas e técnicas de gerência de configuração adotadas no projeto, assim como o conteúdo do repositório e o monitoramento e controle do projeto, além de mostrar a versão parcial do produto feita até então. A terceira apresentação e entrega parcial deve conter as ferramentas e técnicas de testes usadas, assim como os casos de teste e resultados da sua execução, dados de monitoramento e controle do projeto e versão final do produto. Além disso, nessa última apresentação e entrega também é esperado um detalhamento das dificuldades encontradas e decisões tomadas, e informações de como acessar o repositório de gerência de configuração contendo todos os artefatos produzidos durante o trabalho, assim como como baixar o executável e instruções claras de como instalar e rodar. Essas apresentações e documentos serão avaliados pela sua completude e corretude e capacidade de argumentação em relação às decisões tomadas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Essas apresentações e entregas devem ser feitas nas datas estipuladas na seção Cronograma. 
+
+Obs.: O atraso na entrega terá uma multa de um ponto por dia.
+
+### Listas
+
+As listas não precisam ser entregues ao professor. O intuito é servirem como apoio para fixar a matéria dada em sala.
+
+* [Lista de Revisão de ES1](/courses/es2/lista1.pdf)
+* [Lista de Planejamento de Projetos](/courses/es2/lista2.pdf)
+* [Lista de Monitoramento e Controle](/courses/es2/lista3.pdf)
+* [Lista de Gerência de Configuração](/courses/es2/lista4.pdf)
+* [Lista de Verificação, Validação e Testes](/courses/es2/lista5.pdf)
+* [Lista de Qualidade, Medição e Melhoria](/courses/es2/lista6.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Ferramentas
+
+No curso não temos uma ferramenta obrigatória. Os grupos devem aproveitar essa oportunidade para experimentar ferramentas que ainda não conhecem ou mesmo aprofundar os conhecimentos em ferramentas já conhecidas.
+
+Existem várias ferramentas proprietárias e livres que apóiam os diferentes tópicos tratados neste curso: [gerência de projetos](https://en.wikipedia.org/wiki/Comparison_of_project_management_software), [estimativas](https://en.wikipedia.org/wiki/Comparison_of_development_estimation_software), [controle de versões](https://en.wikipedia.org/wiki/Comparison_of_revision_control_software), [controle de modificações](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems), [gerenciamento de construção](https://en.wikipedia.org/wiki/List_of_build_automation_software), [integração contínua](https://en.wikipedia.org/wiki/Comparison_of_Continuous_Integration_Software), [hospedagem de projetos](https://en.wikipedia.org/wiki/Comparison_of_open_source_software_hosting_facilities), [testes de unidade](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks), [testes de interface](https://en.wikipedia.org/wiki/List_of_GUI_testing_tools), [testes de carga](https://en.wikipedia.org/wiki/Web_server_benchmarking) e [profiling](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools).
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. Apesar de essas referências estarem em inglês, muitos desses livros têm versões em português.
+
+Greene, J.; Stellman, A.; 2007. Head First PMP. O'Reilly Media.
+
+Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
+
+Orth, A.; Prikladnicki, R.; 2009. Planejamento e Gerência de Projetos. EDIPUCRS.
+
+Pilone, D.; Miles, R.; 2008. Head First Software Development. O'Reilly Media.
+
+Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Schwaber, K.; 2004. Agile Project Management with Scrum. Microsoft Press.
+
+### Cronograma
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+	<tr style="font-weight: bold;">
+	  <td>Data</td>
+	  <td>Atividade</td>
+	  <td>Entrega</td>
+	</tr>
+	<tr>
+	  <td>02/12/2015</td>
+	  <td>Aula - <a href="../es2/aula1-2015-2.pdf">Apresentação do Curso</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/12/2015</td>
+	  <td>Aula - <a href="../es2/aula2.pdf">Processo de Software</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/12/2015</td>
+	  <td>Aula - <a href="../es2/aula2.pdf">Processo de Software</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/12/2015</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>16/12/2015</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>18/12/2015</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/12/2015</td>
+	  <td colspan="2" rowspan="2"><font color="red">Sem aula (Natal)</font></td>
+	</tr>
+	<tr>
+	  <td>25/12/2015</td>
+	</tr>
+	<tr>
+	  <td>30/12/2015</td>
+	  <td colspan="2" rowspan="2"><font color="red">Sem aula (Ano Novo)</font></td>
+	</tr>
+	<tr>
+	  <td>01/01/2016</td>
+	</tr>
+	<tr>
+	  <td>06/01/2016</td>
+	  <td>Aula - <a href="../es2/aula3.pdf">Planejamento de Projetos</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>08/01/2016</td>
+	  <td>Aula - <a href="../es2/aula4.pdf">Monitoramento e Controle</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>13/01/2016</td>
+	  <td>Aula - <a href="../es2/aula4.pdf">Monitoramento e Controle</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>15/01/2016</td>
+	  <td><font color="blue">Prova 1</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>20/01/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 2, 5 e 6)</font></td>
+	  <td rowspan="2">Trabalho (Parte 1)</td>
+	</tr>
+	<tr>
+	  <td>22/01/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 1, 3, 4)</font></td>
+	</tr>
+	<tr>
+	  <td>27/01/2016</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>29/01/2016</td>
+	  <td>Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>03/02/2016</td>
+	  <td>Vista de Provas e Aula - <a href="../es2/aula5.pdf">Gerência de Configuração</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>05/02/2016</td>
+	  <td>Aula - <a href="../es2/aula5a.pdf">Git</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>10/02/2016</td>
+	  <td colspan="2" rowspan="2"><font color="red">Sem aula (Carnaval)</font></td>
+	</tr>
+	<tr>
+	  <td>15/02/2016</td>
+	</tr>
+	<tr>
+	  <td>17/02/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 1, 3, 4)</font></td>
+	  <td rowspan="2">Trabalho (Parte 2)</td>
+	</tr>
+	<tr>
+	  <td>19/02/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 2, 5 e 6)</font></td>
+	</tr>
+	<tr>
+	  <td>24/02/2016</td>
+	  <td>Aula - <a href="../es2/aula6.pdf">Verificação, Validação e Testes</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>26/02/2016</td>
+	  <td>Aula - <a href="../es2/aula6.pdf">Verificação, Validação e Testes</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>02/03/2016</td>
+	  <td>Aula - <a href="../es2/aula7.pdf">Garantia da Qualidade, Medição e Melhoria</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>04/03/2016</td>
+	  <td>Aula - <a href="../es2/aula8.pdf">Manutenção</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>09/03/2016</td>
+	  <td><font color="blue">Prova 2</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>11/03/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 2, 3 e 6)</font></td>
+	  <td rowspan="2">Trabalho (Parte 3)</td>
+	</tr>
+	<tr>
+	  <td>16/03/2016</td>
+	  <td><font color="blue">Apresentação de trabalhos (grupos 1, 4 e 5)</font></td>
+	</tr>
+	<tr>
+	  <td>18/03/2016</td>
+	  <td><font color="blue">Vista de prova</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>23/03/2016</td>
+	  <td><font color="blue">Verificação Suplementar ou Segunda Chamada</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>25/03/2016</td>
+	  <td colspan="2"><font color="red">Sem aula (Semana Santa)</font></td>
+	</tr>
+	<tr>
+	  <td>30/03/2016</td>
+	  <td><font color="blue">Vista de prova</font></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>01/04/2016</td>
+	  <td><font color="blue">Verificação Suplementar para quem fez Segunda Chamada</font></td>
+	  <td></td>
+	</tr>
+</table>
