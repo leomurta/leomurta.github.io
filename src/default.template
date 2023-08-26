@@ -11,6 +11,8 @@
 
   gtag('config', 'G-58ZJG53LHV');
 </script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>   
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="Professor Leonardo Gresta Paulino Murta homepage at Fluminense Federal University" />
     <meta name="keywords" content="Leonardo Gresta Paulino Murta, UFF, Instituto de Computação" />
