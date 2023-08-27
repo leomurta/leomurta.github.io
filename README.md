@@ -16,7 +16,7 @@ Requirements:
 - Be at the root of the project directory
 
 ```console
-$ find . -type f -name "*.pdf" -exec bash -c 'gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/default -dNOPAUSE -dQUIET -dBATCH -sOutputFile="output.pdf" "{}"; rm "{}"; mv "output.pdf" "{}"' \;
+find . -type f -name "*.pdf" -exec bash -c 'gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/default -dNOPAUSE -dQUIET -dBATCH -sOutputFile="output.pdf" "{}"; rm "{}"; mv "output.pdf" "{}"' \;
 ```
 
 ### Redirect access to https://leomurta.github.io
