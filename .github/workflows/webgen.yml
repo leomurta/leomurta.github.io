@@ -43,7 +43,7 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Build with Webgen
         # Outputs to the './out' directory by default
-        run: bundle exec webgen
+        run: bundle exec webgen --debug
       - name: Upload artifact
         # Automatically uploads an artifact from the './out' directory
         uses: actions/upload-pages-artifact@v2
