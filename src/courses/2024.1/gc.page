@@ -55,31 +55,31 @@ Os artigos, listados a seguir, estão disponíveis em formato pdf no [Google Cla
 
 **4ª leitura: Git**
 
-> \[<b>Disponível</b>\] Chacon S., "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.
+> \[<b>Lucas</b>\] Chacon S., "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.
 
 **5ª leitura: Git**
 
-> \[<b>Disponível</b>\] Chacon S., "Chapter 7: Git Tools", Pro Git, 2nd ed., 2014.
+> \[<b>Lucas</b> e <b>Maiquel</b>\] Chacon S., "Chapter 7: Git Tools", Pro Git, 2nd ed., 2014.
 
 **6ª leitura: Git**
 
-> \[<b>Disponível</b>\] Chacon S., "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.
+> \[<b>João Ricardo</b> e <b>Rodrigo</b>\] Chacon S., "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.
 
 **7ª leitura: Versioning**
 
-> \[<b>Disponível</b>\] Conradi, R. and Westfechtel, B., "Version Models for Software Configuration Management", ACM Computing Surveys, v. 30, n. 2, p. 232-282, 1998.
+> \[<b>Aline</b> e <b>Daniel e Pedro</b>\] Conradi, R. and Westfechtel, B., "Version Models for Software Configuration Management", ACM Computing Surveys, v. 30, n. 2, p. 232-282, 1998.
 
 **8ª leitura: Merge**
 
-> \[<b>Disponível</b>\] Mens, T., "A State-of-the-Art Survey on Software Merging", IEEE Transactions Software Engineering, v. 28, n. 5, p. 449-462, 2002.
+> \[<b>João Pedro e Thiago</b>\] Mens, T., "A State-of-the-Art Survey on Software Merging", IEEE Transactions Software Engineering, v. 28, n. 5, p. 449-462, 2002.
 
 **9ª leitura: Branching**
 
-> \[<b>Disponível</b>\] Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R., "Streamed Lines: Branching Patterns for Parallel Software Development", Pattern Languages of Programs (PLoP), 1998.
+> \[<b>Aline</b> e <b>Daniel e Pedro</b>\] Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R., "Streamed Lines: Branching Patterns for Parallel Software Development", Pattern Languages of Programs (PLoP), 1998.
 
 **10ª leitura: MSR**
 
-> \[<b>Disponível</b>\] Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", International Working Conference on Mining Software Repositories (MSR), p. 92-101,  2014.
+> \[<b>Rodrigo</b>\] Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", International Working Conference on Mining Software Repositories (MSR), p. 92-101,  2014.
 
 ### Discussões de Artigos
 
@@ -119,9 +119,9 @@ Caso o aluno opte por fazer resumos, eles devem ser enviados na atividade respec
 | Data | Atividade | Entrega
 |---
 | 19/03/2024 | Aula - [Apresentação do curso](/courses/cm/lecture1-2024-1.pdf) | 
-| 21/03/2024 | Aula - [Introdução](/courses/cm/lecture2.pdf) | 
+| 21/03/2024 | <span style="color:red">Sem aula</span> | 
 | 26/03/2024 | <span style="color:black">Apresentações de artigos (1a e 2a leituras)</span> | Resumos (opcional)
-| 28/03/2024 | Aula | 
+| 28/03/2024 | Aula - [Introdução](/courses/cm/lecture2.pdf) | 
 | 02/04/2024 | <span style="color:black">Apresentações de artigos (3a leitura)</span> | Resumo (opcional)
 | 04/04/2024 | Aula | 
 | 09/04/2024 | <span style="color:black">Apresentações de artigos (4a leitura)</span> | Resumo (opcional)
