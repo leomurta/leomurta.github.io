@@ -85,7 +85,13 @@ Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Nã
 * Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
 * McLaughlin, B. D.; Pollice, G.; West, D.; 2006. Head First Object-Oriented Analysis and Design. illustrated edition. O'Reilly Media, Inc.
 * Pilone, D.; Russ, M.; 2008. Head First Software Development. illustrated edition. O'Reilly Media, Inc.
-* Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+* Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.Além desses livros, há materiais online e cursos a distância de engenharia de software que podem ser úteis:
+
+* [Apostila de OO da Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+* [Livro “Engenharia de Software Moderna” da UFMG](https://engsoftmoderna.info/)
+* [Guias sobre UML da Visual Paradigm](https://www.visual-paradigm.com/guide)
+* [Tutoriais sobre UML da Visual Paradigm](https://www.visual-paradigm.com/tutorials/)
+* [Curso de Tecnologia em Sistemas de Computação do consórcio CEDERJ](https://www.cecierj.edu.br/videoaulas/) (ver disciplina de "Engenharia de Software")
 
 ### Cronograma
 
@@ -96,8 +102,8 @@ Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Nã
 | 25/09/2024 | Aula - [Introdução à ES](/courses/es1/aula2.pdf) | 
 | 30/09/2024 | Aula - [Introdução à ES](/courses/es1/aula2.pdf) | 
 | 02/10/2024 | <span style="color:red">Sem aula (CBSoft)</span> | 
-| 07/10/2024 | Aula | 
-| 09/10/2024 | Aula | 
+| 07/10/2024 | Aula - [Revisão de Orientação a Objetos](/courses/es1/aula3.pdf) | 
+| 09/10/2024 | Aula - [Modelagem de Software](/courses/es1/aula4.pdf) | 
 | 14/10/2024 | <span style="color:red">Sem aula (Agenda Acadêmica)</span> | 
 | 16/10/2024 | <span style="color:red">Sem aula (Agenda Acadêmica)</span> | 
 | 21/10/2024 | Aula | 
