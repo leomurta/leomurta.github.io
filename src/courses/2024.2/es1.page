@@ -85,7 +85,9 @@ Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Nã
 * Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
 * McLaughlin, B. D.; Pollice, G.; West, D.; 2006. Head First Object-Oriented Analysis and Design. illustrated edition. O'Reilly Media, Inc.
 * Pilone, D.; Russ, M.; 2008. Head First Software Development. illustrated edition. O'Reilly Media, Inc.
-* Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.Além desses livros, há materiais online e cursos a distância de engenharia de software que podem ser úteis:
+* Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Além desses livros, há materiais online e cursos a distância de engenharia de software que podem ser úteis:
 
 * [Playlist deste curso gravada na pandemia](https://youtube.com/playlist?list=PLle493JFOaZdE5AhrOx3TB-0K29NjhhQx&si=1Rcnl7wRSXEOy94j)
 * [Apostila de OO da Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
@@ -129,8 +131,8 @@ Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Nã
 | 25/12/2024 | <span style="color:red">Sem aula (Recesso)</span> | 
 | 30/12/2024 | <span style="color:red">Sem aula (Recesso)</span> | 
 | 01/01/2025 | <span style="color:red">Sem aula (Recesso)</span> | 
-| 06/01/2025 | Aula | 
-| 08/01/2025 | Aula | 
+| 06/01/2025 | Aula - [Diagrama de Sequência](/courses/es1/aula10.pdf) | 
+| 08/01/2025 | Aula - [Outros Diagramas](/courses/es1/aula11.pdf) | 
 | 13/01/2025 | <span style="color:green">Apresentações de trabalhos (3a. rodada) - grupos 1 a 4</span> | Slides
 | 15/01/2025 | <span style="color:green">Apresentações de trabalhos (3a. rodada) - grupos 5 a 8</span> | Slides e Listas 6 a 9
 | 20/01/2025 | <span style="color:blue">Prova 2</span> | 
