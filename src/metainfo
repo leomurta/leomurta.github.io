@@ -5,7 +5,7 @@
 --- alcn
 courses/:
   title: Courses
-  proxy_path: 2024.2/es1.html
+  proxy_path: 2025.1/cv.html
   in_menu: true
   sort_info: 2
 

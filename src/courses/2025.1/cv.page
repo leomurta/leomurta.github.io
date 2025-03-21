@@ -1,0 +1,153 @@
+---
+title: Controle de Versão
+in_menu: true
+sort_info: 1
+---
+<!-- [EasyChair]: https://easychair.org/conferences/?conf=uffcm20241 -->
+[Google Classroom]: https://classroom.google.com/
+
+## Controle de Versão
+
+### Logística
+
+Data: quartas e sextas de 7h às 9h
+
+Sala: 404-B (prédio de laboratórios)
+
+Ambiente virtual: [Google Classroom]
+
+Todos os alunos **devem** estar inscritos no [Google Classroom]. Caso você não esteja inscrito, entre em contato comigo.
+
+### Avaliação
+
+$$ Media = \frac{2 \times \text{Apresentações de Artigos} + \text{Discussões de Artigos} + 2 \times \text{Trabalho} + \text{Apresentações do Trabalho} + \text{Avaliações de Artigos}}{7} $$
+
+**APROVADO**
+
+$$ Presença \geq 75\% \land Média \geq 6 $$
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+$$ Graduação \land Presença \geq 75\% \land 4 \leq Média < 6 $$
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+### Grupos
+
+As atividades de Apresentações de Artigos, Trabalho e Apresentações do Trabalho serão feitas em trio para alunos de graduação, dupla para alunos de mestrado e individualmente para alunos de doutorado. As atividades de Discussões de Artigos, Avaliações de Artigos e Resumos serão feitas individualmente por todos os alunos. Os grupos devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Enviem no [Google Classroom] o nome completo de cada participante do grupo.
+
+### Apresentações de Artigos
+
+As aulas de quarta-feira consistem na apresentação do artigo lido na semana, seguida de discussões sobre o artigo (ver seção *Cronograma*). Todos os alunos devem ler todos os artigos, porém a apresentação será feita por alunos previamente definidos. No final da apresentação, todos os alunos devem fazer perguntas e discutir sobre os artigos (se preparem para tal). Usualmente, cada grupo apresenta em torno de 2 a 3 artigos no decorrer do curso. Envie no o quanto antes, via [Google Classroom], uma lista dos artigos que você gostaria de apresentar (envie ao menos cinco, ordenados por preferência). A atribuição será feita pela ordem do recebimento dos pedidos. Cada apresentação deve ter duração de **no máximo** 30 minutos. A participação nessas atividades será considerada na composição da média final (item *Apresentações de Artigos*).
+
+Os artigos, listados a seguir, estão disponíveis em formato pdf no [Google Classroom]. Para cada artigo é indicado o responsável pela apresentação, ou se ele ainda está disponível. Se você é responsável por apresentar, tente ir além do que está no artigo, trazendo exemplos e, se for o caso, fazendo demo durante a apresentação.
+
+**1ª leitura: Git**
+
+> \[Disponível\] Chacon S., "Chapter 1: Getting Started", Pro Git, 2nd ed., 2014.
+
+**2ª leitura: Git**
+
+> \[Disponível\] Chacon S., "Chapter 2: Git Basics", Pro Git, 2nd ed., 2014.
+
+**3ª leitura: Git**
+
+> \[Disponível\] Chacon S., "Chapter 3: Git Branching", Pro Git, 2nd ed., 2014.
+
+**4ª leitura: Git**
+
+> \[Disponível\] Chacon S., "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.
+
+**5ª leitura: Git**
+
+> \[Disponível\] Chacon S., "Chapter 7: Git Tools", Pro Git, 2nd ed., 2014.
+
+**6ª leitura: Git**
+
+> \[Disponível\] Chacon S., "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.
+
+**7ª leitura: Versioning**
+
+> \[Disponível\] Conradi, R. and Westfechtel, B., "Version Models for Software Configuration Management", ACM Computing Surveys, v. 30, n. 2, p. 232-282, 1998.
+
+**8ª leitura: Merge**
+
+> \[Disponível\] Mens, T., "A State-of-the-Art Survey on Software Merging", IEEE Transactions Software Engineering, v. 28, n. 5, p. 449-462, 2002.
+
+**9ª leitura: Branching**
+
+> \[Disponível\] Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R., "Streamed Lines: Branching Patterns for Parallel Software Development", Pattern Languages of Programs (PLoP), 1998.
+
+**10ª leitura: MSR**
+
+> \[Disponível\] Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", International Working Conference on Mining Software Repositories (MSR), p. 92-101,  2014.
+
+### Discussões de Artigos
+
+Todo aluno que não está responsável pela apresentação de artigos da semana deve se preparar para fazer perguntas e trazer o seu ponto de vista sobre os artigos que estão sendo apresentados pelos colegas. A profundidade dessas perguntas, assim como a intensidade e qualidade das discussões, serão consideradas na composição da média final (item *Discussões de Artigos*).
+
+### Trabalho
+
+Cada grupo deve, durante as primeiras semanas de aula, escolher o tema do seu trabalho. Esse trabalho pode ser (1) a aplicação de gerência de configuração em alguma área, (2) o uso de alguma técnica para apoiar a gerência de configuração, (3) mineração e visualização de repositórios de gerência de configuração, (4) um estudo de técnicas avançadas de gerência de configuração ou (5) a implementação de algum algoritmo de gerência de configuração. O tema do trabalho deve ser negociado com o professor antes do seu início.
+
+Como resultado, espera-se a escrita de um artigo de 4 páginas no [formato da ACM](https://www.acm.org/publications/proceedings-template) -- use o template ACM_SigConf. Esse artigo deve apresentar uma introdução, contendo a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos (tanto a descrição do que foi feito quanto uma avaliação, mostrando a efetividade) e conclusão. 
+
+A entrega será feita através de um software de controle de conferências real, o EasyChair. Nós iremos simular todo o processo de submissão e avaliação de artigos usado em conferências no contexto dessa disciplina. Para submeter seu artigo, acesse o [EasyChair]. O artigo deve ser entregue na data estipulada (ver seção Cronograma) para compor a média final (item Trabalho).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de dois pontos por dia.
+
+### Apresentações do Trabalho
+
+Durante o curso foram reservados três momentos para a apresentação de trabalhos (ver seção *Cronograma*). Cada apresentação deve durar **no máximo** 15 minutos. Na primeira apresentação, é esperado que os alunos discutam o contexto do trabalho, o seu objetivo e a metodologia a ser adotada na execução do mesmo. Na segunda apresentação, é esperado que os alunos discutam como está o andamento do trabalho. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento. Posteriormente, haverá uma apresentação final onde os alunos devem mostrar os resultados obtidos no trabalho. Essas apresentações serão consideradas na composição da média final (item *Apresentações do Trabalho*).
+
+### Avaliações de Artigos
+
+Conforme explicado anteriormente, na disciplina simularemos uma conferência, onde os autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e, consequentemente, receberão artigos dos colegas para avaliar. As avaliações serão consideradas na composição da média final (item *Avaliações de Artigos*) do aluno que fez a avaliação, mas não serão consideradas na nota do aluno que submeteu o artigo. Assim, as avaliações devem ser tecnicamente profundas, sem preocupação de prejudicar a nota do colega.
+
+Para avaliar os artigos que foram atribuídos a você, acesse o [EasyChair]. No menu, escolha o nosso curso e depois clique em Change Role. Escolha agora o papel de avaliador ao invés de autor. Depois, acesse o menu Reviews, e clique em Assigned to me. Lá aparecerão os artigos que foram atribuídos para você avaliar.
+
+Obs.: atraso na entrega das Avaliações de Artigos terá uma multa de dois pontos por dia.
+
+### Resumos (opcionais)
+
+Os alunos que não estão encarregados de fazer apresentações de artigos na semana podem, opcionalmente, escrever resumos sobre cada um dos artigos lidos. A escrita dos resumos pode ajudar a organizar as ideias para a discussão dos artigos. Esses resumos devem caber em uma página A4 (fonte 12, margem 2 cm, espaçamento simples), contendo o título do artigo, o nome do aluno e o resumo em si. O resumo deve focar na principal mensagem do artigo, tendo início, meio e fim (evite o uso de bullets). Termine o resumo com um parágrafo expondo a sua opinião sobre o artigo, indicando os principais aspectos positivos e negativos do artigo.
+
+Caso o aluno opte por fazer resumos, eles devem ser enviados na atividade respectiva do [Google Classroom] antes da aula em que o artigo será apresentado. Caso, no final do curso, o aluno esteja com média entre 5,5 e 6,0, os resumos serão corrigidos podendo somar até 0,5 pontos na média, eventualmente arredondando a média para 6,0. Não serão aceitas entregas fora do prazo.
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+| Data | Atividade | Entrega
+|---
+| 26/03/2025 | Aula | 
+| 28/03/2025 | Aula | 
+| 02/04/2025 | <span style="color:black">Apresentações de artigos (1a e 2a leituras)</span> | Resumos (opcional)
+| 04/04/2025 | Aula | 
+| 09/04/2025 | <span style="color:black">Apresentações de artigos (3a leitura)</span> | Resumo (opcional)
+| 11/04/2025 | Aula | 
+| 16/04/2025 | <span style="color:black">Apresentações de artigos (4a leitura)</span> | Resumo (opcional)
+| 18/04/2025 | <span style="color:red">Sem aula (Semana Santa)</span> | 
+| 23/04/2025 | <span style="color:red">Sem aula (São Jorge)</span> | 
+| 25/04/2025 | Aula | 
+| 30/04/2025 | <span style="color:green">Apresentações de trabalhos (1a rodada)</span> | Slides
+| 02/05/2025 | <span style="color:green">Apresentações de trabalhos (1a rodada)</span> | Slides
+| 07/05/2025 | <span style="color:black">Apresentações de artigos (5a leitura)</span> | Resumo (opcional)
+| 09/05/2025 | Aula | 
+| 14/05/2025 | <span style="color:black">Apresentações de artigos (6a leitura)</span> | Resumo (opcional)
+| 16/05/2025 | Aula | 
+| 21/05/2025 | <span style="color:black">Apresentações de artigos (7a leitura)</span> | Resumo (opcional)
+| 23/05/2025 | Aula | 
+| 28/05/2025 | <span style="color:green">Apresentações de trabalhos (2a rodada)</span> | Slides
+| 30/05/2025 | <span style="color:green">Apresentações de trabalhos (2a rodada)</span> | Slides
+| 04/06/2025 | <span style="color:black">Apresentações de artigos (8a leitura)</span> | Resumo (opcional)
+| 06/06/2025 | Aula | 
+| 11/06/2025 | <span style="color:black">Apresentações de artigos (9a leitura)</span> | Resumo (opcional)
+| 13/06/2025 | Aula | 
+| 18/06/2025 | <span style="color:black">Apresentações de artigos (10a leitura)</span> | Resumo (opcional)
+| 20/06/2025 | <span style="color:red">Sem aula (Corpus Christi)</span> | 
+| 25/06/2025 | <span style="color:green">Apresentações de trabalhos (3a rodada)</span> | Slides e Trabalho (submeter via [EasyChair])
+| 27/06/2025 | <span style="color:green">Apresentações de trabalhos (3a rodada)</span> | Slides
+| 02/07/2025 | <span style="color:red">Sem aula</span> | Avaliações de artigos (submeter via [EasyChair])
+| 04/07/2025 | <span style="color:red">Vista de avaliações de 7h às 8h na sala 433 (opcional)</span> | 
+| 09/07/2025 | <span style="color:blue">Verificação suplementar (somente graduação)</span> | 
+| 11/07/2025 | <span style="color:red">Vista de prova de 7h às 8h na sala 433 (opcional)</span> | 
