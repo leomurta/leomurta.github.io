@@ -1,9 +1,16 @@
 --- alcn
+2025.1/:
+  title: 2025.1
+  proxy_path: cv.html
+  in_menu: true
+  sort_info: 69
+
 2024.2/:
   title: 2024.2
   proxy_path: es1.html
   in_menu: true
   sort_info: 70
+
 2024.1/:
   title: 2024.1
   proxy_path: es2.html
