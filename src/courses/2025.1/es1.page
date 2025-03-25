@@ -1,0 +1,121 @@
+---
+title: Engenharia de Software I
+in_menu: true
+sort_info: 2
+---
+[Google Classroom]: https://classroom.google.com/
+## Engenharia de Software I
+
+### Logística
+
+Disciplina: TCC00292 - Engenharia de Software I
+
+Data: sextas, de 9:00 às 13:00
+
+Sala: 404B (prédio de laboratórios)
+
+Ambiente virtual: [Google Classroom]
+
+### Ementa
+
+* Engenharia de software: histórico, objetivo, importância e principais desafios
+* Engenharia de requisitos
+* Modelagem na engenharia de requisitos
+* Engenharia de projeto
+* Modelagem na engenharia de projeto
+* A UML (Unified Modeling Language) nas engenharias de requisitos e de projeto 
+* Ferramentas CASE (Computer-Aided Software Engineering) para elaboração de Modelos de análise e de projeto
+
+### Avaliação
+
+$$ Media = \frac{2 \times \text{Prova 1} + 2 \times \text{Prova 2} + \text{Trabalho}}{5} $$
+
+**APROVADO**
+
+$$ Presença \geq 75\% \land Média \geq 6 $$
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+$$ Presença \geq 75\% \land 4 \leq Média < 6 $$
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+Obs.: Nenhum aluno poderá sair da sala nos primeiros 30 minutos de prova. Depois de 30 minutos, quem terminar poderá sair. Contudo, depois que o primeiro aluno sair, nenhum aluno poderá entrar. Desta forma, se organize para ser pontual.
+
+### Trabalho
+
+O curso terá um trabalho feito em grupos de 8 participantes (máximo de 8 grupos no total), que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso.
+
+Cada grupo deve, também preferencialmente na primeira semana de aula, escolher um sistema para ser o tema do seu trabalho. Esse sistema pode ser o Projeto de Aplicação de algum membro do grupo, algum sistema legado do estágio de um dos membros do grupo, algum sistema existente na internet, ou qualquer outro sistema que não tenha documentação de análise e projeto acessível aos membros do grupo. A escolha deve ser apresentada ao professor para aprovação.
+
+O trabalho consiste em, durante o decorrer do curso, utilizar as técnicas aprendidas para explicitar os requisitos do sistema em questão e produzir os diagramas de análise e projeto para esse sistema.
+
+Foram reservados três momentos para apresentações de 15 a 20 minutos por grupo. O grupo poderá utilizar slides e quadro para as apresentações e os slides devem ser entregues no [Google Classroom], no dia das apresentações. Caso os slides não contenham tudo que o grupo fez, o grupo pede entregar documentações auxiliáres em pdf, juntamente com os slides, no [Google Classroom]. A **primeira apresentação** deve conter a descrição do escopo do sistema e apresentar os seus requisitos e seus diagramas e descrições de casos de uso. A **segunda apresentação** deve conter os diagramas de classe no nível de análise e projeto. A **terceira apresentação** deve conter diagramas de transição de estados, atividades e sequência. Além disso, nessa última apresentação também é esperado um detalhamento das dificuldades encontradas e decisões tomadas. 
+
+Essas apresentações e documentos serão avaliados pela sua completude e corretude, e capacidade de argumentação em relação às decisões tomadas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Essas apresentações e entregas devem ser feitas nas datas estipuladas na seção Cronograma.
+
+### Listas de exercícios
+
+As listas de exercícios devem ser feitas individualmente e entregues no [Google Classroom] dentro do prazo definido na seção de Cronograma. Caso, no final do curso, o aluno esteja com média entre 5,5 e 6,0, as listas serão corrigidas podendo somar até 0,5 pontos na média, eventualmente arredondando a média para 6,0. Não serão aceitas entregas fora do prazo.
+
+* [Lista 1 - Introdução à ES](/courses/es1/lista1.pdf)
+* [Lista 2 - Orientação a Objetos](/courses/es1/lista2.pdf)
+* [Lista 3 - Modelagem](/courses/es1/lista3.pdf)
+* [Lista 4 - Engenharia de Requisitos](/courses/es1/lista4.pdf)
+* [Lista 5 - Casos de Uso](/courses/es1/lista5.pdf)
+* [Lista 6 - Classes](/courses/es1/lista6.pdf)
+* [Lista 7 - Estados](/courses/es1/lista7.pdf)
+* [Lista 8 - Atividades](/courses/es1/lista8.pdf)
+* [Lista 9 - Sequência](/courses/es1/lista9.pdf)
+
+Obs.: Caso tenha dificuldade de fazer alguma questão, verifique se não é referente a uma matéria que está para ser apresentada nas próximas aulas.
+
+### Ferramentas
+
+Ferramentas CASE são de extrema valia durante as atividades de análise e projeto. Contudo, em momentos mais incipientes dessas atividades, a utilização de papel ou quadro normalmente contribui na estimulação da criatividade. Desta forma, é esperada a utilização de papel durante os exercícios em sala de aula, apesar de não ser proibida a utilização de ferramentas CASE caso o grupo disponha de tablet ou laptop. Entretanto, para a execução do trabalho, é esperado o uso de ferramentas CASE.
+
+Atualmente, existem diversas ferramentas CASE disponíveis gratuitamente para uso (<http://en.wikipedia.org/wiki/List_of_UML_tools>). Fica a critério dos grupos a seleção da ferramenta CASE que será utilizada na execução do trabalho. É importante notar que a ferramenta escolhida deve dar suporte à confecção de diagramas de caso de uso, classes, transição de estados, atividade e sequência de acordo com a UML 2. Um exemplo de ferramenta gratuita e compatível com todos os diagramas da UML 2 é a [Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp). 
+
+### Bibliografia
+
+Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Não é esperado que todos esses livros sejam lidos pelos alunos durante o curso, mas podem ser consultados no caso de dúvidas específicas em um determinado assunto da matéria. A seguir, são listadas as referências completas dos principais livros utilizados. Apesar de essas referências estarem em inglês, muitos desses livros têm versões em português.
+
+* Booch, G.; Rumbaugh, J.; Jacobson, I.; 2005. The Unified Modeling Language User Guide. 2nd ed. Addison-Wesley Professional.
+* Cockburn, A.; 2000. Writing Effective Use Cases. Addison-Wesley Professional.
+* Fowler, M.; 2003. UML Distilled: A Brief Guide to the Standard Object Modeling Language. 3rd ed. Addison-Wesley Professional.
+* Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
+* McLaughlin, B. D.; Pollice, G.; West, D.; 2006. Head First Object-Oriented Analysis and Design. illustrated edition. O'Reilly Media, Inc.
+* Pilone, D.; Russ, M.; 2008. Head First Software Development. illustrated edition. O'Reilly Media, Inc.
+* Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
+
+Além desses livros, há materiais online e cursos a distância de engenharia de software que podem ser úteis:
+
+* [Playlist deste curso gravada na pandemia](https://youtube.com/playlist?list=PLle493JFOaZdE5AhrOx3TB-0K29NjhhQx&si=1Rcnl7wRSXEOy94j)
+* [Apostila de OO da Caelum](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+* [Livro “Engenharia de Software Moderna” da UFMG](https://engsoftmoderna.info/)
+* [Guias sobre UML da Visual Paradigm](https://www.visual-paradigm.com/guide)
+* [Tutoriais sobre UML da Visual Paradigm](https://www.visual-paradigm.com/tutorials/)
+* [Curso de Tecnologia em Sistemas de Computação do consórcio CEDERJ](https://www.cecierj.edu.br/videoaulas/) (ver disciplina de "Engenharia de Software")
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+| Data | Atividade | Entrega
+|---
+| 28/03/2025 | Aula | 
+| 04/04/2025 | Aula | 
+| 11/04/2025 | Aula | 
+| 18/04/2025 | <span style="color:red">Sem aula (Semana Santa)</span> | 
+| 25/04/2025 | Aula | 
+| 02/05/2025 | <span style="color:green">Apresentações de trabalhos (1a. rodada)</span> | Slides (submeter no mural do [Google Classroom]) e Listas 1 a 5 (submeter via atividade no [Google Classroom])
+| 09/05/2025 | <span style="color:blue">Prova 1 (10h às 12h)</span> | 
+| 16/05/2025 | Aula | 
+| 23/05/2025 | Aula | 
+| 30/05/2025 | <span style="color:green">Apresentações de trabalhos (2a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 06/06/2025 | Aula | 
+| 13/06/2025 | Aula | 
+| 20/06/2025 | <span style="color:red">Sem aula (Corpus Christi)</span> | 
+| 27/06/2025 | <span style="color:green">Apresentações de trabalhos (3a. rodada)</span> | Slides (submeter no mural do [Google Classroom]) e Listas 6 a 9 (submeter via atividade no [Google Classroom])
+| 04/07/2025 | <span style="color:blue">Prova 2 (10h às 12h)</span> | 
+| 11/07/2025 | <span style="color:red">Vista de prova (9h às 9h30) na sala 433 (opcional)</span> <br/> <span style="color:blue">Segunda chamada e verificação suplementar (10h às 12h)</span> | 
+| 18/07/2025 | <span style="color:red">Vista de prova (9h às 9h30) na sala 433 (opcional)</span> <br/> <span style="color:blue">Verificação suplementar p/ quem fez segunda chamada (10h às 12h)</span> <br/> <span style="color:red">Vista de prova (12h30 às 13h) na sala 433 (opcional)</span> | 
