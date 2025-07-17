@@ -1,0 +1,29 @@
+--- 
+title: Papers
+in_menu: true
+sort_info: 4
+---
+## Some of my papers
+
+<ul>
+<%
+  # Acessa a árvore de nós e o nó da pasta /papers/
+  tree = context.node.tree
+  papers_node = tree['/papers/']
+
+  if papers_node
+    # Seleciona apenas os arquivos PDF
+    pdfs = papers_node.children.select { |n| n.alcn =~ /\.pdf$/ }
+
+    # Ordena alfabeticamente e lista
+    pdfs.sort_by(&:alcn).each do |pdf_node|
+      url = context.tag(:relocatable, pdf_node.alcn)
+      title = File.basename(pdf_node.alcn)
+%>
+  <li><a href="<%= url %>"><%= title %></a></li>
+<%   end
+  else
+%>
+  <li>No PDF files found in /papers/</li>
+<% end %>
+</ul>
