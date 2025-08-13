@@ -1,4 +1,10 @@
 --- alcn
+2025.2/:
+  title: 2025.2
+  proxy_path: es1.html
+  in_menu: true
+  sort_info: 68
+
 2025.1/:
   title: 2025.1
   proxy_path: cv.html
