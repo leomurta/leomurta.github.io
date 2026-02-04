@@ -5,51 +5,52 @@ sort_info: 5
 ---
 ## Speeches
 
-In this page, I will publish in reverse chronological order all my recorded speeches. If you have recorded one of my speeches, please let me know...
+In this page, I publish in reverse chronological order all my recorded speeches. If you have recorded one of my speeches, please let me know...
 
-* 18/Oct/2023 - Fronteiras da Engenharia de Software - Versionamento de Software:
+### 08/Oct/2024 - Seminários do IC/UFF - O Gerenciamento de Configuração é um problema resolvido? (essa palestra também foi o keynote do SBES 2024):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tDXSs6jXMp0" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/WRKAJYuMqs0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 18/Oct/2023 - Fronteiras da Engenharia de Software - Versionamento de Software:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WRKAJYuMqs0" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* 10/May/2019 - Discurso de Patrono - IC/UFF 2018/2 ([pdf](speeches/discurso-2018-2.pdf)):
+### 06/Oct/2022 - Painel CBSoft - Engenharia Software para Ciência de Dados:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3G7sgcg2pfs" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/P5z11K2tnZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 03/Oct/2022 - Painel VEM 10 anos - Uma década de VEM, sua evolução, onde estamos e aonde podemos chegar:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6qtxgNNuAaw" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* 29/Oct/2018 - Discurso de Patrono - IC/UFF 2018/1 ([pdf](speeches/discurso-2018-1.pdf) - a gravação foi interrompida e retomada somente no final. O pdf contém o discurso na íntegra):
+### 05/Nov/2020 - Seminários do IC/UFF - O papel da Engenharia de Software no desenvolvimento de Sistemas de Informação:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/yureDCcpK70" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/i6Gvjx5bxO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 10/May/2019 - Discurso de Patrono - IC/UFF 2018/2 ([pdf](speeches/discurso-2018-2.pdf)):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/P5z11K2tnZY" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* 27/Oct/2016 - Discurso de Patrono - IC/UFF 2016/1 ([pdf](speeches/discurso-2016-1.pdf)):
+### 29/Oct/2018 - Discurso de Patrono - IC/UFF 2018/1 ([pdf](speeches/discurso-2018-1.pdf) - a gravação foi interrompida e retomada somente no final. O pdf contém o discurso na íntegra):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/i6Gvjx5bxO4" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/pJLli8QGE3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 27/Oct/2016 - Discurso de Patrono - IC/UFF 2016/1 ([pdf](speeches/discurso-2016-1.pdf)):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pJLli8QGE3s" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* 03/Jul/2014 - Discurso de Patrono - IC/UFF 2013/2 ([pdf](speeches/discurso-2013-2.pdf)):
+### 03/Jul/2014 - Discurso de Patrono - IC/UFF 2013/2 ([pdf](speeches/discurso-2013-2.pdf)):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zKbRQZxu2ZM" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/zKbRQZxu2ZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* 08/Nov/2013 - University of California, Irvine - Versioning over the Software Life Cycle:
-
-<video width="640" height="360" controls>
+### 08/Nov/2013 - University of California, Irvine - Versioning over the Software Life Cycle:
+<video width="640" height="360" style="margin-bottom: 20px;" controls>
   <source src="http://www.informatics.uci.edu/video/InfTalk110813Murta.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-* 10/Jul/2013 - Discurso de Patrono - IC/UFF 2012/2 ([pdf](speeches/discurso-2012-2.pdf)):
+### 10/Jul/2013 - Discurso de Patrono - IC/UFF 2012/2 ([pdf](speeches/discurso-2012-2.pdf)):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2FKbqKMuTSw" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/2FKbqKMuTSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 28/Feb/2013 - Discurso de Patrono - IC/UFF 2012/1 ([pdf](speeches/discurso-2012-1.pdf)):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9X8sxkVtf28" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* 28/Feb/2013 - Discurso de Patrono - IC/UFF 2012/1 ([pdf](speeches/discurso-2012-1.pdf)):
+### 11/May/2012 - Discurso de Paraninfo - IC/UFF 2011/2 ([pdf](speeches/discurso-2011-2.pdf)):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WQDkIKQh9g8" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/9X8sxkVtf28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 29/Apr/2011 - Discurso de Patrono - IC/UFF 2010/2 ([pdf](speeches/discurso-2010-2.pdf)):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7leAi8klcDM" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* 11/May/2012 - Discurso de Paraninfo - IC/UFF 2011/2 ([pdf](speeches/discurso-2011-2.pdf)):
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/WQDkIKQh9g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* 29/Apr/2011 - Discurso de Patrono - IC/UFF 2010/2 ([pdf](speeches/discurso-2010-2.pdf)):
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7leAi8klcDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* 25/Oct/2010 - Discurso de Patrono - IC/UFF 2010/1 ([pdf](speeches/discurso-2010-1.pdf)):
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/XCCQm8rv0aE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 25/Oct/2010 - Discurso de Patrono - IC/UFF 2010/1 ([pdf](speeches/discurso-2010-1.pdf)):
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XCCQm8rv0aE" frameborder="0" style="margin-bottom: 20px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
