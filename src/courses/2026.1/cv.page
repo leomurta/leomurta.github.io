@@ -1,0 +1,210 @@
+---
+title: Controle de Versão
+in_menu: true
+sort_info: 1
+---
+<!-- [EasyChair]: https://easychair.org/conferences/?conf=uffvc20251 -->
+[Google Classroom]: https://classroom.google.com/
+[formato da ACM]: https://www.acm.org/publications/proceedings-template
+[Cronograma]: #cronograma
+[cartilha sobre plágio]: https://www.noticias.uff.br/arquivos/cartilha-sobre-plagio-academico.pdf
+[cartilha sobre o uso de IA]: https://gtia.uff.br/produtos/ 
+
+## Controle de Versão
+
+### Logística
+
+Data: segundas e quartas de 7h às 9h
+
+Sala: 215
+
+Ambiente virtual: [Google Classroom]
+
+Todos os alunos **devem** estar inscritos no [Google Classroom]. Caso você não esteja inscrito, entre em contato comigo.
+
+### Avaliação
+
+$$ Media = \frac{2 \times \text{Apresentações de Artigos} + \text{Debate de Artigos} + 2 \times \text{Trabalho} + \text{Apresentações do Trabalho} + \text{Avaliações de Artigos}}{7} $$
+
+**APROVADO**
+
+$$ Presença \geq 75\% \land Média \geq 6 $$
+
+**VERIFICAÇÃO SUPLEMENTAR**
+
+$$ Graduação \land Presença \geq 75\% \land 4 \leq Média < 6 $$
+
+Será aprovado na VS se tirar nota maior ou igual a 6.
+
+### Grupos
+
+As atividades de *Apresentações de Artigos*, *Trabalho* e *Apresentações do Trabalho* serão feitas em trio para alunos de graduação, dupla para alunos de mestrado e individualmente para alunos de doutorado. As atividades de *Debate de Artigos*, *Avaliações de Artigos* e *Resumos* serão feitas individualmente por todos os alunos. Os grupos devem ser constituídos na primeira semana de aula e ter a mesma formação até o final do curso. Enviem no [Google Classroom] o nome completo de cada participante do grupo.
+
+### Apresentações de Artigos
+
+As aulas de segunda-feira consistem na apresentação do artigo lido por todos na semana (ver seção [Cronograma]). A apresentação será feita pelo grupo previamente definido. Cada apresentação deve ter duração de **no máximo** 30 minutos. Se seu grupo é responsável por apresentar, tente ir além do que está no artigo, trazendo exemplos e, se possível, realizando demonstrações durante a apresentação. Usualmente cada grupo apresenta de 2 a 3 artigos ao longo do curso. A atuação como responsável pela apresentação será considerada na composição da média final (item *Apresentações de Artigos*).
+
+### Debate de Artigos
+
+Após a apresentação, haverá um debate sobre o artigo, envolvendo todos os alunos. Esse debate será promovido por um grupo, que deve trazer perguntas e fomentar as discussões sobre o artigo. Usualmente, cada grupo debate de 2 a 3 artigos ao longo do curso. A atuação como responsável pelo debate será considerada na composição da média final (item *Debate de Artigos*).
+
+### Leituras
+
+Os artigos listados a seguir estão disponíveis em formato PDF no [Google Classroom]. Para cada artigo, será indicado o grupo responsável pela apresentação e pelo debate, ou se ele ainda está disponível. Envie, via [Google Classroom], uma lista dos artigos que seu grupo gostaria de apresentar ou debater (ao menos cinco, ordenados por preferência). A atribuição será feita pela ordem do recebimento dos pedidos, buscando equilíbrio entre os alunos.
+
+**1ª leitura: Git** 
+
+> Chacon S. "Chapter 1: Getting Started", Pro Git, 2nd ed., 2014.  
+
+> Apresentador:  
+> Debatedor:
+
+**2ª leitura: Git**  
+
+> Chacon S. "Chapter 2: Git Basics", Pro Git, 2nd ed., 2014.  
+
+> Apresentador:  
+> Debatedor:
+
+**3ª leitura: Git**  
+
+> Chacon S. "Chapter 3: Git Branching", Pro Git, 2nd ed., 2014.  
+
+> Apresentador:  
+> Debatedor:
+
+**4ª leitura: Git**  
+
+> Chacon S. "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.  
+
+> Apresentador:  
+> Debatedor:
+
+**5ª leitura: Git**  
+
+> Chacon S. "Chapter 7: Git Tools", Pro Git, 2nd ed., 2014.  
+
+> Apresentador:  
+> Debatedor:
+
+**6ª leitura: Git**  
+
+> Chacon S. "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.  
+
+> Apresentador:  
+> Debatedor:
+
+**7ª leitura: Merge**  
+
+> Campos Junior, H., Menezes, G., Barros, M., van der Hoek, A., Murta, L. "Towards a feasible evaluation function for search-based merge conflict resolution", ACM TOSEM, accepted on june/2025.  
+
+> Apresentador:  
+> Debatedor:
+
+**8ª leitura: Merge**  
+
+> Dong, J., Zhu, Q., Sun, Z., Lou, Y., Hao, D. "Merge Conflict Resolution: Classification or Generation?", ASE, 2024.  
+
+> Apresentador:  
+> Debatedor:
+
+**9ª leitura: Branching**  
+
+> Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R. "Streamed Lines: Branching Patterns for Parallel Software Development", PLoP, 1998.  
+
+> Apresentador:  
+> Debatedor:
+
+**10ª leitura: MSR**  
+
+> Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", MSR, 2014.  
+
+> Apresentador:  
+> Debatedor:
+
+**11ª leitura: MSR**  
+
+> Bird, C., Rigby, P. C., Barr, E. T., Hamilton, D. J., German, D. M., & Devanbu, P. "The promises and perils of mining git", MSR, 2009.  
+
+> Apresentador:  
+> Debatedor:
+
+### Trabalho
+
+Cada grupo deve, durante as primeiras semanas de aula, escolher o tema do seu trabalho. Esse trabalho pode ser (1) a aplicação de controle de versão em alguma área, (2) o uso de alguma técnica para apoiar o controle de versão, (3) mineração e visualização de repositórios de controle de versão, (4) um estudo de técnicas avançadas de controle de versão ou (5) a implementação de algum algoritmo de controle de versão. O tema do trabalho deve ser negociado com o professor antes do seu início.
+
+Como resultado, espera-se a escrita de um artigo de 4 páginas no [formato da ACM] -- use o template ACM_SigConf. Esse artigo deve apresentar uma introdução, contendo a motivação e o objetivo do trabalho, trabalhos relacionados, resultados obtidos (tanto a descrição do que foi feito quanto uma avaliação, mostrando a efetividade) e conclusão. 
+
+O artigo será avaliado segundo os seguintes critérios:
+
+- **Relevância**: É fácil entender a motivação do artigo? A motivação é adequada? O problema é importante de ser resolvido?
+- **Originalidade**: O artigo apresenta claramente os trabalhos relacionados? É possível identificar como o artigo se diferencia dos trabalhos relacionados?
+- **Solidez**: O artigo está tecnicamente correto?
+- **Avaliação**: O artigo apresenta uma avaliação da técnica proposta ou fenômeno estudado? Essa avaliação é bem planejada? Os resultados são convincentes?
+- **Apresentação**: O artigo está aderente ao formato da ACM? O texto está gramaticalmente correto? O artigo está bem organizado em termos de seções?
+
+A entrega será feita através de um software de controle de conferências real, o [EasyChair]. Nós iremos simular todo o processo de submissão e avaliação de artigos usado em conferências no contexto dessa disciplina. Para submeter seu artigo, acesse o [EasyChair]. O artigo deve ser entregue na data estipulada (ver seção [Cronograma]) para compor a média final (item *Trabalho*).
+
+Obs.: atraso na entrega do Trabalho terá uma multa de dois pontos por dia.
+
+### Apresentações do Trabalho
+
+Durante o curso foram reservados três momentos para a apresentação de trabalhos (ver seção [Cronograma]). Cada apresentação deve durar **no máximo** 15 minutos. Na primeira apresentação, é esperado que os alunos discutam o contexto do trabalho, o seu objetivo e a metodologia a ser adotada na execução do mesmo. Na segunda apresentação, é esperado que os alunos discutam como está o andamento do trabalho. Nesse momento, já é esperado algum resultado concreto, mesmo que ainda com pouco aprofundamento. Posteriormente, haverá uma apresentação final onde os alunos devem mostrar os resultados obtidos no trabalho. Essas apresentações serão consideradas na composição da média final (item *Apresentações do Trabalho*).
+
+### Avaliações de Artigos
+
+Conforme explicado anteriormente, na disciplina simularemos uma conferência, onde os autores submetem artigos e os artigos são avaliados pelo Comitê de Programa da conferência. Os alunos da disciplina farão parte do comitê de programa, e, consequentemente, receberão artigos dos colegas para avaliar. As avaliações serão consideradas na composição da média final (item *Avaliações de Artigos*) do aluno que fez a avaliação, mas não serão consideradas na nota do aluno que submeteu o artigo. Assim, as avaliações devem ser tecnicamente profundas, sem preocupação de prejudicar a nota do colega.
+
+Para avaliar os artigos que foram atribuídos a você, acesse o [EasyChair]. No menu, escolha o nosso curso e depois clique em "Change Role". Escolha agora o papel de avaliador ao invés de autor. Depois, acesse o menu Reviews, e clique em "Assigned to me". Lá aparecerão os artigos que foram atribuídos para você avaliar.
+
+Obs.: atraso na entrega das Avaliações de Artigos terá uma multa de dois pontos por dia.
+
+### Resumos (opcionais)
+
+Os alunos que não estão encarregados de fazer apresentações de artigos na semana podem, opcionalmente, escrever resumos sobre cada um dos artigos lidos. A escrita dos resumos pode ajudar a organizar as ideias para a discussão dos artigos. Esses resumos devem caber em uma página A4 (fonte 12, margem 2 cm, espaçamento simples), contendo o título do artigo, o nome do aluno e o resumo em si. O resumo deve focar na principal mensagem do artigo, tendo início, meio e fim (evite o uso de bullets). Termine o resumo com um parágrafo expondo a sua opinião sobre o artigo, indicando os principais aspectos positivos e negativos do artigo.
+
+Caso o aluno opte por fazer resumos, eles devem ser enviados na atividade respectiva do [Google Classroom] antes da aula em que o artigo será apresentado. Caso, no final do curso, o aluno esteja com média entre 5,5 e 6,0, os resumos serão corrigidos podendo somar até 0,5 pontos na média, eventualmente arredondando a média para 6,0. Não serão aceitas entregas fora do prazo.
+
+### Regra de Conduta
+
+A UFF disponibiliza [cartilha sobre plágio] e [cartilha sobre o uso de IA] que devem ser lidas e seguidas pelos alunos.
+
+### Cronograma
+
+{: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
+| Data | Atividade | Entrega
+|---
+| 16/03/2026 | Aula | 
+| 18/03/2026 | Aula | 
+| 23/03/2026 | <span style="color:black">Apresentações de artigos (1a e 2a leituras)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 25/03/2026 | Aula | 
+| 30/03/2026 | <span style="color:black">Apresentações de artigos (3a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 01/04/2026 | Aula | 
+| 06/04/2026 | <span style="color:black">Apresentações de artigos (4a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 08/04/2026 | <span style="color:green">Apresentações de trabalhos (1a rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 13/04/2026 | <span style="color:green">Apresentações de trabalhos (1a rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 15/04/2026 | <span style="color:red">Sem aula (ICSE)</span> | 
+| 20/04/2026 | <span style="color:red">Sem aula (ponto facultativo)</span> | 
+| 22/04/2026 | Aula | 
+| 27/04/2026 | <span style="color:black">Apresentações de artigos (5a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 29/04/2026 | Aula | 
+| 04/05/2026 | <span style="color:black">Apresentações de artigos (6a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 06/05/2026 | Aula | 
+| 11/05/2026 | <span style="color:black">Apresentações de artigos (7a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 13/05/2026 | Aula | 
+| 18/05/2026 | <span style="color:green">Apresentações de trabalhos (2a rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 20/05/2026 | <span style="color:green">Apresentações de trabalhos (2a rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 25/05/2026 | <span style="color:black">Apresentações de artigos (8a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 27/05/2026 | Aula | 
+| 01/06/2026 | <span style="color:black">Apresentações de artigos (9a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 03/06/2026 | Aula | 
+| 08/06/2026 | <span style="color:black">Apresentações de artigos (10a e 11a leituras)</span> | Resumos (submeter via atividade no [Google Classroom])
+| 10/06/2026 | Aula | 
+| 15/06/2026 | <span style="color:green">Apresentações de trabalhos (3a rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 17/06/2026 | <span style="color:green">Apresentações de trabalhos (3a rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 22/06/2026 | <span style="color:red">Sem aula</span> | Trabalho (submeter via [EasyChair])
+| 24/06/2026 | <span style="color:red">Sem aula (São João)</span> | 
+| 29/06/2026 | <span style="color:red">Sem aula</span> | Avaliações (submeter via [EasyChair])
+| 01/07/2026 | <span style="color:red">Vista de avaliações de 7h às 8h na sala 433 (opcional)</span> | 
+| 06/07/2026 | <span style="color:blue">Verificação suplementar (somente graduação)</span> | 
+| 08/07/2026 | <span style="color:red">Vista de prova de 7h às 8h na sala 433 (opcional)</span> | 
