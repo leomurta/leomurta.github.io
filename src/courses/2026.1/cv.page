@@ -57,13 +57,15 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Chacon S. "Chapter 1: Getting Started", Pro Git, 2nd ed., 2014.  
 
 > Apresentador: Allan + Matthew
+
 > Debatedor: Marcelo
 
 **2ª leitura: Git**  
 
 > Chacon S. "Chapter 2: Git Basics", Pro Git, 2nd ed., 2014.  
 
-> Apresentador: Marcelo
+> Apresentador: Marcelo  
+
 > Debatedor: Allan + Matthew
 
 **3ª leitura: Git**  
@@ -71,6 +73,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Chacon S. "Chapter 3: Git Branching", Pro Git, 2nd ed., 2014.  
 
 > Apresentador:  
+
 > Debatedor:
 
 **4ª leitura: Git**  
@@ -78,6 +81,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Chacon S. "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.  
 
 > Apresentador:  
+
 > Debatedor:
 
 **5ª leitura: Git**  
@@ -85,6 +89,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Chacon S. "Chapter 7: Git Tools", Pro Git, 2nd ed., 2014.  
 
 > Apresentador:  
+
 > Debatedor:
 
 **6ª leitura: Git**  
@@ -92,6 +97,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Chacon S. "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.  
 
 > Apresentador:  
+
 > Debatedor:
 
 **7ª leitura: Merge**  
@@ -99,6 +105,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Campos Junior, H., Menezes, G., Barros, M., van der Hoek, A., Murta, L. "Towards a feasible evaluation function for search-based merge conflict resolution", ACM TOSEM, accepted on june/2025.  
 
 > Apresentador:  
+
 > Debatedor:
 
 **8ª leitura: Merge**  
@@ -106,6 +113,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Dong, J., Zhu, Q., Sun, Z., Lou, Y., Hao, D. "Merge Conflict Resolution: Classification or Generation?", ASE, 2024.  
 
 > Apresentador:  
+
 > Debatedor:
 
 **9ª leitura: Branching**  
@@ -113,6 +121,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R. "Streamed Lines: Branching Patterns for Parallel Software Development", PLoP, 1998.  
 
 > Apresentador:  
+
 > Debatedor:
 
 **10ª leitura: MSR**  
@@ -120,6 +129,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", MSR, 2014.  
 
 > Apresentador:  
+
 > Debatedor:
 
 **11ª leitura: MSR**  
@@ -127,6 +137,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 > Bird, C., Rigby, P. C., Barr, E. T., Hamilton, D. J., German, D. M., & Devanbu, P. "The promises and perils of mining git", MSR, 2009.  
 
 > Apresentador:  
+
 > Debatedor:
 
 ### Trabalho
