@@ -56,7 +56,7 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 
 > Chacon S. "Chapter 1: Getting Started", Pro Git, 2nd ed., 2014.  
 
-> Apresentador: Allan + Matthew
+> Apresentador: Ladan + Matthew
 
 > Debatedor: Marcelo
 
@@ -66,79 +66,79 @@ Os artigos listados a seguir estão disponíveis em formato PDF no [Google Class
 
 > Apresentador: Marcelo  
 
-> Debatedor: Allan + Matthew
+> Debatedor: Ladan + Matthew
 
 **3ª leitura: Git**  
 
 > Chacon S. "Chapter 3: Git Branching", Pro Git, 2nd ed., 2014.  
 
-> Apresentador:  
+> Apresentador: Fábio + Felipe + Lucas
 
-> Debatedor:
+> Debatedor: Ladan + Matthew
 
 **4ª leitura: Git**  
 
 > Chacon S. "Chapter 5: Distributed Git", Pro Git, 2nd ed., 2014.  
 
-> Apresentador:  
+> Apresentador: Marcelo
 
-> Debatedor:
+> Debatedor: Fábio + Felipe + Lucas
 
 **5ª leitura: Git**  
 
 > Chacon S. "Chapter 7: Git Tools", Pro Git, 2nd ed., 2014.  
 
-> Apresentador:  
+> Apresentador: Fábio + Felipe + Lucas
 
-> Debatedor:
+> Debatedor: Caio + Camila
 
 **6ª leitura: Git**  
 
 > Chacon S. "Chapter 10: Git Internals", Pro Git, 2nd ed., 2014.  
 
-> Apresentador:  
+> Apresentador: Ladan + Matthew
 
-> Debatedor:
+> Debatedor: Gustavo + Mikael
 
 **7ª leitura: Merge**  
 
 > Campos Junior, H., Menezes, G., Barros, M., van der Hoek, A., Murta, L. "Towards a feasible evaluation function for search-based merge conflict resolution", ACM TOSEM, accepted on june/2025.  
 
-> Apresentador:  
+> Apresentador: Caio + Camila
 
-> Debatedor:
+> Debatedor: Marcelo
 
 **8ª leitura: Merge**  
 
 > Dong, J., Zhu, Q., Sun, Z., Lou, Y., Hao, D. "Merge Conflict Resolution: Classification or Generation?", ASE, 2024.  
 
-> Apresentador:  
+> Apresentador: Caio + Camila
 
-> Debatedor:
+> Debatedor: Gustavo + Mikael
 
 **9ª leitura: Branching**  
 
 > Appleton, B., Berczuk, S., Cabrera, R., Orenstein, R. "Streamed Lines: Branching Patterns for Parallel Software Development", PLoP, 1998.  
 
-> Apresentador:  
+> Apresentador: Gustavo + Mikael
 
-> Debatedor:
+> Debatedor: Marcelo
 
 **10ª leitura: MSR**  
 
 > Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. "The promises and perils of mining github", MSR, 2014.  
 
-> Apresentador:  
+> Apresentador: Gustavo + Mikael
 
-> Debatedor:
+> Debatedor: Caio + Camila
 
 **11ª leitura: MSR**  
 
 > Bird, C., Rigby, P. C., Barr, E. T., Hamilton, D. J., German, D. M., & Devanbu, P. "The promises and perils of mining git", MSR, 2009.  
 
-> Apresentador:  
+> Apresentador: Marcelo
 
-> Debatedor:
+> Debatedor: Fábio + Felipe + Lucas
 
 ### Trabalho
 
@@ -185,10 +185,10 @@ A UFF disponibiliza [cartilha sobre plágio] e [cartilha sobre o uso de IA] que 
 {: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
 | Data | Atividade | Entrega
 |---
-| 16/03/2026 | Aula - [Apresentação do curso](/courses/cm/lecture1-2026-1.pdf)  | 
-| 18/03/2026 | Aula - [Introdução ao Controle de Versão](/courses/cm/lecture2.pdf)   | 
+| 16/03/2026 | Aula - [Apresentação do curso](/courses/cm/lecture1-2026-1.pdf) | 
+| 18/03/2026 | Aula - [Introdução ao Controle de Versão](/courses/cm/lecture2.pdf) | 
 | 23/03/2026 | <span style="color:black">Apresentações de artigos (1a e 2a leituras)</span> | Resumos (submeter via atividade no [Google Classroom])
-| 25/03/2026 | Aula | 
+| 25/03/2026 | Aula - [Fundamentos de Controle de Versão](/courses/cm/lecture3.pdf) | 
 | 30/03/2026 | <span style="color:black">Apresentações de artigos (3a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
 | 01/04/2026 | Aula | 
 | 06/04/2026 | <span style="color:black">Apresentações de artigos (4a leitura)</span> | Resumos (submeter via atividade no [Google Classroom])
