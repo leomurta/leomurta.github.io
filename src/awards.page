@@ -8,8 +8,6 @@ sort_info: 4
 .awards-mosaic { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-start; }
 .award-tile {
   width: 220px;
-  text-decoration: none;
-  color: inherit;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,7 +21,7 @@ sort_info: 4
   border: 1px solid #ddd;
   padding: 3px;
 }
-.award-tile:hover img { border-color: #286ea0; }
+.award-tile a:hover img { border-color: #286ea0; }
 .award-caption {
   font-size: 0.82em;
   line-height: 1.3em;
@@ -38,101 +36,101 @@ sort_info: 4
 <%
 awards = [
   { pdf: "2023_homenagem-engenharia-software-cees.pdf",
-    nome: "Reconhecimento pela participação ativa e significativa na comunidade de Engenharia de Software no Brasil e contribuições para as pesquisas em Engenharia de Software",
-    entidade: "Sociedade Brasileira da Computação (SBC)", ano: "2023" },
+    nome: "Reconhecimento pela Comunidade de ES",
+    evento: "CEES", entidade: "SBC", ano: "2023" },
 
   { pdf: "2022_sbes-outstanding-reviewer.pdf",
-    nome: "Outstanding Reviewer Award - Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2022" },
+    nome: "Outstanding Reviewer",
+    evento: "SBES", entidade: "SBC", ano: "2022" },
   { pdf: "2022_sbes-distinguished-paper.pdf",
-    nome: "Distinguished Paper Award - Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2022" },
+    nome: "Distinguished Paper",
+    evento: "SBES", entidade: "SBC", ano: "2022" },
   { pdf: "2022_premio-uff-teses-pimentel-diploma.pdf",
-    nome: "Orientação que obteve 1o. lugar na categoria doutorado no Prêmio UFF de Teses e Dissertações no Colégio de Ciências Exatas e Tecnológicas: Ciências Exatas e da Terra, e Engenharias",
-    entidade: "Universidade Federal Fluminense (UFF)", ano: "2022" },
+    nome: "1o. lugar (Doutorado)",
+    evento: "Prêmio UFF de Teses", entidade: "UFF", ano: "2022" },
 
   { pdf: "2020_sbes-best-paper.pdf",
-    nome: "Melhor Artigo do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2020" },
+    nome: "Melhor Artigo",
+    evento: "SBES", entidade: "SBC", ano: "2020" },
 
   { pdf: "2019-05-27_msr-2019-distinguished-paper-award.pdf",
-    nome: "ACM SIGSOFT Distinguished Paper Award - International Conference on Mining Software Repositories (MSR)",
-    entidade: "ACM/IEEE", ano: "2019" },
+    nome: "Distinguished Paper",
+    evento: "MSR", entidade: "ACM/IEEE", ano: "2019" },
   { pdf: "2019-05-27_msr-2019-foss-impact-award.pdf",
-    nome: "Free and Open Source Software (FOSS) impact paper award - International Conference on Mining Software Repositories",
-    entidade: "ACM/IEEE", ano: "2019" },
+    nome: "FOSS Impact Paper",
+    evento: "MSR", entidade: "ACM/IEEE", ano: "2019" },
   { pdf: "2019_sast-cbsoft-melhor-artigo.pdf",
-    nome: "Melhor Artigo do Brazilian Symposium on Systematic and Automated Software Testing (SAST)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2019" },
+    nome: "Melhor Artigo",
+    evento: "SAST", entidade: "SBC", ano: "2019" },
   { pdf: "2019_premio-capes-tese-mencao-honrosa-kohwalter.pdf",
-    nome: "Orientação que obteve menção honrosa na área Computação do Prêmio CAPES de Teses",
-    entidade: "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)", ano: "2019" },
+    nome: "Menção Honrosa (Computação)",
+    evento: "Prêmio CAPES de Teses", entidade: "CAPES", ano: "2019" },
   { pdf: "2019_premio-uff-teses-kohwalter-coorientador.pdf",
-    nome: "Orientação que obteve 1o. lugar na categoria doutorado no Prêmio UFF de Teses e Dissertações em Colégio de Ciências Exatas, da Terra e Multidisciplinar",
-    entidade: "UFF", ano: "2019" },
+    nome: "1o. lugar (Doutorado)",
+    evento: "Prêmio UFF de Teses", entidade: "UFF", ano: "2019" },
   { pdf: "2019_ctd-sbgames-1o-lugar-kohwalter.pdf",
-    nome: "Orientação que obteve 1o. lugar na categoria doutorado no CTD do SBGames",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2019" },
+    nome: "1o. lugar (Doutorado)",
+    evento: "CTD SBGames", entidade: "SBC", ano: "2019" },
 
   { pdf: "2016_premio-uff-teses-2015-silvajunior-coorientador.pdf",
-    nome: "Orientação que obteve 1o. lugar na categoria doutorado no Prêmio UFF de Teses e Dissertações em Ciências Exatas e da Terra e Engenharias",
-    entidade: "Universidade Federal Fluminense (UFF)", ano: "2016" },
+    nome: "1o. lugar (Doutorado)",
+    evento: "Prêmio UFF de Teses", entidade: "UFF", ano: "2016" },
   { pdf: "2016_sbes-cbsoft-melhor-artigo.pdf",
-    nome: "Melhor Artigo do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2016" },
+    nome: "Melhor Artigo",
+    evento: "SBES", entidade: "SBC", ano: "2016" },
 
   { pdf: "2014_sbes-cbsoft-melhor-artigo.pdf",
-    nome: "Melhor Artigo do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2014" },
+    nome: "Melhor Artigo",
+    evento: "SBES", entidade: "SBC", ano: "2014" },
 
   { pdf: "2013_ctd-sbqs-2o-lugar.pdf",
-    nome: "Orientação que obteve 2o. lugar na categoria mestrado no CTDQS",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2013" },
+    nome: "2o. lugar (Mestrado)",
+    evento: "CTDQS", entidade: "SBC", ano: "2013" },
 
   { pdf: "2010_voto-louvor-coppe-sbes-2009.pdf",
     nome: "Voto de Louvor",
-    entidade: "COPPE/UFRJ", ano: "2010" },
+    evento: "COPPE/UFRJ", entidade: "COPPE/UFRJ", ano: "2010" },
   { pdf: "2010_wmswm-sbqs-3o-lugar-artigo.pdf",
-    nome: "3o. lugar no VII Workshop de Manutenção de Software Moderna (WMSWM)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2010" },
+    nome: "3o. lugar",
+    evento: "WMSWM", entidade: "SBC", ano: "2010" },
 
   { pdf: "2009_sbes-melhor-artigo.pdf",
-    nome: "Melhor Artigo do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2009" },
+    nome: "Melhor Artigo",
+    evento: "SBES", entidade: "SBC", ano: "2009" },
 
   { pdf: "2007_voto-louvor-coppe-sbes-2006.pdf",
     nome: "Voto de Louvor",
-    entidade: "COPPE/UFRJ", ano: "2007" },
+    evento: "COPPE/UFRJ", entidade: "COPPE/UFRJ", ano: "2007" },
   { pdf: "2007_ctd-sbqs-1o-lugar-tese.pdf",
-    nome: "1o. lugar na categoria Tese de Doutorado no Concurso de Teses e Dissertações em Qualidade de Software (CTD-QS) do Simpósio Brasileiro de Qualidade de Software (SBQS)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2007" },
+    nome: "1o. lugar (Doutorado)",
+    evento: "CTDQS", entidade: "SBC", ano: "2007" },
 
   { pdf: "2006_ase-distinguished-paper.pdf",
-    nome: "ACM SIGSOFT Distinguished Paper Award - International Conference on Automated Software Engineering (ASE)",
-    entidade: "ACM", ano: "2006" },
+    nome: "Distinguished Paper",
+    evento: "ASE", entidade: "ACM", ano: "2006" },
   { pdf: "2006_sbes-sessao-ferramentas-1o-lugar.pdf",
-    nome: "1o. lugar na Sessão de Ferramentas do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2006" },
+    nome: "1o. lugar (Ferramentas)",
+    evento: "SBES", entidade: "SBC", ano: "2006" },
 
   { pdf: "2004_sbes-sessao-ferramentas-indicacao.pdf",
-    nome: "Indicação para premiação na Seção de Ferramentas do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2004" },
+    nome: "Indicação (Ferramentas)",
+    evento: "SBES", entidade: "SBC", ano: "2004" },
 
   { pdf: "2002_sbes-sessao-ferramentas-2o-lugar.pdf",
-    nome: "2o. lugar na Sessão de Ferramentas do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2002" },
+    nome: "2o. lugar (Ferramentas)",
+    evento: "SBES", entidade: "SBC", ano: "2002" },
 
   { pdf: "2001_sbes-sessao-ferramentas-1o-lugar.pdf",
-    nome: "1o. lugar na Sessão de Ferramentas do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2001" },
+    nome: "1o. lugar (Ferramentas)",
+    evento: "SBES", entidade: "SBC", ano: "2001" },
 
   { pdf: "2000_sbes-sessao-ferramentas-1o-lugar.pdf",
-    nome: "1o. lugar na Sessão de Ferramentas do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "2000" },
+    nome: "1o. lugar (Ferramentas)",
+    evento: "SBES", entidade: "SBC", ano: "2000" },
 
   { pdf: "1998_sbes-sessao-ferramentas-1o-lugar.pdf",
-    nome: "1o. lugar na categoria Programas Utilitários na Sessão de Ferramentas do Simpósio Brasileiro de Engenharia de Software (SBES)",
-    entidade: "Sociedade Brasileira de Computação (SBC)", ano: "1998" },
+    nome: "1o. lugar (Ferramentas)",
+    evento: "SBES", entidade: "SBC", ano: "1998" },
 ]
 %>
 
@@ -141,13 +139,15 @@ awards = [
      pdf_url   = context.tag(:relocatable, "awards/#{a[:pdf]}")
      thumb_url = context.tag(:relocatable, "awards/thumbnails/#{a[:pdf].sub(/\.pdf\z/, '.jpg')}")
 %>
-  <a class="award-tile" href="<%= pdf_url %>" target="_blank" rel="noopener">
-    <img src="<%= thumb_url %>" alt="<%= a[:nome] %>" title="<%= a[:nome] %>"/>
+  <div class="award-tile">
+    <a href="<%= pdf_url %>" target="_blank" rel="noopener">
+      <img src="<%= thumb_url %>" alt="<%= a[:nome] %>" title="<%= a[:nome] %>"/>
+    </a>
     <div class="award-caption">
       <%= a[:nome] %><br/>
-      <%= a[:entidade] %><br/>
-      <span class="award-year"><%= a[:ano] %></span>
+      <%= a[:evento] %> <%= a[:ano] %><br/>
+      <%= a[:entidade] %>
     </div>
-  </a>
+  </div>
 <% end %>
 </div>
