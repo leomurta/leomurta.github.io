@@ -5,7 +5,7 @@ sort_info: 4
 ---
 
 <style>
-.awards-mosaic { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-start; }
+.awards-mosaic { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
 .award-tile {
   width: 220px;
   display: flex;
@@ -72,6 +72,10 @@ awards = [
     nome: "1o. lugar (Doutorado)",
     evento: "CTD SBGames", entidade: "SBC", ano: "2019" },
 
+  { pdf: "2017_sbgames-melhor-artigo-trilha-computacao.pdf",
+    nome: "Melhor Artigo (Computação)",
+    evento: "SBGames", entidade: "SBC", ano: "2017" },
+
   { pdf: "2016_premio-uff-teses-2015-silvajunior-coorientador.pdf",
     nome: "1o. lugar (Doutorado)",
     evento: "Prêmio UFF de Teses", entidade: "UFF", ano: "2016" },
@@ -86,6 +90,13 @@ awards = [
   { pdf: "2013_ctd-sbqs-2o-lugar.pdf",
     nome: "2o. lugar (Mestrado)",
     evento: "CTDQS", entidade: "SBC", ano: "2013" },
+
+  { pdf: "2012_ctdqs-sbqs-1o-lugar-doutorado-ahilton.pdf",
+    nome: "1o. lugar (Doutorado)",
+    evento: "CTDQS", entidade: "SBC", ano: "2012" },
+  { pdf: "2012_ctdqs-sbqs-1o-lugar-mestrado-gleiph.pdf",
+    nome: "1o. lugar (Mestrado)",
+    evento: "CTDQS", entidade: "SBC", ano: "2012" },
 
   { pdf: "2010_voto-louvor-coppe-sbes-2009.pdf",
     nome: "Voto de Louvor",
