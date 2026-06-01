@@ -4,7 +4,7 @@ GEM
     cmdparse (3.0.7)
     kramdown (2.4.0)
       rexml
-    rexml (3.2.6)
+    rexml (3.4.4)
     systemu (2.6.5)
     webgen (1.7.2)
       cmdparse (~> 3.0, >= 3.0.1)
