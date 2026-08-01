@@ -2,21 +2,38 @@ GEM
   remote: https://rubygems.org/
   specs:
     cmdparse (3.0.7)
-    kramdown (2.4.0)
-      rexml
+    date (3.5.1)
+    kramdown (2.5.2)
+      rexml (>= 3.4.4)
+    psych (5.4.0)
+      date
+      stringio
     rexml (3.4.4)
+    stringio (3.2.0)
     systemu (2.6.5)
-    webgen (1.7.2)
+    webgen (1.7.3)
       cmdparse (~> 3.0, >= 3.0.1)
       kramdown (~> 2.3)
+      psych (~> 5.1)
       systemu (~> 2.5)
 
 PLATFORMS
-  arm64-darwin-21
-  x86_64-linux
+  arm64-darwin-25
+  ruby
 
 DEPENDENCIES
   webgen
 
+CHECKSUMS
+  bundler (4.0.17) sha256=214e21431b5665dd2f99df8a5511c6b151d7a72e8015c8b38f8b775b61cbb6c1
+  cmdparse (3.0.7) sha256=f7c5cace10bec6abf853370ae095e4b97a84ed9d847b3fb38f41cc4fbc950739
+  date (3.5.1) sha256=750d06384d7b9c15d562c76291407d89e368dda4d4fff957eb94962d325a0dc0
+  kramdown (2.5.2) sha256=1ba542204c66b6f9111ff00dcc26075b95b220b07f2905d8261740c82f7f02fa
+  psych (5.4.0) sha256=14f72d69a611af663d7d70e4a7b67d9eb1f3ae9f8d916b478961d5a0075ba5b7
+  rexml (3.4.4) sha256=19e0a2c3425dfbf2d4fc1189747bdb2f849b6c5e74180401b15734bc97b5d142
+  stringio (3.2.0) sha256=c37cb2e58b4ffbd33fe5cd948c05934af997b36e0b6ca6fdf43afa234cf222e1
+  systemu (2.6.5) sha256=01f7d014b1453b28e5781e15c4d7d63fc9221c29b174b7aae5253207a75ab33e
+  webgen (1.7.3) sha256=9a4f7c796540fb9a3dfbe6390047682a3221d4ee0dbcc41ec7e3745fb76d6d46
+
 BUNDLED WITH
-   2.4.19
+  4.0.17
