@@ -45,7 +45,7 @@ Obs.: Nenhum aluno poderá sair da sala nos primeiros 30 minutos de prova. Depoi
 
 ### Trabalho
 
-O curso terá um trabalho em grupo de 4 a 5 participantes (8 grupos no total), que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso.
+O curso terá um trabalho em grupos de 7 a 8 participantes (8 grupos no total), que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso.
 
 Cada grupo deve, preferencialmente na primeira semana de aula, escolher um sistema como tema do seu trabalho. Esse sistema pode ser o Projeto de Aplicação de algum membro do grupo, um sistema legado do estágio de um dos membros do grupo, um sistema existente na internet ou qualquer outro sistema que não tenha documentação de análise e projeto acessível aos membros do grupo. A escolha deve ser apresentada ao professor para aprovação.
 
@@ -103,38 +103,40 @@ Além desses livros, há materiais online e cursos a distância de engenharia de
 {: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
 | Data | Atividade | Entrega
 |---
-| 09/03/2026 | Aula - [Apresentação do curso](/courses/es1/aula1-2026-1.pdf) | 
-| 11/03/2026 | Aula - [Introdução à ES](/courses/es1/aula2.pdf) | 
-| 16/03/2026 | Aula - [Introdução à ES](/courses/es1/aula2.pdf) | 
-| 18/03/2026 | Aula - [Revisão de POO](/courses/es1/aula3.pdf) | 
-| 23/03/2026 | Aula - [Modelagem](/courses/es1/aula4.pdf) | 
-| 25/03/2026 | Aula - [Engenharia de Requisitos](/courses/es1/aula5.pdf) | 
-| 30/03/2026 | Aula - [Engenharia de Requisitos](/courses/es1/aula5.pdf) | 
-| 01/04/2026 | Aula - [Casos de Uso](/courses/es1/aula6.pdf) | 
-| 06/04/2026 | Aula - [Casos de Uso](/courses/es1/aula6.pdf) | 
-| 08/04/2026 | <span style="color:green">Apresentações de trabalhos (1a. rodada) - grupos 1 a 4</span> | Slides (submeter no mural do [Google Classroom])
-| 13/04/2026 | <span style="color:green">Apresentações de trabalhos (1a. rodada) - grupos 5 a 7</span> | Slides (submeter no mural do [Google Classroom])
-| 15/04/2026 | <span style="color:red">Sem aula (ICSE)</span> | 
-| 20/04/2026 | <span style="color:red">Sem aula (ponto facultativo)</span> | 
-| 22/04/2026 | Aula - Dúvidas | Listas 1 a 5 (submeter via atividade no [Google Classroom])
-| 27/04/2026 | <span style="color:blue">Prova 1</span> |
-| 29/04/2026 | Aula - [Diagrama de Classes](/courses/es1/aula7.pdf) | 
-| 04/05/2026 | Aula - [Diagrama de Classes](/courses/es1/aula7.pdf) | 
-| 06/05/2026 | Aula - [Diagrama de Classes](/courses/es1/aula7.pdf) | 
-| 11/05/2026 | <span style="color:green">Apresentações de trabalhos (2a. rodada) - grupos 1 a 4</span> | Slides (submeter no mural do [Google Classroom])
-| 13/05/2026 | <span style="color:green">Apresentações de trabalhos (2a. rodada) - grupos 5 a 7</span> | Slides (submeter no mural do [Google Classroom])
-| 18/05/2026 | Aula - [Diagrama de Transição de Estados](/courses/es1/aula8.pdf) | 
-| 20/05/2026 | Aula - [Diagrama de Transição de Estados](/courses/es1/aula8.pdf) | 
-| 25/05/2026 | Aula - [Diagrama de Atividades](/courses/es1/aula9.pdf) | 
-| 27/05/2026 | Aula - [Diagrama de Sequência](/courses/es1/aula10.pdf) | 
-| 01/06/2026 | Aula - [Outros Diagramas](/courses/es1/aula11.pdf) | 
-| 03/06/2026 | <span style="color:red">Sem aula</span> |
-| 08/06/2026 | <span style="color:green">Apresentações de trabalhos (3a. rodada) - grupos 1 a 4</span> | Slides (submeter no mural do [Google Classroom])
-| 10/06/2026 | <span style="color:green">Apresentações de trabalhos (3a. rodada) - grupos 5 a 7</span> | Slides (submeter no mural do [Google Classroom]) <br> Listas 6 a 9 (submeter via atividade no [Google Classroom])
-| 15/06/2026 | <span style="color:blue">Prova 2</span> | 
-| 17/06/2026 | <span style="color:blue">Segunda chamada</span> | 
-| 22/06/2026 | <span style="color:red">Sem aula</span> | 
-| 24/06/2026 | <span style="color:red">Sem aula (São João)</span> | 
-| 29/06/2026 | <span style="color:red">Vista de prova de 9h às 10h na sala 433 (opcional)</span> | 
-| 01/07/2026 | <span style="color:blue">Verificação suplementar</span> | 
-| 06/07/2026 | <span style="color:red">Vista de prova de 9h às 10h na sala 433 (opcional)</span> | 
+| 03/08/2026 | Aula - [Apresentação do curso](/courses/es1/aula1-2026-2.pdf) | 
+| 05/08/2026 | Aula | 
+| 10/08/2026 | Aula | 
+| 12/08/2026 | Aula | 
+| 17/08/2026 | Aula | 
+| 19/08/2026 | Aula | 
+| 24/08/2026 | Aula | 
+| 26/08/2026 | Aula | 
+| 31/08/2026 | Aula | Listas 1 a 5 (submeter via atividade no [Google Classroom])
+| 02/09/2026 | <span style="color:blue">Prova 1</span> | 
+| 07/09/2026 | <span style="color:red">Sem aula (Independência)</span> | 
+| 09/09/2026 | <span style="color:red">Sem aula (CBSoft)</span> | 
+| 14/09/2026 | <span style="color:green">Apresentações de trabalhos (1a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 16/09/2026 | <span style="color:green">Apresentações de trabalhos (1a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 21/09/2026 | Aula | 
+| 23/09/2026 | Aula | 
+| 28/09/2026 | Aula | 
+| 30/09/2026 | Aula | 
+| 05/10/2026 | <span style="color:green">Apresentações de trabalhos (2a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 07/10/2026 | <span style="color:green">Apresentações de trabalhos (2a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 12/10/2026 | <span style="color:red">Sem aula (Nossa Senhora Aparecida)</span> | 
+| 14/10/2026 | Aula | 
+| 19/10/2026 | Aula | 
+| 21/10/2026 | Aula | 
+| 26/10/2026 | <span style="color:red">Sem aula (Agenda Acadêmica)</span> | 
+| 28/10/2026 | <span style="color:red">Sem aula (Agenda Acadêmica)</span> | 
+| 02/11/2026 | <span style="color:red">Sem aula (Finados)</span> | 
+| 04/11/2026 | Aula | 
+| 09/11/2026 | Aula | Listas 6 a 9 (submeter via atividade no [Google Classroom])
+| 11/11/2026 | <span style="color:blue">Prova 2</span> | 
+| 16/11/2026 | <span style="color:blue">Segunda chamada</span> | 
+| 18/11/2026 | <span style="color:red">Sem aula</span> | 
+| 23/11/2026 | <span style="color:green">Apresentações de trabalhos (3a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 25/11/2026 | <span style="color:green">Apresentações de trabalhos (3a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 30/11/2026 | <span style="color:red">Vista de prova de 9h às 10h na sala 433 (opcional)</span> | 
+| 02/12/2026 | <span style="color:blue">Verificação suplementar</span> | 
+| 07/12/2026 | <span style="color:red">Vista de prova de 9h às 10h na sala 433 (opcional)</span> | 

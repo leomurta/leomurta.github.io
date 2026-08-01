@@ -27,7 +27,7 @@ Ambiente virtual: [Google Classroom](https://classroom.google.com/)
 
 ### Avaliação
 
-$$ Media = \frac{2 \times \text{Prova 1} + 2 \times \text{Prova 2} + \text{Trabalho}}{5} $$
+$$ Média = \frac{2 \times \text{Prova 1} + 2 \times \text{Prova 2} + \text{Trabalho}}{5} $$
 
 **APROVADO**
 
@@ -84,7 +84,7 @@ Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Nã
 * Fowler, M.; 2003. UML Distilled: A Brief Guide to the Standard Object Modeling Language. 3rd ed. Addison-Wesley Professional.
 * Larman, C.; 2007. Utilizando UML e Padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. Bookman
 * McLaughlin, B. D.; Pollice, G.; West, D.; 2006. Head First Object-Oriented Analysis and Design. illustrated edition. O'Reilly Media, Inc.
-* Pilone, D.; Russ, M.; 2008. Head First Software Development. illustrated edition. O'Reilly Media, Inc.
+* Pilone, D.; Miles, R.; 2008. Head First Software Development. illustrated edition. O'Reilly Media, Inc.
 * Pressman, R. S.; 2004. Software Engineering: A Practitioner's Approach. 6 ed. McGraw-Hill.
 
 Além desses livros, há materiais online e cursos a distância de engenharia de software que podem ser úteis:

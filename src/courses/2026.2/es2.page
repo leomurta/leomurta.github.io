@@ -45,19 +45,19 @@ Obs.: Nenhum aluno poderá sair da sala nos primeiros 30 minutos de prova. Depoi
 
 ### Trabalho
 
-O curso terá um trabalho feito em grupos de 7 participantes (8 grupos no total), que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso. 
+O curso terá um trabalho feito em grupos de 6 a 7 participantes (8 grupos no total), que devem ser constituídos preferencialmente na primeira semana de aula e ter a mesma formação até o final do curso. 
 
-Cada grupo deve se enxergar como uma pequena software house. O tema do trabalho consiste em fazer um [jogo War](https://pt.wikipedia.org/wiki/War). É esperado que os grupos, durante o decorrer do curso, utilizem as técnicas aprendidas para gerenciar o projeto e desenvolver o produto. Será avaliado o produto final e como esse produto foi desenvolvido (processos e técnicas aplicados). O produto final deve ser disponibilizado publicamente, com licença aberta (sugiro [licença MIT](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)).
+Cada grupo deve se enxergar como uma pequena software house. O tema do trabalho consiste em fazer um [jogo de Xadrez](https://pt.wikipedia.org/wiki/Xadrez) onde o usuário possa jogar contra o computador. É esperado que os grupos, durante o decorrer do curso, utilizem as técnicas aprendidas para gerenciar o projeto e desenvolver o produto. Será avaliado o produto final e como esse produto foi desenvolvido (processos e técnicas aplicados). O produto final deve ser disponibilizado publicamente, com licença aberta (sugiro [licença MIT](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)).
 
 Desde o início do trabalho, os grupos devem registrar as tarefas alocadas para cada membro do grupo, assim como as horas previstas para realização da tarefa e as horas efetivamente realizadas na tarefa. Essa informação será fundamental para viabilizar o Monitoramento e Controle do projeto. Além disso, apesar da matéria de testes ser dada somente no final do curso, escolham um [framework de testes de unidade](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks) popular para a linguagem de programação adotada pelo grupo e iniciem a escrita dos testes desde já. 
 
-Foram reservados 3 momentos para apresentações de 15 minutos por grupo. O grupo deve utilizar slides nas apresentações e publicar esses slides no mural do [Google Classroom] no dia das apresentações. 
+Foram reservados 3 momentos para apresentações de 15 a 20 minutos por grupo. O grupo deve utilizar slides nas apresentações e publicar esses slides no mural do [Google Classroom] no dia das apresentações. 
 
 A **primeira apresentação** deve conter o escopo do produto (requisitos) e do projeto (EAP), as estimativas de esforço (tanto via APF quanto via Planning Poker sobre os pacotes de trabalho da EAP), o custo, o orçamento e o cronograma de desenvolvimento (Gantt). Também deve apresentar a análise de riscos (listagem, probabilidade x impacto, priorização pela exposição e planos de contenção e contingência) e os dados de monitoramento e controle do projeto (Burndown dentro de cada iteração e Análise de Valor Agregado ao final de cada iteração). Por fim, deve ser apresentada a versão parcial do produto feita até então (demo).
 
-A **segunda apresentação** deve conter o controle de versões (e.g., Git) e controle de modificações (e.g., GitHub Issues) usados no projeto, a estratégia de ramificação adotada e o endereço do repositório. Será considerado um bônus usar Pull Request com aprovações e integração contínua (e.g., GitHub Actions). Vale ressaltar que o repositório de controle de versões deve conter todos os artefatos produzidos durante o trabalho. Por fim, devem ser apresentados os dados de monitoramento e controle do projeto (conforme descrito anteriormente) e a versão parcial do produto feita até então (demo).
+A **segunda apresentação** deve conter o controle de versões (e.g., Git) e controle de modificações (e.g., GitHub Issues) usados no projeto, a estratégia de ramificação adotada e o endereço do repositório. Também é esperado que o grupo use Pull Request com aprovações e integração contínua (e.g., GitHub Actions). Vale ressaltar que o repositório de controle de versões deve conter todos os artefatos produzidos durante o trabalho. Por fim, devem ser apresentados os dados de monitoramento e controle do projeto (conforme descrito anteriormente) e a versão parcial do produto feita até então (demo).
 
-A **terceira apresentação** deve conter como foram feitos os testes de unidade, integração, sistema e aceitação (alfa e beta) no projeto (casos e resultados dos testes). Por fim, devem ser apresentados os dados de monitoramento e controle do projeto (conforme descrito anteriormente) e a versão final do produto (demo). Caso o grupo deseje que o professor pondere a nota por membro do grupo, deve ser informada nesta apresentação a participação de cada membro do grupo no trabalho (PV e EV de cada membro). 
+A **terceira apresentação** deve conter como foram feitos os testes de unidade, integração, sistema e aceitação (alfa e beta) no projeto (casos e resultados dos testes), assim como reportar a cobertura dos testes. Por fim, devem ser apresentados os dados de monitoramento e controle do projeto (conforme descrito anteriormente) e a versão final do produto (demo). Caso o grupo deseje que o professor pondere a nota por membro do grupo, deve ser informada nesta apresentação a participação de cada membro do grupo no trabalho (PV e EV de cada membro). 
 
 Essas apresentações serão avaliadas pela sua completude e corretude e capacidade de argumentação em relação às decisões tomadas. Essas decisões devem ser fundamentadas nos princípios estudados durante o curso. Essas apresentações e entregas devem ser feitas nas datas estipuladas na seção Cronograma. 
 
@@ -97,38 +97,40 @@ Visando um maior aprofundamento, as aulas foram baseadas em diversos livros. Nã
 {: style="border-collapse: collapse; width: 100%; text-align: center;" border="1"}
 | Data | Atividade | Entrega
 |---
-| 18/08/2025 | Aula - [Apresentação do curso](/courses/es2/aula1-2025-2.pdf) | 
-| 20/08/2025 | Aula - [Processo de Desenvolvimento de Software](/courses/es2/aula2.pdf) | 
-| 25/08/2025 | Aula - [Processo de Desenvolvimento de Software](/courses/es2/aula2.pdf) | 
-| 27/08/2025 | Aula - [Planejamento de Projetos](/courses/es2/aula3.pdf) | 
-| 01/09/2025 | Aula - [Planejamento de Projetos](/courses/es2/aula3.pdf) | 
-| 03/09/2025 | Aula - [Planejamento de Projetos](/courses/es2/aula3.pdf) | 
-| 08/09/2025 | Aula - [Planejamento de Projetos](/courses/es2/aula3.pdf) | 
-| 10/09/2025 | Aula - [Gerência de Risco](/courses/es2/aula3a.pdf) e [Monitoramento e Controle](/courses/es2/aula4.pdf) | 
-| 15/09/2025 | Aula - [Gerênciamento Ágil](/courses/es2/aula4a.pdf) | 
-| 17/09/2025 | Aula | 
-| 22/09/2025 | <span style="color:green">Apresentações de trabalhos (1a. rodada) - grupos 1 a 4 </span> | Slides (submeter no mural do [Google Classroom]) 
-| 24/09/2025 | <span style="color:green">Apresentações de trabalhos (1a. rodada) - grupos 5 a 8 </span> | Slides (submeter no mural do [Google Classroom]) <br/> Listas 1 a 4 (submeter via atividade no [Google Classroom]) |
-| 29/09/2025 | <span style="color:blue">Prova 1</span> | 
-| 01/10/2025 | Aula (início às 7h30) - [Gerência de Configuração](/courses/es2/aula5.pdf) | 
-| 06/10/2025 | Aula - [Gerência de Configuração](/courses/es2/aula5.pdf) | 
-| 08/10/2025 | Aula - [Gerência de Configuração](/courses/es2/aula5.pdf) | 
-| 13/10/2025 | Aula - [Git](/courses/es2/aula5a.pdf) | 
-| 15/10/2025 | <span style="color:red">Sem aula (dia do professor)</span> | 
-| 20/10/2025 | <span style="color:red">Sem aula (agenda acadêmica)</span> | 
-| 22/10/2025 | <span style="color:red">Sem aula (agenda acadêmica)</span> | 
-| 27/10/2025 | <span style="color:red">Sem aula (dia do servidor público)</span> | 
-| 29/10/2025 | <span style="color:green">Apresentações de trabalhos (2a. rodada) - grupos 1 a 4</span> | Slides (submeter no mural do [Google Classroom])
-| 03/11/2025 | <span style="color:green">Apresentações de trabalhos (2a. rodada) - grupos 5 a 8</span> | Slides (submeter no mural do [Google Classroom])
-| 05/11/2025 | Aula - [Verificação, Validação e Testes](/courses/es2/aula6.pdf)  | 
-| 10/11/2025 | Aula - [Verificação, Validação e Testes](/courses/es2/aula6.pdf) | 
-| 12/11/2025 | Aula - [Garantia da Qualidade, Medição e Melhoria](/courses/es2/aula7.pdf) | 
-| 17/11/2025 | Aula - [Manutenção de Software](/courses/es2/aula8.pdf) | 
-| 19/11/2025 | Aula | Listas 5 a 7 (submeter via atividade no [Google Classroom]) 
-| 24/11/2025 | <span style="color:blue">Prova 2</span> | 
-| 26/11/2025 | <span style="color:blue">Segunda chamada</span> | 
-| 01/12/2025 | <span style="color:green">Apresentações de trabalhos (3a. rodada) - grupos 1 a 4</span> | Slides (submeter no mural do [Google Classroom])
-| 03/12/2025 | <span style="color:green">Apresentações de trabalhos (3a. rodada) - grupos 5 a 8</span> | Slides (submeter no mural do [Google Classroom]) 
-| 08/12/2025 | <span style="color:red">Vista de prova de 7h às 8h na sala 433 (opcional)</span> | 
-| 10/12/2025 | <span style="color:blue">Verificação suplementar</span> | 
-| 15/12/2025 | <span style="color:red">Vista de prova de 8h30 às 9h na sala 433 (opcional)</span> |
+| 03/08/2026 | Aula - [Apresentação do curso](/courses/es2/aula1-2026-2.pdf) |
+| 05/08/2026 | Aula | 
+| 10/08/2026 | Aula | 
+| 12/08/2026 | Aula | 
+| 17/08/2026 | Aula | 
+| 19/08/2026 | Aula | 
+| 24/08/2026 | Aula | 
+| 26/08/2026 | Aula | 
+| 31/08/2026 | Aula | Listas 1 a 4 (submeter via atividade no [Google Classroom])
+| 02/09/2026 | <span style="color:blue">Prova 1</span> | 
+| 07/09/2026 | <span style="color:red">Sem aula (Independência)</span> | 
+| 09/09/2026 | <span style="color:red">Sem aula (CBSoft)</span> | 
+| 14/09/2026 | <span style="color:green">Apresentações de trabalhos (1a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 16/09/2026 | <span style="color:green">Apresentações de trabalhos (1a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 21/09/2026 | Aula | 
+| 23/09/2026 | Aula | 
+| 28/09/2026 | Aula | 
+| 30/09/2026 | Aula | 
+| 05/10/2026 | <span style="color:green">Apresentações de trabalhos (2a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 07/10/2026 | <span style="color:green">Apresentações de trabalhos (2a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 12/10/2026 | <span style="color:red">Sem aula (Nossa Senhora Aparecida)</span> | 
+| 14/10/2026 | Aula | 
+| 19/10/2026 | Aula | 
+| 21/10/2026 | Aula | 
+| 26/10/2026 | <span style="color:red">Sem aula (Agenda Acadêmica)</span> | 
+| 28/10/2026 | <span style="color:red">Sem aula (Agenda Acadêmica)</span> | 
+| 02/11/2026 | <span style="color:red">Sem aula (Finados)</span> | 
+| 04/11/2026 | Aula | 
+| 09/11/2026 | Aula | Listas 5 a 7 (submeter via atividade no [Google Classroom])
+| 11/11/2026 | <span style="color:blue">Prova 2</span> | 
+| 16/11/2026 | <span style="color:blue">Segunda chamada</span> | 
+| 18/11/2026 | <span style="color:red">Sem aula</span> | 
+| 23/11/2026 | <span style="color:green">Apresentações de trabalhos (3a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 25/11/2026 | <span style="color:green">Apresentações de trabalhos (3a. rodada)</span> | Slides (submeter no mural do [Google Classroom])
+| 30/11/2026 | <span style="color:red">Vista de prova de 7h às 8h na sala 433 (opcional)</span> | 
+| 02/12/2026 | <span style="color:blue">Verificação suplementar</span> | 
+| 07/12/2026 | <span style="color:red">Vista de prova de 7h às 8h na sala 433 (opcional)</span> | 
