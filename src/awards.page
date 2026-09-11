@@ -35,6 +35,13 @@ sort_info: 4
 
 <%
 awards = [
+  { pdf: "2026_sbes-distinguished-paper.pdf",
+    nome: "Artigo de Destaque (Trilha de Pesquisa)",
+    evento: "SBES", entidade: "SBC", ano: "2026" },
+  { pdf: "2026_ctd-es-tres-melhores-teses-camposjunior.pdf",
+    nome: "Três Melhores Teses de Doutorado",
+    evento: "CTD-ES", entidade: "SBC", ano: "2026" },
+
   { pdf: "2023_homenagem-engenharia-software-cees.pdf",
     nome: "Reconhecimento pela Comunidade de ES",
     evento: "CEES", entidade: "SBC", ano: "2023" },
